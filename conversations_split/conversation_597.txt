@@ -1,0 +1,5 @@
+Customer: Kabul to Kingston, 11 adults
+Customer Service Agent (CSA): Sorry, I dont have any results
+Customer: Do you do flights out of KAbul?
+Customer Service Agent (CSA): no im sorry!
+

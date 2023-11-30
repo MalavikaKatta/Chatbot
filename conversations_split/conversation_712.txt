@@ -1,0 +1,14 @@
+Customer: i have a modest and polite request for you to send me from sapporo to punta cana
+Customer Service Agent (CSA): Sorry, where will you be departing?
+Customer: I would like to depart from Sapporo and arrive at Punta Cana. Between August 29 and Sept 1
+This is a short trip for 13 adults
+Customer Service Agent (CSA): Great! Just one adult traveller?
+Customer: And we have 3200 to spare between us
+Customer Service Agent (CSA): Oh! ok, sorry. I’ll get right on that. Are your dates flexible at all?
+Customer: I am unfortunately not.
+Customer Service Agent (CSA): And you would like to pay 3200 dollars for all 13 adults?
+Customer: Did I stutter???
+Customer Service Agent (CSA): I’m sorry, I cannot offer you any packages within these parameters.
+Customer: What if I upped it to 3500 instead?
+Customer Service Agent (CSA): Still nothing, I am sorry.
+

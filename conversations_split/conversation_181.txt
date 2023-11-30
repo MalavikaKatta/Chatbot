@@ -1,0 +1,20 @@
+Customer: whats available in atlanta starting august 30th? we're leaving from north vancouver
+Customer Service Agent (CSA): Any budget in mind?
+Customer: 2700 is all we have left over after wedding expenses
+Customer Service Agent (CSA): I have found the place you are looking for, that atlanta USA right?
+Customer: yes yea of course. how much?
+Customer Service Agent (CSA): are your dates flexible, the package i have here start on september 6th
+Customer: no i wanna go the 30th
+Customer Service Agent (CSA): Well then I am sorry, there is nothing available on that date
+Customer: anything available from north vancouver to montreal? we would love to fly from north vancouver to montreal because it sounds like such a logical and reasonable thing to do for our honeymoon :hugging_face:
+Customer Service Agent (CSA): the Illustrious Haven Hotel. 4 stars. Free parking and wifi. Business class. and all for $1234
+Customer: wow - amazing! when do we leave?
+Customer Service Agent (CSA): September 12th
+Customer: ok send me literally anywhere from north vancouver on august 30th for under 2700
+Customer Service Agent (CSA): fine we can do that same hotel just Economy class, leaving on August 30th and returning on the 4th
+Customer: which hotel? how much? What's the hotel like?
+Customer Service Agent (CSA): Same hotel, it will be easily accessible, in total $930
+Customer: ok book it
+Customer Service Agent (CSA): Perfect! it is all done
+Customer: amazing thank you so much
+

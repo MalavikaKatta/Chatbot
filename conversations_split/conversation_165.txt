@@ -1,0 +1,24 @@
+Customer: ayoooo. spring break buddy. I wanna go somewhere nice and cold for spring break :smile: Toronto maybe?
+Customer Service Agent (CSA): Hey there! Where will you be flying out from?
+Customer: We are leaving from Hogsmeade. It is a terrible place and we wanna get awayyyyy
+Customer Service Agent (CSA): How many people will you be traveling with for this trip?
+Customer: Me, Ron, Harry, and Hagrid. 4 of us
+Customer Service Agent (CSA): I can't seem to find any flights leaving Hogsmeade. Do you have another city you could depart from? I could book you a cheap stay in Kyoto if you fly out from Nagoya.
+Customer: I don't wanna go to Kyoto... how about Nagoya to Toronto???
+Customer Service Agent (CSA): I can book you a stay in the Hotel Richard from August 24th to September 2nd. The total cost of this package is 10986.39USD. How does that sound?
+Customer: that's like 11 grand oh my god!! I need to spend like... 1900 or 2900 MAX. Is there anything cheaper to Paris?
+Customer Service Agent (CSA): How about a stay at Paris' Autumn Treasure Hotel from the 27th of August until the 6th of September? At 2789.83USD this falls well within your budget.
+Customer: I just need a package to Toronto for less than 2900
+Customer Service Agent (CSA): I can offer you a package to Toronto which is only 2275.60USD, however your stay would be from the 17th of August to the 27th.
+Customer: ....is there anything to Paris within my dates???
+Customer Service Agent (CSA): Unfortunately I cannot offer you any packages for Paris. Would you like to try another destination?
+Customer: let's try Toronto again. where would we leave from&gt;
+Customer Service Agent (CSA): If you are flexible with your city of departure I can offer you a cheaper Toronto package which leaves from Calgary. Unfortunately this trip is from the 17th to the 24th of August.
+Customer: Ok.... well maybe we'll just miss a few days of class that week. How much is that package?
+Customer Service Agent (CSA): The total cost of this package is 1568.64 USD. It includes a stay in the Hotel Eric Perrier, a 4-star hotel with free breakfast and free wifi. Would you like me to book this package?
+Customer: Wow sweet! That's for the 4 of us?
+Customer Service Agent (CSA): This is a package for four.
+Customer: Great. ok let's book it
+Customer Service Agent (CSA): Done! Your trip has been booked. Enjoy your stay!
+Customer: great tahnk you
+

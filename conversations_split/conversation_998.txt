@@ -1,0 +1,25 @@
+Customer: I have a vacation starting next week, I can hardly contain my excitement Getting out of St. Petersburg for 12 days will be dope. What kind of destinations do you offer?
+Customer Service Agent (CSA): How many will you be?
+Customer: We will be one
+Customer Service Agent (CSA): I have several destinations. May I suggest Rosario? It is very popular at the moment.
+Customer: Could you get something on or shortly after Sept 8?
+Customer Service Agent (CSA): Are you able to leave on Sept 4?
+Customer: Unfortunately my vacation doesn't start until Sept 8
+Customer Service Agent (CSA): I have a Sept 10 departure to Rosario with an 18 day stay at the Sunway Hostel.
+Customer: I really wish I could! But no I don't think I can do that
+Customer Service Agent (CSA): Okay we are going to have to forget about Rosario then. Brazil?
+Customer: I'm down for Brazil!
+Customer Service Agent (CSA):  How about Denver? I have a 12 day package that departs on Sept 9th and returns on the 20th. 4 star hotel, free wifi
+Customer: My only complaint about Denver is that its a little too close to home. And that I hate the local sports team there. Do you have other options for me?
+Customer Service Agent (CSA): For your dates, Denver or Burlington
+Customer: But those are my only two options?
+Customer Service Agent (CSA): yes only 2 on those dates
+Customer: Ok I'll suck it up and go to Denver how's the hotel? i know its 4 star but is it near anything nice
+Customer Service Agent (CSA): I have no information on the location
+Customer: How much does the trip cost?
+Customer Service Agent (CSA): It has a very good guest rating of 8.69/10 and the price is 792.61USD
+Customer: Oh true, I'm actually really glad you told me the guest rating. I think that gives me the confidence to book then
+Customer Service Agent (CSA): I can process the booking for you now if you would like
+Customer: Yes do that
+Customer Service Agent (CSA): Thank you for your booking and enjoy your weekend
+

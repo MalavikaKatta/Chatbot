@@ -1,0 +1,9 @@
+Customer: Naples to Santa Cruz. Leaving Sunday Aug 21
+Budget $2000
+Got anything for me bot?
+Oh and this is for one person
+Customer Service Agent (CSA): Unfortunately there are only flights to Milan, Santiago, and Hamburg.
+Customer: Are there flights from Naples to Santa Cruz on another date?
+Customer Service Agent (CSA): Sorry, no, there are no flights from Naples to Santa Cruz.
+Customer: bye
+

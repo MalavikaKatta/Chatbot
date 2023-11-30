@@ -1,0 +1,14 @@
+Customer: im trying to get to flavourtown aka seattle. i have 4 lawyers coming with me
+Customer Service Agent (CSA): You want to go to Seattle? Would you like me to search for flights to this location?
+Customer: ya duh dude. 5 adults
+and my one children is coming too
+Customer Service Agent (CSA): Perfect, from which city would you be looking to depart from?
+Customer: Sanantososos
+Customer Service Agent (CSA): Unfortunately, we do not have that as a destination. Did you mean "Santos" by any chance?
+Customer: yea oops typo
+Customer Service Agent (CSA): Excellent! Do you have any departure and return dates in mind?
+Customer: no i just need to get there whenever and eat a really good donut and bring my lawyers to sue the idiot who made it
+Customer Service Agent (CSA): We have a trip for five adults departing on August 28, returning on September 7. You would be staying at the Fairyland hotel, a venerable 3.5 hotel near a park, museum, and university. The stay comes with complimentary wifi and parking, with a total trip cost of 11513.68US. Should I book this trip for you?
+Customer: i need to hear about more details. i need options. 
+Customer Service Agent (CSA): Great, I have booked this trip and will be sending a confirmation email to you shortly! Would you like to book another trip with us today?
+

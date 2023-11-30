@@ -1,0 +1,18 @@
+Customer: Good afternoon, I'd like to book a trip with my son from August 18 to August 29. He and I would be leaving from Curitiba. What destinations can you offer?
+Customer Service Agent (CSA): I can offer 11 days in Hamburg for 3550.41USD. You would return on August 28th
+Customer: Goodness that's too expensive. Is there anything you can offer around $2600?
+Customer Service Agent (CSA): I can also offer 10 days in Vancouver, Canada for 4319.83USD, 9 days in Frankfurt for 4615.35USD, or 12 days in Paris for 4771.39USD.
+Customer: Is there anything for 2600USD between the dates of August 18 and August 29th? For less than 10 days?
+Customer Service Agent (CSA): Would you be interested in spending 9 days in Manaus for 1162.21USD?
+Customer: Fantastic! What are the departure and arrival dates?
+Customer Service Agent (CSA): You would depart on Friday, August 19th and return Saturday, August 28th.
+Customer: What is the hotel, and how many stars does it have?
+Customer Service Agent (CSA): The hotel is called Hotel Mundo and has a 2.5 star rating. I can also offer you 5 days at Scarlet Palms Resort, a 3.5 star rating hotel, for 1358.78USD.
+Customer: I like the Scarlet Palms Resort. What are the departure and arrival dates?
+Customer Service Agent (CSA): You will depart Wednesday, August 24th 2016 and return home on Sunday, August 28th 2016.
+Customer: Is there an indoor pool at the hotel?
+Customer Service Agent (CSA): There is free wifi and breakfast at the hotel.
+Customer: Ok I'll book this one.
+Customer Service Agent (CSA): Sure thing. I will book 5 days at the Scarlet Palms resort for one adult and one child. Thank you.
+Customer: Thank you!
+

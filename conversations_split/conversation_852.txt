@@ -1,0 +1,13 @@
+Customer: Hi, i want to go to Nagoya from Seoul with my wife and son
+Customer Service Agent (CSA): Oceanside Resort for 1630.5USD. You will stay 9 days
+Customer: is that the only package?
+Customer Service Agent (CSA): You can stay for 7 days instead for  1630.5USD
+Customer: okay. Can i hear what you have for Guadalajara?
+Customer Service Agent (CSA): Excursion Inn for 15 days at a cost of 5100 dollars
+Customer: nope cant afford that one. actually do you have any packages to nagoya for 1300
+Customer Service Agent (CSA): No
+Customer: any for Guadala
+Customer Service Agent (CSA): No
+Customer: bye. thanks anyway
+Customer Service Agent (CSA): Goodbye
+

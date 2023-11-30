@@ -1,0 +1,26 @@
+Customer: Toronto to San Diego
+Customer Service Agent (CSA): How many of you will be going and for how long?
+Customer: 1 and depends on how long your stays are
+Customer Service Agent (CSA): Do you have a budget in mind?
+Customer: $3,700
+Customer Service Agent (CSA): Do you have a preference for a hotel? Our best one is 3 stars as part of a 9 day package. How does that sound?
+Customer: Anything better? In Atlanta?
+Customer Service Agent (CSA): The best we have is a 3.5 star hotel for 10 days with a 8.8/10 guest rating. Are you interested?
+Customer: What would would the price on this one be for 3 adults?
+Customer Service Agent (CSA): I'm afraid I don't have this hotel for 10 days for 3 adults, but I do have it for 4 days. Would you be interested in that? I also have a 10 day package for 3 adults at a 3.5 star hotel but with no guest rating. What do you think?
+Customer: How much for 4 days business class? For 3 adults
+Customer Service Agent (CSA): 3396.53. Would you like to book this?
+Customer: Can you check what you have in Stuttgart for 1 person under $3700?
+Customer Service Agent (CSA): I certainly can! There's a 3 star hotel for 7 days, costing at 2085.43 for economy and 2652.29 for business. Does this interest you?
+Customer: I think I will take the one in San Diego but would like more info before I finalize things.
+Customer Service Agent (CSA): Great choice! The San Diego package offers free breakfast, free parking and free wifi at a 3 star hotel with a guest rating of 8.86/10 and a park nearby, all of it coming to a grand total of 2135.65 for economy class and 2541.90 for business, and this is for all of 3 of you . Does this please you?
+Customer: San Diego would just be for me actually. I will meet the investors there.
+Customer Service Agent (CSA): Ready to proceed with booking?
+Customer: How much for just me then?
+Customer Service Agent (CSA): 711.88 for economy and 847.30 for business class.
+Customer: Okay let's go with business then.
+Customer Service Agent (CSA): For just one person
+Customer: yes
+Customer Service Agent (CSA): It's been booked! Enjoy your trip to San Diego.
+Customer: Thank you
+

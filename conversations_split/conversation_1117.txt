@@ -1,0 +1,9 @@
+Customer: tofino from Santo domingo stat
+Customer Service Agent (CSA): Ho many?
+Customer: oh ok, just me
+Customer Service Agent (CSA): I have nothing to tofino from Santo Domingo
+Customer: How bout to London?
+Customer Service Agent (CSA): I have nothing to London from Santo domingo
+Customer: How bout to Santa Cruz
+Customer Service Agent (CSA): Nothing from Santo Domingo to Santa Cruz
+

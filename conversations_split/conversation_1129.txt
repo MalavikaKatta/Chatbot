@@ -1,0 +1,33 @@
+Customer: Hi there I'm looking for a trip for me and my assistant.
+Customer Service Agent (CSA): Ok! Where would you like to go?
+Customer: There are a few places but I do have a budget of 2300. I'm thinking Belo Horizonte.
+Customer Service Agent (CSA): Where would you like to leave from?
+Customer: Anywhere really. Doesn't matter!
+Customer Service Agent (CSA): Ah, ok. When would you like to go?
+Customer: Sometime between Thursday September 8 and Tuesday September 27, and preferably a trip that lasts at least 4 days or more.
+Customer Service Agent (CSA): I have several beach side hotels available in Belo Horizonte for you within your budget.
+Customer: Leaving from where?
+Customer Service Agent (CSA): Goinania, Porto Alegre, Santo Domingo, or Maceio.
+Customer: Do you have hotels near a park? I need a park to walk the dog.
+Customer Service Agent (CSA): They are all near beaches.
+Customer: In that case, can I try another destination then?
+Customer Service Agent (CSA): Ok. Where?
+Customer: Again, I'm looking for a hotel near a park in Berlin.
+Customer Service Agent (CSA): I have many hotels near museums in Berlin. Does that interest you?
+Customer: No, I want a hotel near a park.
+Customer Service Agent (CSA): Sorry, I don’t see any in Berlin.
+Customer: I hear Toronto is a good city.
+Customer Service Agent (CSA): Unfortunately I am only seeing trips for one hotel in Toronto and it is not near a park. I am limited in the amount of results I can fetch; if you could suggest a departure city it would be very helpful to narrow down the selection.
+Customer: In that case, I'll try Belo Horizonte again. At least I can take the dog to the beach. What's the most highly rated hotel you have in Belo Horizonte?
+Customer Service Agent (CSA): The only hotel I can see in Belo Horizonte is 2.5 stars. Do you have a maximum length of stay?
+Customer: No, as long as it fits my budget. And is within those dates I gave you earlier.
+Customer Service Agent (CSA): Ok. I can book 17 days for two adults at Tranquil Season Hotel for only 1332.83USD.
+Customer: What are the departure and return dates for that, and where is it leaving from?
+Customer Service Agent (CSA): You would leave from Porto on September 9th and return on the 25th.
+Customer: Can you tell me more about what this package includes please?
+Customer Service Agent (CSA): It is a 2.5 star hotel with free breakfast, free wifi, and free parking.
+Customer: That sounds like a pretty good deal.
+Customer Service Agent (CSA): Ok! Consider it booked.
+Customer: Great, thanks!
+Customer Service Agent (CSA): My pleasure :slightly_smiling_face:
+

@@ -1,0 +1,21 @@
+Customer: Hello. Do you have five star hotels for me in Osaka?
+Customer Service Agent (CSA): Where are you leaving from?
+Customer: I'm leaving from Maceio. Well
+...We...
+My friend and I
+Customer Service Agent (CSA): Budget?
+Customer: We have all the money in the world, my friend!
+Customer Service Agent (CSA): When would you like to leave and/or return?
+Customer: We can travel whenever. I do have obligations back here on the 19th of September
+Customer Service Agent (CSA): Unfortunately we do not have any packages.
+Customer: None at all? Then try getting me there from Baltimore instead
+Customer Service Agent (CSA): We have a package at a 4 star hotel near a park and museum, 8.69/10 guest rating, free parking and wifi, from September 2nd to 14th, business is 5841.26, economy is 4543.31.
+Customer: There's no better hotel? We're used to five star hotels
+Customer Service Agent (CSA): No 5 star hotels, sorry.
+Customer: Let me ask my friend, one second...Ok we'll settle for this
+Customer Service Agent (CSA): Okay, thanks for the input. Would you like to book the business flights or economy flights?
+Customer: Um business
+Customer Service Agent (CSA): Okay! Your package is now booked! Have a great day!
+Customer: Thank you
+Customer Service Agent (CSA): Anytime!
+

@@ -1,0 +1,17 @@
+Customer: Hi there, I'd like to take my grandkids on vacation to Brasilia.
+Customer Service Agent (CSA): Hi there! Many destinations are calling for you :slightly_smiling_face:
+Customer: We'd like to go to Brasilia please. 4 kids, 1 adult
+Customer Service Agent (CSA): Sure! Where from?
+Customer: We're from Punta Cana. I'd like to bring them while they're still out of school, sometime between Wednesday September 14 and Tuesday October 4th would be great.
+Customer Service Agent (CSA): Sorry, we currently do not offer any trips from Punta Cana to Brasilia. Is there another place you'd like to take them?
+Customer: Oh I guess Alexandria would be good.. We've only got 4900 dollars though, keep in mind.
+Customer Service Agent (CSA): Sure! With that I can place you and your grandchildren in a 3 star hotel near the university for 6 days. This hotel has a fantastic guest rating of 8.86/10 and offers free parking, free breakfast, and free wifi during your stay.
+Customer: That sounds good, but do you have any longer packages? I want the kids to have as much fun as possible!
+Customer Service Agent (CSA): If you had another destination in mind, I can help you check for the trips available there!
+Customer: Well, we could also consider Sao Paulo...
+Customer Service Agent (CSA): For Sao Paulo I've got a 9 day trip! However, it is at a 2.0 star hotel. Are you interested in hearing more about this option?
+Customer: No, I think the 3 star hotel in Alexandria sounds pretty good, thank you. Could you please book it for us?
+Customer Service Agent (CSA): Yup! Consider it done :slightly_smiling_face: Hope you have a good trip!
+Customer: Thank you!
+Customer Service Agent (CSA): You're most welcome!
+

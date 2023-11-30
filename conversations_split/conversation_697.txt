@@ -1,0 +1,22 @@
+Customer: Hi there! My wife and I have 5 lovely children.
+We are free to travel between August 31 and September 18.
+We have a few destinations in mind, first one is Sacramento.
+Oh, and we're located in Sendai.
+Customer Service Agent (CSA): Sure thing. We can send you to Sacramento for 7 days or 13 days, what would you like?
+Customer: Well, I have a budget of 9700. Which would fit in my budget zone?
+Customer Service Agent (CSA): The cheapest option in Sacramento for that many people is Salt Water Inn at 15399.53USD, so Sacramento is not within your budget.
+Customer: How about Rio de Janeiro?
+Customer Service Agent (CSA): Nothing is available in Rio de Janeiro. I can try to see if I can get some options by making your dates flexible. Would you like me to try?
+Customer: My dates are not exactly flexible.
+However, I have a third destination in mind.
+Maybe I'll have better luck with Vancouver?
+Customer Service Agent (CSA): No Vancouver is not available either.
+Customer: Okay fine let's make the dates flexible and see if we can find something.
+Customer Service Agent (CSA): It still did not yield results, any other destinations I could check for you?
+Customer: Nothing for Rio de Janeiro either?
+Customer Service Agent (CSA): Nothing to Rio de Janeiro either.
+Customer: Would you see if there's anything cheaper for Sacramento if the dates are made flexible?
+Customer Service Agent (CSA): I am no longer showing packages form Sendai to Sacramento, I am sorry everything must have booked up. Please come again.
+Customer: That's unfortunate! I think I will have a discussion with my wife again. We might need to change our preferred destinations. I will contact you again once we reach a decision. Regardless, thanks for your help!
+Customer Service Agent (CSA): Thank you for your immense patience!
+

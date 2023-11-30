@@ -1,0 +1,9 @@
+Customer: I want a vacation from Sydney to Washington
+Customer Service Agent (CSA): You are now on with an agent
+Customer: Yeah I have 2200
+Customer Service Agent (CSA): We do not have travel packages from Sydney to Washington
+Customer: How about Sydney to Houston then?
+Customer Service Agent (CSA): I am sorry but neither'
+Customer: I can increase my budget by 400
+Customer Service Agent (CSA): Even if you increase your budget, there are simply no flights available
+

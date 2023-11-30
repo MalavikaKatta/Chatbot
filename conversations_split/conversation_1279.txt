@@ -1,0 +1,20 @@
+Customer: I want to go to Pittsburgh from Boston please.
+Customer Service Agent (CSA): Sure! Do you have dates in mind?
+Customer: nope but i only have 2000
+Customer Service Agent (CSA): No problem! I have 8, 11, and 12 days packages avabilable for you. Which would you prefer?
+Customer: 12 i suppose
+Customer Service Agent (CSA): Then you would be staying at the 2.5 star Majestic Mountain Inn from September 12th to 23rd. It has a 6.91/10 guest rating and is situated near a park. Furthermore, complimentary breakfast, wifi access, and parking are included in your package price of $990.70.
+Customer: Is there anything with a higher rating for the other packages?
+Customer Service Agent (CSA): Sunny Wolf Inn & Suites has the same rating but a higher guesting rating: 8.49/10.
+Customer: Do you have anything in SL?
+Customer Service Agent (CSA): I have the 3 star Chateau Inn & Suites  for 16 days, the 3.5 stay Palacio Tranquila  for 14 or 11 days, and the 3 star Glorious Cloak Inn for 11 days all within your budget.
+Customer: 3.5 stars sounds good. What is the hotel like?
+Customer Service Agent (CSA): The 3.5 star hotel is 3.5 stars.
+Customer: Wow. Thanks for stating the most obvious thing ever. What does the hotel include?
+Customer Service Agent (CSA): The Palacio Tranquila includes free parking, free breakfast and free wifi. It is near a theatre and offers airport pickup and dropoff services. The guest rating is 9.16.
+Customer: ok I would like to book this one. Can I get business seats and still stay within my budget?
+Customer Service Agent (CSA): Absolutely! The total cost would be 1633.0USD.
+Customer: Good! I'll take it then
+Customer Service Agent (CSA): Great - confirmation will be emailed to you.
+Customer: Thanks so much
+

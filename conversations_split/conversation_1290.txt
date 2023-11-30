@@ -1,0 +1,14 @@
+Customer: I need to find a vacation between the 12 of september and 2nd of October for under 6500, leaving from Sydney.
+Customer Service Agent (CSA): and heading to ?
+Customer: anywhere
+Customer Service Agent (CSA): For how many travelers?
+Customer: just me
+Customer Service Agent (CSA): I have 19 days available at the Sunset Baron, rated 3.5 stars which provides breakfast, parking and wifi at no charge.
+Customer: kk what are the date
+Customer Service Agent (CSA): Sept 14 to oct 2nd
+Customer: That's perfect! Is the hotel near anything in particular?
+Customer Service Agent (CSA): It is close to the airport and not far from the museum and shopping
+Customer: Perfect! So convenient! Book it for me please :slightly_smiling_face:
+Customer Service Agent (CSA): I will book the package at 2799.45USD. Thank you and enjoy the weekend.
+Customer: Thanks!
+

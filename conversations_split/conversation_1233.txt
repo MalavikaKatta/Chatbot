@@ -1,0 +1,23 @@
+Customer: Hi there, I really want to go to Osaka but don't really know what kind of trip I want. I heard from my friend you guys have a wide range of offerings so I want to check out what are the availabilities for Osaka.
+Customer Service Agent (CSA): Sure! Where are you leaving from?
+Customer: I'm from Cleveland.
+Customer Service Agent (CSA): Of course! I have a few different hotels available. To help me narrow them down, could you provide some additional information? Maybe a budget, desired departure date, desired length of stay, etc.
+Customer: Can you show me things between Sept 12 and 28? I've a ballpark budget of 3600.
+Customer Service Agent (CSA): Ok! The longest trip I can offer you would be at Prophecy Hotel. The hotel is 2.5 stars with a 7.06/10 user rating. The hotel is near a museum, has free wifi and breakfast, and costs 2225.77USD.
+Customer: Do you have other packages with better hotels?
+Customer Service Agent (CSA): I have an 8 day package at Aquamarine Majesty Hotel! It is a 4 star hotel with a 8.69/10 guest ratings. The hotel is near a park and museum and provides free wireless internet access and parking.
+Customer: That's not bad, how much is this one?
+Customer Service Agent (CSA): 2652.5USD for economy class flights. You can fly business class for a total of 3401.68USD if you prefer.
+Customer: How many days is the first package you showed me?
+Customer Service Agent (CSA): 13 days.
+Customer: I assume this 4 star one is the best you can find?
+Customer Service Agent (CSA): That is correct.
+Customer: If I increase my ballpark by 300 will you be able to find something better?
+Customer Service Agent (CSA): It seems Aquamarine Majesty Hotel is the nicest we have available in Osaka.
+Customer: Okay thanks for your help! I'll take it.
+Customer Service Agent (CSA): No problem! Would you like to book business class?
+Customer: It fits in my budget right? Let's book business.
+Customer Service Agent (CSA): It fits your budget, yes.
+Customer: Ok let's go for it
+Customer Service Agent (CSA): Consider it done :slightly_smiling_face: Enjoy your stay!
+

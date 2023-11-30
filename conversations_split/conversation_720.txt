@@ -1,0 +1,13 @@
+Customer: you do flights from north vancouver to c-bus?
+Customer Service Agent (CSA): Would c-bus stand for Columbus?
+Customer: it would, yes
+Customer Service Agent (CSA): Columbus it is. Dates and number of people travelling please?
+Customer: sept 16 to 20. 1 person, but needs to be under 3300
+Customer Service Agent (CSA): In Columbus, we are presently offering a 4 night stay at the 2.5 star Crown Jungle Inn located on the beach and close to the palace. Does this interest you?
+Customer: If thats my best option, then sure
+Customer Service Agent (CSA): It suits your dates with a departure on the 16th and a return date on the 19th. Total cost is 959.36USD on economy class.
+Customer: I’m ok with that
+Customer Service Agent (CSA): Should I proceed with booking then?
+Customer: :+1:
+Customer Service Agent (CSA): Booking confirmed. :+1:
+

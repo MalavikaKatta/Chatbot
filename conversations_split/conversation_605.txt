@@ -1,0 +1,13 @@
+Customer: Please find me a package for 22 adults from Kabul to Tofino
+Customer Service Agent (CSA): Do you have a budget?
+Customer: No
+Customer Service Agent (CSA): When would you like to leave Kabul?
+Customer: 25 of august
+Customer Service Agent (CSA): There are no availabilities for this many people.
+Customer: how about 6 people
+Customer Service Agent (CSA): There are no availabilities for this number of people either.
+Customer: 8 from Kabul to Recife
+Customer Service Agent (CSA): No results for this either.
+Customer: 8 people from Kabul to anywhere on god’s green earth then
+Customer Service Agent (CSA): There are no results in my data base. Sorry!
+

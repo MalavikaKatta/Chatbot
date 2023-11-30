@@ -1,0 +1,18 @@
+Customer: hello i need to get to curitiba. im going to need to stay at the most luxurious facility that you have
+and im leaving from santos
+on or after august 30th
+Customer Service Agent (CSA): I have 10 days, 15 days or 16 days trip
+Customer: any of them under 1700 dollars?
+Customer Service Agent (CSA): 16 days at 3.5 stars hotel for 1416.47USD
+Customer: hm, 3.5 stars is the best you've got?
+Customer Service Agent (CSA): yes unfortunately, but the guest rating is 8.22
+Customer: even with a 2700 dollar budget
+Customer Service Agent (CSA): Yes unfortunately
+Customer: is it just the one hotel?
+Customer Service Agent (CSA): no there are others at 3.0 star
+Customer: can you give me details on the 3.5 star
+Customer Service Agent (CSA): Crown Market Palace, near beach, free parking, free breakfast, free wifi
+Customer: That does sound somewhat luxurious. ok i guess we should book it
+Customer Service Agent (CSA): It leaves on september 2nd and comes back on September 17
+Customer: book it thanks
+

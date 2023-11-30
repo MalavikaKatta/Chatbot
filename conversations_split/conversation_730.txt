@@ -1,0 +1,14 @@
+Customer: I’m finally taking a break this year, and I’d like to go to Punta Cana!
+Customer Service Agent (CSA): Where would you like your departure to be?
+Customer: I would be flying out from Curitiba
+Customer Service Agent (CSA): Any dates in particular?
+Customer: Between September 6 and 9 please
+Customer Service Agent (CSA): One adult?
+Customer: yes 1
+Customer Service Agent (CSA): I have perfect 4 day packages for exactly your dates.  All the hotels are either 2.5 stars or 3 stars. Anything in particular you would like me to look for in a hotel? Do you have a limited budget?
+Customer: My budget is 2300, would that be enough?
+Customer Service Agent (CSA): Yes all these packages are under $2300. The 3 star Plaza Serene suites has the highest guest rating at  8.49 / 10 and costs 1627.8USD. That also provides you with free wifi, parking and a breakfast.
+Customer: Great, book it
+Customer Service Agent (CSA): Your trip has been booked. Sage travels.
+Customer: thanks!
+

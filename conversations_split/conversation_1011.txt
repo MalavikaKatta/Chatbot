@@ -1,0 +1,29 @@
+Customer: Hi there, I'd like to book a trip to Punta Cana.
+Customer Service Agent (CSA): Great, where are you coming from?
+Customer: I'll be departing from Detroit. I would be booking for two people
+Customer Service Agent (CSA): Would you have a more definite idea of which dates you want to leave and return by?
+Customer: I'd like to leave sometime soon after September 7th for 14 days
+Customer Service Agent (CSA): The longest trips we have leaving after September 7th is a 9 day trip starting from September 10th. Would this interest you?
+Customer: What about closer to the end of September? Is the longest trip you have still only 9 days long?
+Customer Service Agent (CSA): Yes, that is the longest trip we have to Punta Cana. Close to the end of the September we have an 8 day trip.
+Customer: Okay, I'm curious about the 9 day trip starting from September 10th. How much would that cost?
+Customer Service Agent (CSA): Business would cost 2072.62 and economy would cost 1553.57.
+Customer: Those are the only two options you have?
+Customer Service Agent (CSA): Yup!
+Customer: I'm afraid that's out of my budget. Could I book a flight to another destination instead please?
+Customer Service Agent (CSA): Sure! Where would you like to go? If you can also give me a better idea of your budget, I can help you find a more suitable trip.
+Customer: I'd like to go to Punta Cana with my husband for a maximum budget of 1300.
+Customer Service Agent (CSA): Sorry, we don't have any packages that works within your budget. However, we do have 8 day packages to Punta Cana that suits your budget.
+Customer: Okay great, I'm interested in the 8 day package to Punta Cana that suits my budget then. What is the date of departure?
+And how much would it cost?
+Customer Service Agent (CSA): Great! It leaves on the 7th and costs 736.30 if you fly economy and 982.30 if you fly business.
+Customer: Oh I'm afraid I can't leave on the 7th. Is there an 8 day package that leaves after the 7th?
+Customer Service Agent (CSA): Sorry, nothing for Punta Cana. Do you have another city you would like to visit?
+Customer: Is there a trip to Punta Cana after the 7th that is within my budget that is shorter than 8 days?
+Customer Service Agent (CSA): Unfortunately no.
+Customer: Is there anything similar for Punta Cana?
+Customer Service Agent (CSA): Nope, nothing that works with you budget. Is your budget flexible?
+Customer: No, it's not. I'm going to have a think about it and decide what I want later.
+But thanks for your help!
+Customer Service Agent (CSA): You're very welcome! Good luck with your search!
+

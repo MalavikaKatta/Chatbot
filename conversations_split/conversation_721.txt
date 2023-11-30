@@ -1,0 +1,12 @@
+Customer: Where can I go from Fort Lauderdale...for free?
+Customer Service Agent (CSA): I’m sorry, nowhere. Yes. I can find you a trip if you have some money though!
+Customer: How about if I get $400 somehow, what then?
+Customer Service Agent (CSA): For 400 I can send you to either Punta Cana or Atlanta. Which would you prefer?
+Customer: Punta Cana!! Would the hotel be decent?
+Customer Service Agent (CSA): Ok! I have an unrated hotel near a palace or a 2.5 star hotel on the beach.
+Customer: Get me the unrated hotel
+Customer Service Agent (CSA): Great :slightly_smiling_face: From August 30th to Sept 7th, you will spend 9 days at La Estrella del Mar for a total of $347.36 USD
+Customer: Perfect, lets confirm it
+Customer Service Agent (CSA): Ok! I will send a confirmation email within the next hour. Enjoy your stay
+Customer: Thanks!
+

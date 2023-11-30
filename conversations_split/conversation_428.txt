@@ -1,0 +1,28 @@
+Customer: Hi there...this is my first time traveling and I'm so excited! I've lived in Boston all my life and want to see the world
+Customer Service Agent (CSA): Congratulations, what is your budget ?
+Customer: I have 1900 budget and 13 days
+Customer Service Agent (CSA): What date would you like to leave?
+Customer: I'm flexible, some time soon I hope!
+Customer Service Agent (CSA): Is it just for yourself?
+Customer: Yes just me myself and I
+Customer Service Agent (CSA): you can go to Punta Cana, Fort Lauderdale, Phoenix, Miami, Burlington, all for between about 450USD and 550USD, between 6 and 13 days
+Customer: You are a lifesaver! Which destination has the highest rated hotel?
+Customer Service Agent (CSA): Miami and Phoenix have 3 star hotels
+Customer: Do they both have the same amount of amenities?
+Customer Service Agent (CSA): Yes about the same. Here are the details:  
+
+The Recreation Inn  - 7 days, Phoenix, United States, hotel, museum, university
+Total price: 550.61USD
+
+Triple Aegis - 8 days, Miami, United States, park, mall
+Total price: 534.37USD
+Customer: Okay cool. Which destination can I stay for the longest time at?
+Customer Service Agent (CSA): Fort Lauderdale, 13 days, 2 star hotel. for 553.0USD
+Customer: Okay, does this hotel at least have a decent user rating?
+Customer Service Agent (CSA): yes 6.51
+Customer: Ok I'm leaning towards this one but just to help me decide, can you tell me if this hotel is near any attractions or has any amenities?
+Customer Service Agent (CSA): it is near a market and has free wifi, breakfast and parking.
+Customer: Ok great, I think I'll book this one
+Customer Service Agent (CSA): I will send an confirmation email to you. Thanks 
+Customer: Thanks!
+

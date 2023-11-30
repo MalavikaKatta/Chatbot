@@ -1,0 +1,5 @@
+Customer: I want to leave Kabul on or after Sept 6 please
+Customer Service Agent (CSA): We have no flight out of Kabul
+Customer: Well I will leave from Tel Aviv then
+Customer Service Agent (CSA): No Flights out of Tel Aviv either
+

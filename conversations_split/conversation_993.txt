@@ -1,0 +1,8 @@
+Customer: I need to book a business trip - something impressive... thinking… las vegas
+3 adults find me the best you can out of mannheim after september 11th
+Customer Service Agent (CSA): The best hotel we have in Las Vegas is a 3.0 star hotel. Would you like to know more about this option or do you have another possible destination?
+Customer: Try Fortaleza
+Customer Service Agent (CSA): The best in Fortaleza is also a 3 star hotel.
+Customer: Fukuoka?
+Customer Service Agent (CSA): We do have a better option in Fukuoka. It's a 3.5 star hotel in the heart of the city with guest ratings of 8.22/10. Is this better?
+

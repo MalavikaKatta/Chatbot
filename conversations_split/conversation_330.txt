@@ -1,0 +1,17 @@
+Customer: I need a flight from Ulsan to Denver leaving on September 6
+Customer Service Agent (CSA): Ok! I can do that for you. Would you be ok with returning on the 9th.
+Customer: Damn straight. Actually no hold up
+See if you got anything from Ulsan to Chicago also
+Also leaving September 6
+Customer Service Agent (CSA): Do you have a budget?
+Customer: I have a big budget, don't you worry
+Customer Service Agent (CSA): I only have trips from Sept 12-25. Nothing from the 6th sorry
+Customer: What about flights leaving August 23rd instead
+Customer Service Agent (CSA): The only flights on August 23 would be to Denver and would return to Ulsan on August 23 as well.
+Customer: No. Book the Denver flight leaving Sept 6 then
+Customer Service Agent (CSA): Okay, I will do that for you :slightly_smiling_face:
+Customer: Whats the cost?
+Customer Service Agent (CSA): 17094.37USD
+Customer: Ok deal
+Customer Service Agent (CSA): Great - I will book that!
+

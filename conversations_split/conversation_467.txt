@@ -1,0 +1,7 @@
+Customer: I want to book a vacation between the 27th of august and the 16th of september for under 1400
+Customer Service Agent (CSA): from where may I ask?
+Customer: miami
+Customer Service Agent (CSA): We have trips to Seattle, Alexandria, and Los Angeles
+Customer: can i see some info on Seattle?
+Customer Service Agent (CSA): Thanks
+

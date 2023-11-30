@@ -1,0 +1,12 @@
+Customer: Seven grownups and 4 tots. We're heading from Cairo down to our ancestral hometown of Belem. Flexible with dates
+Customer Service Agent (CSA): What is your maximum budget for this trip?
+Customer: 32400
+Customer Service Agent (CSA): We have two 4 star hotels and one 4.5 star hotel. Which do you prefer?
+Customer: If they're both under budget, then the 4.5 star one obviously Mama ain't raised no fool
+Customer Service Agent (CSA): Would you like economy class seats for your flight or business class seats?
+Customer: We all about the business
+Customer Service Agent (CSA): This package is a 16 day stay at the Zion Hotel. Amenities include free breakfast, wifi, and parking. Departing flight leaves on August 24th and the return flight leaves on September 7th. This package costs 18888.96. Would you like to book this package?
+Customer: ZION SOUNDS DANK yes lets do it
+Customer Service Agent (CSA): Great! Your flights have been booked and you will receive a confirmation email within the hour! Have a great day!
+Customer: Killing it! thank
+

@@ -1,0 +1,14 @@
+Customer: I need to fly to Fukuoka from Hiroshima
+Customer Service Agent (CSA): For how many people?
+Customer: just me if you can find something for Fukuoka.
+Customer Service Agent (CSA): I definitely have packages but can you please tell me your budget?
+Customer: I dont have one
+Customer Service Agent (CSA): Okay can please provide me with your dates?
+Customer: I don’t have any in particular.
+Customer Service Agent (CSA): May I suggest the Historic Mansion Hotel  for a 10 day stay? This is our highest rated hotel in Fukuoka at 3.5 stars and the package includes breakfast and wifi.
+Customer: Sure. Is it near anything? Does it have a pool?
+Customer Service Agent (CSA): I have no information on it's location or on whether it has a spa or not.
+Customer: oh ok. That’s fine, let’s book it anyway, business class style
+Customer Service Agent (CSA): I have taken care of the booking for you on business class at 800.73USD. Thank you for your booking and have happy travels to you.
+Customer: Thanks!
+

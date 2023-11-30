@@ -1,0 +1,9 @@
+Customer: I would like to go to Ulsan from San Juan with my wife and son. I need inspiration for my novel
+Customer Service Agent (CSA): No problem! Do you have a budget in mind?
+Customer: 4800 and id like to stay there for 3 days
+Customer Service Agent (CSA): I'm afraid we don't have anything that fits your budget. Would it be possible to expand your budget?
+Customer: no but we can try going to hiroshima too
+Customer Service Agent (CSA): I'm afraid we don't have anything that fits your budget for that either. Would you like to try another destination?
+Customer: no but we can stay for 9 days instead of 3
+Customer Service Agent (CSA): I'm afraid we don't have anything that fits your budget. Is there anything else I can help you with?
+

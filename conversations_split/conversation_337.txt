@@ -1,0 +1,12 @@
+Customer: Planning a honeymoon, please help! Can you get me on a flight out of Punta Cana to La Paz on August 24
+Customer Service Agent (CSA): Absolutely! Would August 25 be ok?
+Customer: Okay fine. Can you book us for four days and tell us how much it would cost?
+Customer Service Agent (CSA): Sure! From the 25th to the 29th would cost 1003.11. Are you travelling alone?
+Customer: How much would it cost for two? Can you do any honeymoon discounts?
+Customer Service Agent (CSA): For two it would cost 2006.22USD.
+Customer: Our budget is 1200, that won't work :disappointed: How much would a trip for two to San Diego cost?
+Customer Service Agent (CSA): Oh dear. Well I’m sorry but I have nothing available within your parameters. Are you flexible with any of your conditions?
+Customer: I'm flexible with destination and length of trip. The only thing that is inflexible is budget
+Customer Service Agent (CSA): I can send 2 people from Punta Cana to Atlanta for $306.38 from Aug 24-Septemeber 7.
+Customer: Okay will consider it and get back to you, thanks!
+

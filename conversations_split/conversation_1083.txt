@@ -1,0 +1,14 @@
+Customer: I have 14 days vacation
+Customer Service Agent (CSA): Could you provide the dates for me please?
+Customer: whenever
+Customer Service Agent (CSA): Where would you like to go and from where?
+Customer: I don’t know where i want to go, i was hoping you could help me decide. I would be leaving from Rome. I only have $400 tho
+Customer Service Agent (CSA): I have no packages available out of Rome for $400. best I can do is 4 days in Milan at $710.13
+Customer: cant afford it. What if I left from Porto?
+Customer Service Agent (CSA): If you left from Porto instead of Rome,  I can offer you a 4 day package at the Hotel Fernando Ribero for 193.43USD
+Customer: Can you tell me more about the hotel?
+Customer Service Agent (CSA): It is a 2.5 star hotel located near the park, shopping and a mall and it includes free parking, unlimited wifi use and a nice breakfast. It is available from September 18 to September 21.
+Customer: Sounds pretty damn good! I’ll take er!
+Customer Service Agent (CSA): I will take down all your details and proceed with the reservation. Thank you for your time today and enjoy your trip.
+Customer: Thank you!
+

@@ -1,0 +1,10 @@
+Customer: Hi! We are getting married in beautiful Cleveland underneath the redwoods next weekend. We've been soooooo busy we forgot about the honeymoon! Do you have any last minute special to Porto?
+Customer Service Agent (CSA): Yes, I do! What dates would you like to travel? Do you have a budget? Will there be just two of you travelling for your honeymoon?
+Customer: The wedding is on the 23rd so it has the be the 24th or after. We are hoping for a week in Porto. We finally get some time, just the 2 of us!
+Customer Service Agent (CSA): ok, great! I have 4 different hotels you can stay at. Would you like to hear about the 4.0 star hotel first?
+Customer: Yes, it's our honeymoon after all! But we only have $5100 to spend.
+Customer Service Agent (CSA): Unfortunately I have nothing available within your budget :disappointed:
+Customer: how about a lower end hotel then :disappointed:
+Customer Service Agent (CSA): Sadly the cheapest in Porto for your dates is around 7000. Anywhere else I could look into for you?
+Customer: No we can only go to Porto... or Porto. Thanks.
+

@@ -1,0 +1,18 @@
+Customer: They say life does not give you free lunch, but does life give you free tickets out of Phoenix?
+Customer Service Agent (CSA): Sorry, I do not have free vacations.
+Customer: how about $400 vacations
+Customer Service Agent (CSA): Indeed! How does 13 days in Calgary sound?
+Customer: Oh wow! is the hotel any good?
+Customer Service Agent (CSA): Amusement is 4 stars
+Customer: this has exceeded my expectations
+Customer Service Agent (CSA): Great :smile: Shall I book?
+Customer: any other potential destinations?
+Customer Service Agent (CSA): I also have a package to Punta Cana
+Customer: how much would that cost?
+Customer Service Agent (CSA): 356.45USD
+Customer: And for calgary?
+Customer Service Agent (CSA): 359.22USD
+Customer: close enough, book calgary then
+Customer Service Agent (CSA): Great, I will book that for you!
+Customer: thanks!
+

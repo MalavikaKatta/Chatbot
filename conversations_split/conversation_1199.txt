@@ -1,0 +1,25 @@
+Customer: I am in the middle of closing a huge multi million deal and I need you to send me and my 2 clients to the ritziest place in Kobe, no expense to be spared.
+Customer Service Agent (CSA): Where will you leave from?
+Customer: San Juan
+Customer Service Agent (CSA): When would you like to leave and/or return?
+Customer: After September 14.  When we return is not important.
+Customer Service Agent (CSA): Our best is an 8 day stay from the 23rd to 29th at a 4.5 star hotel.
+Customer: What's the guest rating on that one?
+Customer Service Agent (CSA): 8.69/10 and this is the only hotel available.
+Customer: Is the 23rd your soonest departure?
+Customer Service Agent (CSA): There is a 6 day package from the 20th to 24th as well.
+Customer: What's your best hotel in Leon? Give me the rating and the guest rating please.
+Customer Service Agent (CSA): We have an 11 day package from September 24th to October 3rd at a 5 star hotel with a guest rating of 9.16/10.
+Customer: I like the sound of that! Before I get more information on that hotel, Can you check for the best in  Long Beach for me - rating and guest rating
+Customer Service Agent (CSA): The best is a 3 star hotel with 8.49/10 guest rating.
+Customer: That one is out, back to Leon then . For the 5 star hotle, do you have any packages that start earlier than the 24th? I want to leave as close as possible after the 14th . Also, can you provide me with the name of the hotel, what it is close to and the cost on business class for 3 adults/
+Customer Service Agent (CSA): We have a 9 day package from the 20th to 27th, 5 star hotel, and 8.69/10 guest rating. Which package would you like more information on?
+Customer: I will take whichever package is near shopping
+Customer Service Agent (CSA): None of the hotels are near shopping, they are only close to a market.
+Customer: Okay I rather leave on the 20th. What's the name of that hotel and the cost?
+Customer Service Agent (CSA): El Hotel Del Mar and the cost is 9776.00.
+Customer: Business?
+Customer Service Agent (CSA): Yes!
+Customer: Let's reserve that one then.  Thank you, my friend, you have been very helpful today.
+Customer Service Agent (CSA): Thank you for booking with us! Your package is booked, have a great day!
+

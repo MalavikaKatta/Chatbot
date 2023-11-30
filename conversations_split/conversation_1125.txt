@@ -1,0 +1,29 @@
+Customer: Hey there I'm looking for a trip from St. Louis to Kabul.
+Customer Service Agent (CSA): Sure thing! When would you like to go?
+Customer: After September 6
+Customer Service Agent (CSA): Ok, travelling alone?
+Customer: Yeah, it's for a job.
+Customer Service Agent (CSA): Sadly we do not offer flights to Kabul from St. Louis. Where else can I look for you?
+Customer: But I've done it before.
+Customer Service Agent (CSA): This trip is not currently available.
+Customer: It's been done before, so don't pretend that you don't have flights from Kabul to St. Louis. It's really important for me to get there.
+Customer Service Agent (CSA): There are no flights from St. Louis to Kabul. Can I look into another destination for you?
+Customer: Yeah, I figured. I can't believe you guys got rid of it. Is this a question of money? If I offered you more money, then would a trip from St. Louis to Kabul suddenly present itself?
+Customer Service Agent (CSA): Sadly we do not offer flights to Kabul from St. Louis. Where else can I look for you?
+Customer: So if I raised my budget by a few hundred dollars, then would you have a package to Kabul for me?
+Customer Service Agent (CSA): Sadly we do not offer flights to Kabul from St. Louis. Where else can I look for you?
+Customer: Okay, so what if I offer an extra $1000. Then would you have a trip to Kabul from me?
+Customer Service Agent (CSA): Sadly we do not offer flights to Kabul from St. Louis. Where else can I look for you?
+Customer: No where else damn it! I need to get to Kabul!
+Customer Service Agent (CSA): Sadly we do not offer flights to Kabul from St. Louis. Where else can I look for you?
+Customer: Nowhere else!
+Customer Service Agent (CSA): Sadly we do not offer flights to Kabul from St. Louis. Where else can I look for you?
+Customer: You can't look anywhere else because Kabul is the only place I need to be.
+Customer Service Agent (CSA): Sadly we do not offer flights to Kabul from St. Louis. Where else can I look for you?
+Customer: I'll go somewhere that will take my money and get me to Kabul.
+Customer Service Agent (CSA): You will go somewhere else? I can help you with that. Where would you like to go?
+Customer: I mean I'm going to another service.
+Customer Service Agent (CSA): Goodbye.
+Customer: Bye. And thanks for nothing.
+Customer Service Agent (CSA): You are welcome :slightly_smiling_face:
+

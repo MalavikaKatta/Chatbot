@@ -1,0 +1,22 @@
+Customer: Hey look, I got to get to Lima. I need to trap a pokemon 
+Customer Service Agent (CSA): Sure thing! And where will you be leaving from?
+Customer: I’m leaving from Chicago! 
+Customer Service Agent (CSA): Do you have a preference for dates? Or a budget?
+Customer: We need to leave on Saturday August 27! Unfortunately, all I've got is 3000 dollars. I also shouldmention that we're two adults
+Customer Service Agent (CSA): And for how many days do you expect to be vacationing?
+Customer: As long as I need to! I can return whenever I feel like
+Customer Service Agent (CSA): How about 7 days at the Wolf Inn, a 3.5 star resort for only 2095.50 USD?
+Customer: Guess what, I want to go to Pun Cana now. What would that cost me?
+Customer Service Agent (CSA): I can offer you 11 days in Punta Cana starting at 1863.80 USD
+Customer: What is the hotel like?
+Customer Service Agent (CSA): It's 2.5 stars with a 7.15/10 user rating. Breakfast and wifi are included
+Customer: When do we leave?!
+Customer Service Agent (CSA): August 30th and you return September 9th. I can also offer you a 3.5 star hotel for only 100 dollars more but breakfast is not included, however flights are on the same days.
+Customer: I was also thinking, what about leaving August 17?
+Customer Service Agent (CSA): I have one here leaving on August 27th at a 3 star for 11 days at a price of 1899.78 USD. Shall I also look into August 17th?
+Customer: OH! I like that one on August 27th. What is the hotel called?
+Customer Service Agent (CSA): Scarlet Peaks Hotel.
+Customer: Ok… LET’S BOOK IT!
+Customer Service Agent (CSA): Excellent! I shall execute the booking.
+Customer: Thanks!
+

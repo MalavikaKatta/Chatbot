@@ -1,0 +1,28 @@
+Customer: I need to book a trip for my assistant and I.  I am only free to go between Sept 6 and Sept 18.
+Customer Service Agent (CSA): Sure, where would you like to go and where are you coming from?
+Customer: I can leave from anywhere depending on the cost. First I want to check what you have in Milan.
+Customer Service Agent (CSA): How much are you thinking of spending?
+Customer: 4100
+Customer Service Agent (CSA): I have a 4.0 star hotel in the heart of Milan next to a museum and a cathedral. With you budget you can stay up to 10 days.
+Customer: So if my assistant and I fly there via economy class, how much is it?
+Customer Service Agent (CSA): 1721.38 if you fly from Frankfurt, 1745.44 if you fly from Queenstown, 1986.13 if you fly from Mannheim, and 2122.52 if you fly from Valencia.
+Customer: Now let's look at Manaus. Do you have anything from anywhere to Manaus?
+Customer Service Agent (CSA): In Manaus I have a 3.0 star hotel next to the park, museum, and palace. We also have some 10 day packages that can work for you here.
+Customer: How much for the cheapest 10 day package at this hotel?
+Customer Service Agent (CSA): The cheapest is 3244.23 and the flight departs from Santa Cruz.
+Customer: Okay, let's have a look at Phoenix. What do you have there, preferably near a park?
+Customer Service Agent (CSA): I only have one hotel in Phoenix, but it's not near a park. It is close to a museum and university though.
+Customer: Okay - one more question. For the hotel in Manaus, the one located near the park,  do you have any 4 day packages?
+Customer Service Agent (CSA): Not at that specific hotel. We only have 4 day packages at another accommodation. It is a 2.5 star hotel close to the park and shopping.
+Customer: How much is that one?
+Customer Service Agent (CSA): 2835.80 with parking, breakfast, and wifi included.
+Customer: OUF for 4 days I'm better off with the 10 day package at the 3 star. What was the guest rating at that one?
+Customer Service Agent (CSA): That hotel has a guest rating of 8.49/10.
+Customer: And it's near the park, correct? Is our breakfast included in that package? Can you give me the name of the hotel please?
+Customer Service Agent (CSA): Yes! The Tranquil Sanctuary Hotel is near the park. Breakfast, wifi, and parking are included in the price.
+Customer: If the dates are right, I shall book!
+Customer Service Agent (CSA): It is from September 8-17.
+Customer: Perfect. Let's go with Manaus then. The other dogs will have to wait.
+Customer Service Agent (CSA): Alright! I will book you the trip to Manaus from Santa Cruz.
+Customer: Thank you, friend.
+

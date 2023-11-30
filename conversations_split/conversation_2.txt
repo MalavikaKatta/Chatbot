@@ -1,0 +1,21 @@
+Customer: Hello, I am looking to book a vacation from Gotham City to Mos Eisley for $2100.
+Customer Service Agent (CSA): Hi. Sorry, I can't find any trips from Gotham City to Mos Eisley for you.
+Customer: What about a trip from Gotham City to Neverland for the same budget?
+Customer Service Agent (CSA): Sorry, I cannot find any trips leaving from Gotham City. Could you suggest another nearby departure city?
+Customer: Would any packages to Mos Eisley be available if I increase my budget to $2500?
+Customer Service Agent (CSA): There are no trips available to Mos Eisley.
+Customer: You know what, I'd like to try and visit Neverland
+Customer Service Agent (CSA): I cannot find any trips available to Neverland.
+Customer: Do you have any trips from Gotham City to Kobe for my original budget of $2100?
+Customer Service Agent (CSA): I can book you a 3 day trip to Kobe leaving from Sapporo, Japan. Is this ok?
+Customer: No, that's too far for me. I need a flight that leaves from Birmingham.
+Customer Service Agent (CSA): I can book you a trip from Birmingham to Kobe for 2747.8 USD.
+Customer: How many days would I be in Kobe?
+Customer Service Agent (CSA): You would arrive in Kobe August 17th and return to Birmingham on August 22nd.
+Customer: What would the price be if I shortened my trip by one day?
+Customer Service Agent (CSA): I can not find any trips from Birmingham to Kobe for 4 days.
+Customer: Ok, then I would like to purchase this package. What activities are included in this package?
+Customer Service Agent (CSA): There are no activities listed for this package. You will be staying at the Ivory Legacy Hotel for 7 days. This hotel has a 4.5 star rating and free wifi. Will I go ahead and book this package?
+Customer: Yes, I would like to book this package.
+Customer Service Agent (CSA): Great. Your flight departs from Birmingham at 9:00 am - Wednesday, August 17th 2016. Enjoy your trip, I have booked this package for you.
+

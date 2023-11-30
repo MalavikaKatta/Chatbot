@@ -1,0 +1,22 @@
+Customer: Find me a flight from Belo Horizonte to Brasilia. First class only
+Customer Service Agent (CSA): I have a business class flight and 5 day stay at a 3.0 star hotel available for 192.14USD.
+Customer: Upgrade that to a five star hotel
+Customer Service Agent (CSA): Unfortunately the best I can give you is a 3.5 star hotel with a guest rating of 8.37.
+Customer: That won't do. Find me a flight from Belo Horizonte to Rome, and find me a five star hotel in Rome.
+Customer Service Agent (CSA): Would you be interested in staying at a 4.0 star hotel in Rome?
+Customer: eww absolutely not. find me a five star hotel. I refuse to believe there are no available five star hotels in Rome
+Customer Service Agent (CSA): I am sorry but I have no 5.0 star hotels available in Rome for you :disappointed:
+Customer: are there first class flights from Belo Horizonte to Rome?
+Customer Service Agent (CSA): Yes, I have business class flights available for these locations.
+Customer: no first class? try london to rome
+Customer Service Agent (CSA): Unfortunately I can only offer economy or business class flights. I do not have first class flight access in my database. Would you still like me to explore options from London to Rome?
+Customer: Please do. And check again for five star hotels in Rome.
+Customer Service Agent (CSA): I still only have 4.0 star hotels available in Rome.
+Customer: What's the earliest flight you have from Belo Horizonte to Rome? I need to book for two and return on Sept 5
+Customer Service Agent (CSA): I can book you 5 days at Hotel Grand Residence, a 4.0 star hotel with a guest rating of 8.8 from September 2nd-September 5. 
+Customer: Check for the earliest flight from London to Rome, also for two and returning Sept 5
+Customer Service Agent (CSA): I have only the same dates available from London.
+Customer: Okay book us business class for the Belo Horizonte to Rome package
+Customer Service Agent (CSA): I am booking your flight
+Customer: terrific, wonderful. thankyou
+

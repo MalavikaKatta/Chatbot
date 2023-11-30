@@ -1,0 +1,14 @@
+Customer: I have 8 days for vacation starting on september 6 from dallas. What can you offer me?
+Customer Service Agent (CSA): I have many options for you. Do you have a budget in mind?
+Customer: No i'd just like to explore my options
+Customer Service Agent (CSA): Ok! Can you also please confirm with me by which day you need to be back?
+Customer: i dont care what day i get back
+Customer Service Agent (CSA): How about visiting Recofe in Brazil for 7 days? You would be staying at the 4 star The Glee which has free breakfast and wifi for its guests.
+Customer: When is the flight?
+Customer Service Agent (CSA): You would leave September 8th and come back the 14th
+Customer: I would need to be back by the 13th.
+Customer Service Agent (CSA): Then I can offer you a package to Madrid, Spain that leaves September 8th and returns the 13th. The 5 star hotel is close to a museum, cathedral and palace and the holiday would cost you 2070.89USD.
+Customer: this sounds ideal. yes i quite like this.... Go ahead and book it for me please :slightly_smiling_face:
+Customer Service Agent (CSA): Perfect, i'm on it! You should receive confirmation within the hour. Enjoy your holiday!
+Customer: Thank you i'll be back again to use your help!
+

@@ -1,0 +1,4 @@
+Customer: I’m looking to book a vacation between september 18th and 22nd to Vitoria from North Vancouver for under 2700
+Customer Service Agent (CSA): I’m sorry, we do not offer direct packages from North Vancouver to Vitoria. Perhaps you could depart from an alternate location?
+Customer: no. thats ok, ill look elsewhere
+

@@ -1,0 +1,21 @@
+Customer: Book me a flight for 7 adults and 1 child from Portland to North Vancouver
+Customer Service Agent (CSA): That will cost you 11663.75USD. Okay?
+Customer: Hold on I need to know what date this will be departing on. I want to go as soon as possible
+Customer Service Agent (CSA): You can go from August 30 to September 10th
+Customer: Nothing sooner than that?
+Customer Service Agent (CSA): Unfortunately those are the only dates available. Would you like to explore your options at another destination?
+Customer: Yeah let me know if there's anything sooner departing from London
+Customer Service Agent (CSA): I have cheaper packages for the same departure date from London
+Customer: How cheap
+Customer Service Agent (CSA): 9550.23USD
+Customer: I really want to leave ASAP, no time to waste
+Customer Service Agent (CSA): Unfortunately I can only find specific departure cities in my data base.
+Customer: Ok go check Marseille to North Vancouver for me
+Customer Service Agent (CSA): To leave from Marseille would cost you 20100.18USD on August 30th. 
+Customer: How much would it cost to fly from Portland to London
+Customer Service Agent (CSA): I do not have any options available at this time.
+Customer: Can you give me a lower price if I booked the Portland to North Vancouver flight but returned on a different date?
+Customer Service Agent (CSA): Unfortunately I only have the dates I gave you available.
+Customer: I only have 11400 to spend. Can you think of anything for me
+Customer Service Agent (CSA): I can book you 8 days in Atlantah from August 24 -August 31 for 1764.88USD
+

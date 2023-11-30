@@ -1,0 +1,17 @@
+Customer: Get me out of LA asap!
+Customer Service Agent (CSA): Ok! Do you have a destination in mind?
+Customer: Heard Kobe is nice. Maybe I'll have better luck there..
+Customer Service Agent (CSA): I have a 15 day stay at Resort Ancient Angel for 3050.0USD leaving Los Angeles today!
+Customer: The hotel's nice right?
+Customer Service Agent (CSA): It has an official rating of 3.5 but the guest rating is 8.69/10.
+Customer: I'll go!
+Customer Service Agent (CSA): I also have a 10 day package at a 4.5 star if you’d prefer that?
+Customer: When does that one leave?
+Customer Service Agent (CSA): September 20th
+Customer: no. I need to get out before that!
+Customer Service Agent (CSA): So you’ll take the first one?
+Customer: I'll take the one leaving today pls
+Customer Service Agent (CSA): Sure thing :slightly_smiling_face: I will go ahead and book it for you.
+Customer: Thanks, friend
+Customer Service Agent (CSA): My pleasure
+

@@ -1,0 +1,15 @@
+Customer: you can send me to Manaus pronto
+Customer Service Agent (CSA): I'd love to do just that, but where are you departing from?
+Customer: Curitiba
+Customer Service Agent (CSA): Sure, how does 12 nights at the Hotel Aquamarine River sound?
+Customer: well I don't know anything about the hotel aquamarine so......
+Customer Service Agent (CSA): Its a 2.5 star hotel conveniently situated near shopping. Its got a full suite of amenities, from free wifi, to parking to breakfast, which has garnered it a sparkling 6.77/10 guest rating!
+Customer: needs a higher rating
+Customer Service Agent (CSA): Sure, I can also offer you 9 nights at the Tranquil Sanctuary Hotel, a 3 star hotel with a 8.49/10 rating. How does that sound?
+Customer: also bad. What else
+Customer Service Agent (CSA): This is the best hotel we've got in the city. Would you like to try a different destination?
+Customer: yeah fine. look in Denver for me. 5 stars please
+Customer Service Agent (CSA): We haven't got a 5 star hotel in Denver - would you be interested in a 4 star hotel with a 8.69/10 guest rating instead?
+Customer: possibly.. does it have a spa?
+Customer Service Agent (CSA): No spa but it does have free wi-fi!
+

@@ -1,0 +1,12 @@
+Customer: Hi there, I'm looking for a trip for 5 between Tofino and Dallas. It needs to be between Aug 25 and Aug 28.
+Customer Service Agent (CSA): Will that be 5 adults?
+Customer: Yeah 5 adults
+Customer Service Agent (CSA): Great! Are you leaving from Tofino or Dallas?
+Customer: Leaving from Tofino
+Customer Service Agent (CSA): Do you have a budget?
+Customer: Unlimited budget :slightly_smiling_face:
+Customer Service Agent (CSA): There are no results leaving from Tofino.
+Customer: How about Tofino to Curitiba? This time for 11 adults
+Customer Service Agent (CSA): Unfortunately there are no flights leaving from Tofino. Is there another place you could leave from?
+Customer: Thats the only place, but thanks for letting me know
+

@@ -1,0 +1,11 @@
+Customer: Salvador to Recife, Sept 1 for 1, $1000 budget. I want the best hotel in Recife
+Customer Service Agent (CSA): The most upscale hotel I can offer you is The Glee. Have you heard of it?
+Customer: How many stars does it have
+Customer Service Agent (CSA): It has 4 stars, user reviews of 8.22/10, its close to a park and it offers free wifi and free breakfast to its guests.
+Customer: Ok yes that sounds promising. What are the dates you can get me
+Customer Service Agent (CSA): I have an 8 day stay for you from September 8th to the 15th. If you prefer to leave on the 1st I have a 3.5 star hotel I could offer you instead.
+Customer: No I want the better hotel. Actually on that topic. Could I get an even better hotel if I doubled my budget to 2000?
+Customer Service Agent (CSA): The Glee is the most luxurious hotel we have in that city.
+Customer: I’m convinced, Book it
+Customer Service Agent (CSA): Glad to have been able to help you! I'll proceed with the booking. Enjoy the rest of the day!
+

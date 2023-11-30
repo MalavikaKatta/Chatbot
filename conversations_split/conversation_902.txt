@@ -1,0 +1,23 @@
+Customer: Hi I'm a grandma living in Tampa and I want to take my grandchildren to Kabul on vacation to teach them a history lesson.
+Customer Service Agent (CSA): I offer no trips from Tampa to Kabul.
+Customer: I understand that not exactly a vacation destination.  How about Madrid, lots of history there too.
+Customer Service Agent (CSA): How many children will be travelling with you?
+Customer: 6
+Customer Service Agent (CSA): And one adult?
+Customer: yes me and my grandchildren.
+Customer Service Agent (CSA): I have an 11 day package in Madrid for 15506.24USD.
+Customer: oh nooo that is just way too much I only have 3200.
+Customer Service Agent (CSA): I can get you a 5 day package for 10887.64USD.
+Customer: that is 6000.00 more than I have!
+Customer Service Agent (CSA): Then I cannot help you.
+Customer: okay forget the history lesson, let's just go have some fun on the beach in Punta Cana!
+Customer Service Agent (CSA): I can offer 10 days in Punta Cana for 2905.4USD.
+Customer: Now we're talking, baby! tell me more more more
+Customer Service Agent (CSA): The hotel has a 2.5 star rating, 7.15/10 guest rating; it is near a museum, a cathedral, and a palace; and it includes wifi and complimentary breakfast.
+Customer: anything on the beach?
+Customer Service Agent (CSA): No. Sorry.
+Customer: you do know that I cannot leave until August 31st and have to be back before the 19th right?
+Customer Service Agent (CSA): This package begins September 7th and ends the 15th.
+Customer: :+1::grinning::airplane::sunglasses::beers::surfer: Book it!
+Customer Service Agent (CSA): You’ve got it!
+

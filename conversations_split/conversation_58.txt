@@ -1,0 +1,40 @@
+Customer: Hi! I'd like to do some vacation shopping!
+Customer Service Agent (CSA): Sure thing! That's what I'm here for! Where are you located?
+Customer: I live in Campinas, and I'd like to travel from August 25 the September 7. Let's start by looking at Vancouver!
+Customer Service Agent (CSA): Great! You could spend 10 days in Vancouver for 3051.29USD.
+Customer: Is there free breakfast, wifi or parking?
+Customer Service Agent (CSA): Yes- all three!
+Customer: How many stars?
+Customer Service Agent (CSA): The hotel has a 4.0 star rating !
+Customer: Great! Now what about La Paz?
+Customer Service Agent (CSA): You can travel to La Paz from Campinas from August 27th to September 2nd.
+Customer: I would like some details about this one, please. For how much and how many days?
+Customer Service Agent (CSA): You will spend 8 days in La Paz for 2758.9USD.
+Customer: What amenities does the hotel have?
+Customer Service Agent (CSA): This hotel has free wifi, free breakfast, and free parking.
+Customer: Can we take a look at trips to Kyoto?
+Customer Service Agent (CSA): Would you like to travel to Kyoto between August 25-30 or September 1-6?
+Customer: Let's look at August 25 to 30th.
+Customer Service Agent (CSA): I could also do August 26-31, August 27-Sept 1, or August 30-September 4. Do any of those dates interest you?
+Customer: Yes actually, I prefer August 27 to September 1.
+Customer Service Agent (CSA): Ok! There is a 3 star hotel available for 8135.48USD for those dates.
+Customer: Great! what are the options for August 26 to 31?
+Customer Service Agent (CSA): I have a different 3 star hotel for those dates at 5218.82USD.
+Customer: Wow considerably cheaper! Can you tell me about the hotel's amenities?
+Customer Service Agent (CSA): That hotel has free wifi and free breakfast.
+Customer: Great! I also want to look at Puebla for the same dates.
+Customer Service Agent (CSA): I can book August 25-September 5 in Puebla for 2320.70USD.
+Customer: The Puebla package is the cheapest, I'd like to know more about it. The hotel has how many stars?
+Customer Service Agent (CSA): Sure thing! The hotel is 4.0 stars.
+Customer: I really like this package. Is there a spa?
+Customer Service Agent (CSA): No spa unfortunately. :slightly_frowning_face: Would you like me to look into options in Puebla with a spa?
+Customer: If you don't mind yes please!
+Customer Service Agent (CSA): Sorry, there are no options available in Puebla with a spa.
+Customer: That's ok, let's go back to the 4.0 star hotel. Is there free wifi and breakfast? I won't have a car, so I don't need free parking.
+Customer Service Agent (CSA): The 4.0 star hotel in Puebla has free wifi and free breakfast!
+Customer: Great! What's the name of the hotel? I'd like to give them a call.
+Customer Service Agent (CSA): Absolutely! Los Campeones is the name.
+Customer: The hotel is great. I will book this one please!
+Customer Service Agent (CSA): I will go ahead and book that for you.
+Customer: Thanks!
+

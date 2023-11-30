@@ -1,0 +1,24 @@
+Customer: I need your help, gotta do some serious trip research for the wife S our travel dates are between sepember 1-18. We live in Monterrey. Its for me, my wife and 5 kids. Any other info you need?
+Customer Service Agent (CSA): So that will be for 2 adults and 5 children, travelling from Monterrey between Sept 1 to Sept 18. I have some further questions: First, are your dates flexible? Secondly, do you have any destinations in mind? Thirdly, do you have a budget for this trip?
+Customer: 1) no, that is the only period of time I can be away from work 2) a few, one is Calgary 3) Our budget is 14000
+Customer Service Agent (CSA): Based on the information provided, I can provide you with 6, 8 and 12 day packages. Would you have any preference?
+Customer: My wife was thinking of something about a week long so 6 or 8 would work
+Customer Service Agent (CSA): I have several options. Are you looking for a specific star rating or location?
+Customer: Not sure yet, my job is to find some options to comapre
+Customer Service Agent (CSA): The Retro Inn is a 2 star rated hotel and is available in both the 6 day $6273.96USD and 8 day $7893.3USD packages. The Amusement is a 4 star rated hotel and is available only in a 6 day $4400.81USD package.
+Customer: Do come with breakfast and any other free bonuses?
+Customer Service Agent (CSA): The Retro Inn comes with breakfast included, the Amusement does not. They both include free wifi and parking.
+Customer: Are they well located?
+Customer Service Agent (CSA): The Retro Inn is near the airport and The Amusement is near the university.
+Customer: ok, next place I thought of was Sendai
+Customer Service Agent (CSA): I have the 4 star Hotel Kirei available for a 15 days stay only and it seems it is out of your budget.
+Customer: Ya, and that's longer than what we wanted. My wife was really hoping Ulsan would work. Better luck there?
+Customer Service Agent (CSA): Are you open to a 9 day stay?
+Customer: Sure, ya that should be okay
+Customer Service Agent (CSA): I have the 2.5 star Grandiose Willow Resort available for $13662.58USD. Free wifi and parking. Located on the park and close to the university.
+Customer: great, that's just under our budget. no breakfast with this one I guess? And how are its reviews?
+Customer Service Agent (CSA): No breakfast and there are no guest reviews on it as of yet.
+Customer: How about the ones in Calgary, did they have reviews?
+Customer Service Agent (CSA): No reviews on the Amusement and the Retro Inn has a guest rating of 6.51/10
+Customer: Alright, thanks for all your help! I'll share this with my wife and we will get back to you
+

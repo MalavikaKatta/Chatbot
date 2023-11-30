@@ -1,0 +1,8 @@
+Customer: Hi! I'd like to go to Washington from Burlington
+Customer Service Agent (CSA): I have no packages available for Burlington to Washington
+Customer: What about to Toluca?
+Customer Service Agent (CSA): Nothing for Burlington to Toluca either
+Customer: Balderdash! What about Melbourne?
+Customer Service Agent (CSA): Nothing for Burlington to Melbourne
+Customer: WHAT!?!?! Ugh, kill me now. Okkay fine. I'll look somewhere else.
+

@@ -1,0 +1,18 @@
+Customer: Hi there! I have 3800 to spend
+I live in Milan
+Would i be able to get to Philadelphia?
+Customer Service Agent (CSA): Sure can! You can go for as long as 11 days.
+Customer: Would it be at an upscale hotel?
+Customer Service Agent (CSA): I wouldn't say so. It's a 2 star hotel, although it has 6.61/10 average client rating.
+Customer: Alright. Lets try another place: Kocchi
+Customer Service Agent (CSA): That's not a bad choice! With your money you can stay 8 days at a 3.5 star hotel and 12 days at a 2.5 star hotel.
+Customer: Is the 3.5 star hotel near anything of note?
+Customer Service Agent (CSA): Are you kidding? It's in the heart of the city and next to a park!
+Customer: Why would I be kidding? I did not expect to come here and get insulted by a bot. ok you know what
+indianapolis also seems like it’d be cool
+Customer Service Agent (CSA): It is very cool! With you budget you can go there for 10 days in a 2.5 star hotel.
+Customer: 2.5 stars? how are the guest ratings then?
+Customer Service Agent (CSA): Not bad. It's rated 6.37/10 on average.
+Customer: Thats it for today, thank you
+Customer Service Agent (CSA): You're welcome! Have a nice trip back to real life!
+

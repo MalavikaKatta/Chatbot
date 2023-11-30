@@ -1,0 +1,10 @@
+Customer: I need 2 get 2 Madrid from Beijing! Family emergency. Need to leave on the 6th
+Customer Service Agent (CSA): Madrid to Beijing? For how many?
+Customer: just me. ive got 3300
+Customer Service Agent (CSA): Beijing to Madrid?
+Customer: yea hurry
+Customer Service Agent (CSA): I cannot help you get to Madrid from Beijing
+Customer: i can leave from jerusalem too
+Customer Service Agent (CSA): I cannot help you get to Madrid from Jerusalem either
+Customer: Well then i’m screwed
+

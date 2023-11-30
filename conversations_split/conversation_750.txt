@@ -1,0 +1,16 @@
+Customer: They say that I’m a dreamer, but i’m not the only one. and today i am dreaming of a trip out of monterrey
+can you tell me if i can get to curitiba, if i had 2800 to my name?
+Customer Service Agent (CSA): We are here to fulfill your travel dreams. I have to places in Curitiba that offer 15 day packages for under $2800.
+Customer: what kind of hotel is it?
+Customer Service Agent (CSA): I have a 3 star and a 3.5 star, both offering wifi, parking and breakfast at no extra charge
+Customer: Is the 3.5 star hotel near anything cool?
+Customer Service Agent (CSA): It's on the beach!
+Customer: oh me oh my. what could you find me in belem
+Customer Service Agent (CSA): In Belem, I have a 4.5 hotel also located on the beach!
+Customer: please go on. what amenities could i get on the beach?
+Customer Service Agent (CSA): free parking, wifi, and breakfast
+Customer: if there was a heaven on earth, that could be it! please, tell me if you also have trips to punta cana
+Customer Service Agent (CSA): I have plenty of choices in Punta Cana. None as highly rated as the one in Belem, but longer stays
+Customer: thats fine, which one has the highest guest rating?
+Customer Service Agent (CSA): The 3.5 star Sunrise Elephant Hotel has a guest rating of 8.69/10 , free parking, free wifi and is located near the Punta Cana cathedral and palace.
+

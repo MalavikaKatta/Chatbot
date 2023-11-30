@@ -1,0 +1,9 @@
+Customer: Hi there! Got anything from Kabul to Tel Aviv?
+Customer Service Agent (CSA): Do you have a budget?
+Customer: Show me the cheapest you've got
+Customer Service Agent (CSA): Oops, there are no results for this request.
+Customer: Nothing from Kabul to Tel Aviv??
+Customer Service Agent (CSA): No sorry!
+Customer: That sucks. I'll look somewhere else
+Customer Service Agent (CSA): Sorry I couldn't be more help! Have a nice day!
+

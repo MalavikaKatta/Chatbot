@@ -1,0 +1,17 @@
+Customer: hey. i wanna go from birmingham
+Customer Service Agent (CSA): Ok, where would you like to go?
+Customer: for 10 days vacation
+Customer Service Agent (CSA): There are 10 day trips available in Sacramento and Las Vegas for just over $500.
+Customer: thats too expensive
+Customer Service Agent (CSA): I’m sorry but I have no 10 day trips from birmingham for less than that price.
+Customer: what about santiago
+Customer Service Agent (CSA): You can spend 6 days in Santiago for 1342.39USD
+Customer: no. i only have 400$. maybe from bh for lesser days
+Customer Service Agent (CSA): In that case your only options are Denver or Calgary.
+Customer: oh ok
+Customer Service Agent (CSA): Would you like to hear more about these packages?
+Customer: yup
+Customer Service Agent (CSA): You can spend 3 days in Denver for $177.60 and stay at a 3 star hotel near a museum and university. In Calgary you could spend 8 days for $303.45 at a 4 star hotel near a university with free wifi and free parking.
+Customer: i will go to calgary
+Customer Service Agent (CSA): Great :slightly_smiling_face: I will book that for you
+

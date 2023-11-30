@@ -1,0 +1,11 @@
+Customer: I would like to go to San Juan
+Customer Service Agent (CSA): Ok! Where would you be leaving from?
+Customer: between August 31 to September 19. leaving from Rio de Janeiro
+I have a 2800 $ budget
+Customer Service Agent (CSA): Ok! I can book you Sept 1-7 for 2417.95USD or Sept 12-14 for  2423.96USD or Sept 6-13 for 2660.43USD. 
+Customer: ill book that
+Customer Service Agent (CSA): Which one? There are three trips listed.
+Customer: the 1st one
+Customer Service Agent (CSA): Ok, I can book that for you!
+Customer: ok, thanks.
+

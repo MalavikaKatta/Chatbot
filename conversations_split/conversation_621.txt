@@ -1,0 +1,13 @@
+Customer: book me from COLORADO to athens
+Customer Service Agent (CSA): Do you have a budget?
+Customer: 0.0042 million USD
+Customer Service Agent (CSA): How many people are travelling?
+Customer: 1 mega-stud. i.e. me
+Customer Service Agent (CSA): When would you like to leave?
+Customer: anytime between now and the end of the universe
+Customer Service Agent (CSA): Theres a business flight for 4495.97. This is at a 3 star hotel near a mall, with a 0/10 guest rating, free parking, and wifi. This trip is from August 30th to September 6th.
+Customer: 0 guest rating, you think i want to get murdered or something? get me to stuttgart instead
+Customer Service Agent (CSA): This is a 3 star hotel, 7.15/10 guest rating, business class, near a museum, free parking, breakfast, and wifi, departing September 2nd, returning September 14th, price 2993.87.
+Customer: Thats more acceptable, let's do it
+Customer Service Agent (CSA): Great! It's booked! Have fun!
+

@@ -1,0 +1,24 @@
+Customer: Hi i'm from Buenos Aires, and I want to book a trip
+Customer Service Agent (CSA): Where would you like to go?
+Customer: I was thinking maybe Rome
+Customer Service Agent (CSA): Do you have a budget?
+Customer: Not at the moment, but i'm looking for something affordable
+Customer Service Agent (CSA): Okay, will you be travelling alone?
+Customer: Yup!
+Customer Service Agent (CSA): Any specific dates you'd like to travel?
+Customer: Ideally August 17th until the 31st
+Customer Service Agent (CSA): There is a 4 star hotel that includes free breakfast and wifi. The trip is from August 27th to the 31st and costs 2953.37.
+Customer: Where would that be?
+Customer Service Agent (CSA): This package is for Buenos Aires to Rome. Would you like me to check packages for Alexandria?
+Customer: Yes please
+Customer Service Agent (CSA): There is a package from August 17th to the 22nd at a 2.5 star hotel which includes free breakfast, wifi, and parking. The economy class costs 1866.13 and the business class costs 2487.49.
+Customer: What rating does this hotel have? Are there any better?
+Customer Service Agent (CSA): No, unfortunately the only rating is a 2.5 for this destination.
+Customer: Anything else with better amenities?
+Customer Service Agent (CSA): For Alexandria?
+Customer: yaaaa
+Customer Service Agent (CSA): No, sorry, this was the only result for this destination.
+Customer: Okay nevermind then let's book the one to Rome?
+Customer Service Agent (CSA): Great! Your trip is booked! Have a great day!
+Customer: Thnk you!
+

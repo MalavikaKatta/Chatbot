@@ -1,0 +1,20 @@
+Customer: Can you do flights for Kyoto for under 5000? This is for two people
+Customer Service Agent (CSA): Depends on where you are coming from.
+Customer: Just tell me what’s possible
+Customer Service Agent (CSA): We've got flights from Ulsan, Kobe, Seoul, Busan, and Fukuoka. If you can tell me more about the dates you want to travel or what kind of hotels you are looking for, I can help you narrow down the choices.
+Customer: But tell me if you can get a hotel near a park in Kyoto?
+Customer Service Agent (CSA): We only have one hotel in Kyoto and it is in the heart of the city, close to a museum, but not necessarily close to a park.
+Customer: Got any parks near your Ulsan hotels?
+Customer Service Agent (CSA): Sure! We actually do have a few hotels in Ulsan close to a park! Is there a date you need to go there or leave by?
+Customer: Yes, we need a minimum of 4 days stay. between aug 31 and sep 7
+Customer Service Agent (CSA): Sure, I have a great 5.0 star hotel close to a park, a market, and a theater! It has a guest rating of 8.98/10. I can offer 4, 5, 6, 7, or 8 day packages there within your budget.
+Customer: where would i be flying from, and what class would I be in?
+Customer Service Agent (CSA): Yes you can choose between economy vs. business. I have flights from Essen, Baltimore, Kochi, and Hiroshima.
+Customer: How much would it cost if you flew us in from Baltimore? Business
+Customer Service Agent (CSA): Business would cost 6178.12. This would be a 7 day package.
+Customer: Economy it is then
+Customer Service Agent (CSA): Sure, I can book a 7 day economy package for you for 4808.37. Would you like me to process this reservation?
+Customer: Yes please
+Customer Service Agent (CSA): Okay, confirmation has been emailed to you! Hope you have a pleasant flight!
+Customer: Thanks!
+

@@ -1,0 +1,10 @@
+Customer: Hello, I'm looking to go from Essen to Mannheim
+Customer Service Agent (CSA): Cool! I have some packages available from $676
+Customer: Can you check Essen to Ulsan for me
+Customer Service Agent (CSA): How many days would you travel for?
+Customer: As long as $2900 will take me!
+Customer Service Agent (CSA): Ok! There are 11 days at the Escape Cave for only $2278.54USD.
+Customer: I want to see how much it would cost to go to Miami
+Customer Service Agent (CSA): you can spend 9 days in Miami for as low as $1583.
+Customer: Good to know, thanks again
+

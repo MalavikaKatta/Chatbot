@@ -1,0 +1,14 @@
+Customer: Hi I've got investors to meet with in Nagoya sometime in the near future. I can leave from anywhere
+Customer Service Agent (CSA): When would you like to leave?
+Customer: Whenever
+Customer Service Agent (CSA): Do you have a budget?
+Customer: no
+Customer Service Agent (CSA): We only have 3 star hotels but do you prefer business class flights or economy?
+Customer: Business. Where are the hotels located? I'd like to be in the heart of the city.
+Customer Service Agent (CSA): Unfortunately there is only one hotel available and it is near a university.
+Customer: That could work I guess, what is the price?
+Customer Service Agent (CSA): 4077.62 is our cheapest business package.
+Customer: Cool, book it please
+Customer Service Agent (CSA): Great! It's booked! Have a great day!
+Customer: :smile:
+

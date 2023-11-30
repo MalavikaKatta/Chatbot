@@ -1,0 +1,41 @@
+Customer: Finally get to take a vacation! I'm looking for trips leaving from Nagoya
+What do you have going to Rome?
+Customer Service Agent (CSA): Let’s see what I can offer you! When are you planning on taking your trip?
+Customer: Anytime between August 30th and the 13th of September
+Customer Service Agent (CSA): In that case I can offer you the Secret Bay from Sept 2-8 for $2628.
+Customer: Sounds like a cool hotel! Is it fancy?
+Customer Service Agent (CSA): The hotel is not yet rated.
+Customer: ok, how about if I went to Porto Alegre?
+Customer Service Agent (CSA): Wait, I also have a 4 star hotel in Rome. The Hotel Emerald Legacy offers free wifi and breakfast, is located near a cathedral, and would cost just about 3000 dollars for an 8 days package.
+Customer: oh cool! what was included in the other one?
+Customer Service Agent (CSA): Secret Bay also features free wifi and breakfast
+Customer: so where could I stay in Porto?
+Customer Service Agent (CSA): 12 days at the Breakwater Hotel in Porto would run you 4674.68USD. The hotel is 3.5 stars and features free wifi and free breakfast!
+Customer: would Seattle be cheaper?
+Customer Service Agent (CSA): 13 days at the Fairyland in Seattle would cost you 2759.69USD.
+Customer: not bad! I forgot to ask, is the one in Porto close to anything interesting?
+Customer Service Agent (CSA): Not that I can tell.
+Customer: how about the seattle one?
+Customer Service Agent (CSA): It's right in the heart of the city
+Customer: I've also been dreaming of Kyoto
+Customer Service Agent (CSA): Leaving Nagoya, 7 days in Kyoto could cost you as low as 153.17USD
+Customer: including breakfast?
+Customer Service Agent (CSA): Of course!
+Customer: Which hotels have good user reviews?
+Customer Service Agent (CSA): Quiet Garden Resort in Kochi has 8.22/10 user review. That would cost 527 USD for a 7 days stay. Also available would be the Southern Palace Hotel with a user rating of 6.61. 11 days at this hotel would cost you $539.
+Customer: I meant among all the hotels you offered
+Customer Service Agent (CSA): The Fairyland has 0/10, Breakwater has 8.8/10, Secret Bay has 0/10, and Emerald Legacy has 8.22/10.
+Customer: I think it's between Fairyland 8 and Breakwater
+Customer Service Agent (CSA): Ok. Pick one.
+Customer: How many stars does Fairyland have?
+Customer Service Agent (CSA): 3.5
+Customer: with breakfast? :smile:
+Customer Service Agent (CSA): No breakfast :disappointed:
+Customer: I'll go to Porto then! The price difference is definitely worth the price difference!
+Customer Service Agent (CSA): Awesome :slightly_smiling_face: Consider it booked. Enjoy your stay!
+Customer: Can you just confirm the dates with me?
+Customer Service Agent (CSA): September 3-13 would be your dates at the Breakwater Hotel.
+Customer: Awesome! ya please book it for me!
+Customer Service Agent (CSA): Ok :slightly_smiling_face: Enjoy!
+Customer: Thanks :smile:
+

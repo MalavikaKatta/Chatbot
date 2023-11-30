@@ -1,0 +1,18 @@
+Customer: I want to go to Vitoria. from Tijuana
+Customer Service Agent (CSA): My apologies, we do not offer any trips between these two points. Is there somewhere else you would like to depart from or arrive at?
+Customer: i could go to Cancun
+Customer Service Agent (CSA): Which dates would you like to go?
+Customer: doesnt matter
+Customer Service Agent (CSA): Is it just yourself?
+Customer: yeah
+Customer Service Agent (CSA): How much are you planning on spending?
+Customer: 2600
+Customer Service Agent (CSA): Great! I can put you for 10 or 12 days at a 3.5 star hotel by the cathedral.
+Customer: 12 days would be cool. What other information do you have on the hotel?
+Customer Service Agent (CSA): The hotel offers free parking, free breakfast, free wifi, and boasts an average guest rating of 8.22/10.
+Customer: not bad. yeah i’m down. wanna book it for me
+Customer Service Agent (CSA): I would be happy to! Would you like to go with the economy package for 515.93 or the business package for 581.30?
+Customer: business
+Customer Service Agent (CSA): Sure thing. It is booked for you from September 14-25! Hope you have a pleasant trip!
+Customer: thank ya
+

@@ -1,0 +1,14 @@
+Customer: Hi im looking to make a quick trip im from tampa and want to go to Dallas
+Customer Service Agent (CSA): Do you have any particular dates in mind?
+Customer: not really
+Customer Service Agent (CSA): for how long would you like to go for?
+Customer: not sure yet
+Customer Service Agent (CSA): I have a very reasonably priced 13 day package available at the Winter Arc hotel. You can travel either economy or business class.
+Customer: that sounds nice what activities are at the hotel? Let's see what the price for economy is
+Customer Service Agent (CSA): The package includes free breakfast and free wifi. How many will you be?
+Customer: there will be 1 child and 7 adults
+Customer Service Agent (CSA): I have availability for that many people from August 15 to August 27th. The price in economy is $3822.00 and in business it is $4219.00. Does that work for you?
+Customer: we would like the economy package please
+Customer Service Agent (CSA): Perfect! The flight departs at 4:00pm on August 15 and the return flight is at 11:00am on August 27th.  We will go ahead and get that booked for you.
+Customer: thank you very much sounds perfect!
+

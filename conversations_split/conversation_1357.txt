@@ -1,0 +1,20 @@
+Customer: I need to book a business trip for 4 potential large clients and I, Leaving from Philadelphia
+Customer Service Agent (CSA): Okay, Where would you like to go and when?
+Customer: It doesn't matter where as long as it is big and impressive, the best of the best. After Sept 25.
+Customer Service Agent (CSA): The best is a 20 day stay at a 4 star hotel from September 26th to October 14th.
+Customer: What's the guest rating on that?
+Customer Service Agent (CSA): 8.8/10 and the hotel is in Rome.
+Customer: Is it close to any interesting landmarks?
+Customer Service Agent (CSA): Shopping and a cathedral.
+Customer: If I make it a 5 day stay, can you find something nicer? I have unlimited budget
+Customer Service Agent (CSA): We have another 4 star hotel, 5 day package from the 29th of September to the 3rd of October. The hotel has a 8.98/10 guest rating, is close to a museum, shopping, and a market, and offers free wifi.
+Customer: What city is this one in?
+Customer Service Agent (CSA): San Juan.
+Customer: San Juan is cool. Is this one available with business class flights and how much is it?
+Customer Service Agent (CSA): Yes it is, it would be 9503.73.
+Customer: What about the 20 day package in Rome?
+Customer Service Agent (CSA): 18762.47 for business flights.
+Customer: I'll book the San Juan package in business class flights, 20 days is much too long with my clients
+Customer Service Agent (CSA): Great! It is booked! Have a great trip and good luck!
+Customer: Thank you
+

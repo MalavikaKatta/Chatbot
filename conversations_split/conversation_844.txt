@@ -1,0 +1,14 @@
+Customer: Baltimore to Sacramento
+Customer Service Agent (CSA): I will have a look for you. Do you have any date restrictions?
+Customer: nope
+Customer Service Agent (CSA): How about number of people?
+Customer: 1
+Customer Service Agent (CSA): How long would you like to go for?
+Customer: undecided, just book me whatever
+Customer Service Agent (CSA): I have 16 days available at The Bronze Luxury Hotel . This hotel has a fantastic 5 star rating along with a 10/10 guest rating.
+Customer: book me the earliest business class flight for that package
+Customer Service Agent (CSA): The earliest departs on September 3rd. The total cost on business class will be 2009.43USD.
+Customer: book it
+Customer Service Agent (CSA): Your flights and hotel stay have been booked. Confirmation will follow.
+Customer: good
+

@@ -1,0 +1,14 @@
+Customer: Hi im travelling from Nagoya. i would like to go on vacation on August 26th
+Customer Service Agent (CSA): Hello! Do you have any destinations in mind?
+Customer: Busan
+Customer Service Agent (CSA): Will you be accompanied by anyone on this trip?
+Customer: just myself for now
+Customer Service Agent (CSA): One last question: Do you have a budget for this trip?
+Customer: not at the moment
+Customer Service Agent (CSA): I can book you a stay at the Lethargy Hotel for 7 days, flying out on the 1st of September. The cost of this package would be 398.99USD. Do you want me to book this trip?
+Customer: are there any other packages in Sacramento?
+Customer Service Agent (CSA): I can offer you a 12-day package in Sacramento with a departure date of September 4th. The total cost of this package is 3052.40USD. Do you want me to book this package?
+Customer: sacramento is a little pricey i would like the trip to busan pflying on the 1st
+Customer Service Agent (CSA): Done! Your flight leaves Thursday, September 1st at 10:52 a.m. Enjoy your stay!
+Customer: thanks a lot!
+

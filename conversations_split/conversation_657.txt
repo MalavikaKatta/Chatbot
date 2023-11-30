@@ -1,0 +1,22 @@
+Customer: Hi, can you help me book a trip with my assistant? We are only free between Aug 30 and Sep 7
+Customer Service Agent (CSA): I can indeed! Where are you headed?
+Customer: Let's see what you have for Ulsan
+Customer Service Agent (CSA): Where would you be departing from?
+Customer: Toronto
+Customer Service Agent (CSA): And how many adults and children will be on this trip?
+Customer: Just two adults
+Customer Service Agent (CSA): I'm happy to report that we have a trip between August 30 and September 4, at a 5 star hotel. Would you like to know more about this option?
+Customer: Would you know if it's close to a park?
+Customer Service Agent (CSA): Its near a park, shopping, and a mall!
+Customer: Nice! Forgot to mention my budget is 3300. How much will this trip cost?
+Customer Service Agent (CSA): Unfortunately, none of our trips for two adults fit in that budget. This particular trip costs 6992.48USD. Would you like for me to look up a different destination?
+Customer: There are no cheaper options in Ulsan?
+Customer Service Agent (CSA): The cheapest trip to Ulsan I have costs 4731.5USD.
+Customer: How about Buenos Aires?
+Customer Service Agent (CSA): Unfortunately, we do not have results for Toronto to Buenos Aires.
+Customer: Athens?
+Customer Service Agent (CSA): None for Athens either. :disappointed:
+Customer: I don't think this trip will work out for us then
+Customer Service Agent (CSA): Sorry I couldn't find you a trip...please let me know if I can help with any future trips!
+Customer: No worries, thanks!
+

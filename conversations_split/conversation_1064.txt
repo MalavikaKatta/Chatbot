@@ -1,0 +1,9 @@
+Customer: out of kabul
+Customer Service Agent (CSA): Where would you like to go?
+Customer: birmingham??
+Customer Service Agent (CSA): Do you have a budget?
+Customer: 3300 dollars. for 13 adults
+Customer Service Agent (CSA): Unfortunately there are no results for this many people to Birmingham.
+Customer: well i can leave from jerusalem instead
+Customer Service Agent (CSA): We don't have flights to or from Jerusalem as of yet.
+

@@ -1,0 +1,32 @@
+Customer: Hi im fro termina and i want to go on vacation on August 13th
+Customer Service Agent (CSA): Where would you like to go?
+Customer: Im looking to go to Kakariko Village
+Customer Service Agent (CSA): Sorry, I can't find those locations in my database. Is there another place you could depart from?
+Customer: I could leave from Birmingham
+Customer Service Agent (CSA): Ok! Any other destination in mind?
+Customer: not at the moment let's see what is available
+Customer Service Agent (CSA): I've got trips available to Calgary, Denver, Burlington, Sacramento, and Phoenix - all for under 500USD. Any interest in exploring these options?
+Customer: potentially which of these places have the best hotel for 5 people
+Customer Service Agent (CSA): 5 adults?
+Customer: yessir!
+Customer Service Agent (CSA): Okie doke! I have 4 star hotels in Calgary, 3 stars in Denver, 2.5 in Burlington 2.5 in Phoenix, and 2 stars in Sacramento.
+Customer: to stay in Calgary how much would it be?
+Customer Service Agent (CSA): 5 people could spend 8 days in Calgary for 795.80USD.
+Customer: queenstown maybe
+Customer Service Agent (CSA): I have a 5 star hotel in Queenstown for 5 people for 13047.90USD.
+Customer: that would work what is it called/
+Customer Service Agent (CSA): That hotel is called the Illustrious Pool Hotel.
+Customer: that seems perfect! what dates would that be/\?
+Customer Service Agent (CSA): August 26-September 1.
+Customer: anything closer to august 13th
+Customer Service Agent (CSA): I have the same hotel for 15395.73USD if you leave on August 15
+Customer: and when would it return?
+Customer Service Agent (CSA): You would return on August 21.
+Customer: if i wanted to be back by the 16th when could i return?
+Customer Service Agent (CSA): You would like to travel from August 13-16?
+Customer: yes please!
+Customer Service Agent (CSA): Sorry, I don't have anything available in Queenstown for those dates.
+Customer: what is available for those dates?
+Customer Service Agent (CSA): I can't find anything in my database for those dates.
+Customer: okay well i guess ill try another time then
+

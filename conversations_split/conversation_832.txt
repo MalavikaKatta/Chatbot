@@ -1,0 +1,5 @@
+Customer: please get me from Jerusalem to Sydney
+Customer Service Agent (CSA): I am sorry but we cannot fulfill that request
+Customer: do you do Beijing flights to Sydney??
+Customer Service Agent (CSA): I regret to inform you that we do not do Beijing to Sydney flights
+

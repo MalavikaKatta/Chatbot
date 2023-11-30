@@ -1,0 +1,24 @@
+Customer: Hey! I need to get out of Jerusalem by Sep 2 for a while. Any options for Queenstown?
+Customer Service Agent (CSA): Unfortunately not...is there another destination city I can look up for you?
+Customer: What if I leave from Marseille?
+Customer Service Agent (CSA): In that case I can definitely get you to Queenstown! How does a trip from September 12 to 17 sound to you?
+Customer: I need to leave by Sep 2 though, is that possible?
+Customer Service Agent (CSA): Absolutely, does August 30 to Sept 2 work?
+Customer: I need to stay at least for a week
+Customer Service Agent (CSA): Unfortunately, our longest trips are 6 days long.
+Customer: Alrighty then, what are the 6 day trip options?
+Customer Service Agent (CSA): The option is the one I previously mentioned to you, which departs on September 12.
+Customer: Can you check for trips to Hamburg from Jerusalem then?
+Customer Service Agent (CSA): I regret to say that we do not offer trips from Hamburg to Jerusalem.
+Customer: Sorry I was asking for trips to Hamburg from Jerusalem
+Customer Service Agent (CSA): Unfortunately we don't have that in our database either.
+Customer: What about Hamburg from Marseille then?
+Customer Service Agent (CSA): We do have that - how does 8 days at the Hotel Peter, from August 31 to September 7, sound to you?
+Customer: Forgot to tell you though, my budget is 1700
+Customer Service Agent (CSA): How many adults and children are traveling with you? For one adult, this package is well below your budget.
+Customer: Just myself. Are there longer packages that would be below my budget?
+Customer Service Agent (CSA): 8 days is the longest we have, but I can get you this trip for only 148.11USD. Should I go ahead and book?
+Customer: Just $148.11? Okay let's book it!
+Customer Service Agent (CSA): Yup! Perfect, its booked! Have a great trip!
+Customer: thanks!
+

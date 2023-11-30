@@ -1,0 +1,24 @@
+Customer: Just looking into vacations departing Phili. Where could I go for under 1200?
+Customer Service Agent (CSA): Just you?
+Customer: yup
+Customer Service Agent (CSA): When are you planning on taking your vacation?
+Customer: Sept 12 to 20
+Customer Service Agent (CSA): I could get you to quite a few places! San Diego, Toronto, Dublin, San Antonio, Long Beach... any of these interest you?
+Customer: Whats the hotel in San Diego?
+Customer Service Agent (CSA): In San Diego it would be a 2.5 star hotel with a 6.91/10 rating near a park.
+Customer: Ok, would you do any better in Toronto?
+Customer Service Agent (CSA): In Toronto it would be a 3.0 star hotel near the cathedral and market. This one has 8.86/10 rating.
+Customer: What about in Dublin?
+Customer Service Agent (CSA): That would be a 2.5 star hotel with 6.77/10 rating.
+Customer: San Antonio?
+Customer Service Agent (CSA): In San Antonio it will only be a 2 star hotel with a 7.15/10 rating.
+Customer: Ok just to put you through one last search, whats good in Long Beach?
+Customer Service Agent (CSA): Not a problem, in Long Beach we've got a 2.5 star hotel with 6.91/10 rating.
+Customer: Could you tell me more about the Toronto hotel?
+Customer Service Agent (CSA): Sure! It offers free parking, free breakfast, and free wifi. You can stay there 8 days from Sept 13-20.
+Customer: Lets book it
+Customer Service Agent (CSA): Would you like the business tickets for 1108.4 or economy tickets for 924.67?
+Customer: economy please
+Customer Service Agent (CSA):  Your trip is booked!
+Customer: thanks!
+

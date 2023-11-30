@@ -1,0 +1,10 @@
+Customer: My friends and I would like to go Belo Horizonte please.
+Customer Service Agent (CSA): How many will you be total? And where are you coming from?
+Customer: We'll be 10 people coming from Guadalajara. If you could find us something really cheap, that would be great!
+Customer Service Agent (CSA): Do you have a specific budget in mind?
+Customer: yeah, 1800 dollars.
+Customer Service Agent (CSA): Sorry, we actually don't have any current openings in trips to Belo Horizonte. Is there somewhere else you would like to go?
+Customer: What? Seriously? That can't be possible. Can you double-check?
+Customer Service Agent (CSA): Unfortunately there is nothing for Belo Horizonte right now.
+Customer: Aw that's a shame. A lot of people will be disappointed. Thanks anyways.
+

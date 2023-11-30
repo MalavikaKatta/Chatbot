@@ -1,0 +1,16 @@
+Customer: Hello there, please check to see if there is a flight leaving from Toronto to Osaka on Sept 1 and returning on September 9.
+Customer Service Agent (CSA): Do you have a budget?
+Customer: Just let me know if you have flights for those dates please.
+Customer Service Agent (CSA): There are no flights from Toronto to Osaka
+Customer: How about from Toronto to Porto Alegre?
+Customer Service Agent (CSA): We have trips from September 1st to 5th, 6th to 9th, and 3rd to 8th.
+Customer: How much does the 3rd to 8th cost?
+Customer Service Agent (CSA): Economy class is 2838.25 and business is 3639.37.
+Customer: Okay before I make up my mind...can you also check to see if there's anything from Toronto to Minneapolis? Also between Sept 1 and 9
+Customer Service Agent (CSA): There is one trip from September 2nd to 6th.
+Customer: What's the cost?
+Customer Service Agent (CSA): Economy is 755.00 and business is 884.18.
+Customer: Okay book that for me instead, business class
+Customer Service Agent (CSA): Great! Your flight is booked! Have a great trip and thank you!
+Customer: Thanks
+

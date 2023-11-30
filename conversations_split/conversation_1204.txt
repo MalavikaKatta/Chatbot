@@ -1,0 +1,13 @@
+Customer: I need to get to Madrid please - quickly.
+Customer Service Agent (CSA): From?
+Customer: And I need to stay in the heart of the city, near restaurants. Salvador.
+Customer Service Agent (CSA): I've got a 5 star hotel. It's not in the heart of the city exactly but it's close to the museum, cathedral, and palace, so I'd say it's pretty nicely located.
+Customer: Ah, ok - yes, there are rarely notable Cathedrals in the suburbs. Should be sufficient... And are you able to book 8 adults and one child there for 2900 dollars?
+Customer Service Agent (CSA): Sorry no, you'd have to raise your budget.
+Customer: In that case my lawyers will have to book on there own - one child and one adult.
+Customer Service Agent (CSA): Can't do that for under 2900 either...
+Customer: How much would it be then?
+Customer Service Agent (CSA): 3651.61 for one adult + one child.
+Customer: Ok, that's fine. I will go ahead with booking
+Customer Service Agent (CSA): Alright! It will be a 14 day trip from the 9th to the 21st.
+

@@ -1,0 +1,11 @@
+Customer: sometime in the next century. but for under 5000
+Customer Service Agent (CSA): Where would you like to go?
+Customer: sapporo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Customer Service Agent (CSA): Where are you leaving from?
+Customer: omg are you serious. las vegas!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Customer Service Agent (CSA): How many people are travelling?
+Customer: just me, me myself and i, moi
+Customer Service Agent (CSA): There are no flights from Las Vegas to Sapporo.
+Customer: fine. get me a flight to sacramento.
+Customer Service Agent (CSA): There are no results for this flight either.
+

@@ -1,0 +1,16 @@
+Customer: I want to go to Kabul from Baltimore
+Customer Service Agent (CSA): I'm afraid we do not have any flights from Baltimore to Kabul. Would you like to go to another city?
+Customer: London?
+Customer Service Agent (CSA): I'm afraid we do not have any flights from Baltimore to London. Would you like to go to another city?
+Customer: Toluca?
+Customer Service Agent (CSA): I'm afraid we do not have any flights from Baltimore to Toluca. Would you like to go to another city?
+Customer: Fortaleza?
+Customer Service Agent (CSA): Yes, we have packages for that. How long would you like to go for and what is your budget?
+Customer: 4100 budget.
+Customer Service Agent (CSA): And is this flight for one person?
+Customer: ya
+Customer Service Agent (CSA): How long would you like to go for? We have 8, 12 and 13 day packages.
+Customer: 13
+Customer Service Agent (CSA): Excellent choice. Would you like me to book it straight away?
+Customer: actually no. I cant book anything. I dont have any vacation days left.
+

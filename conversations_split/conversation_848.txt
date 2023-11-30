@@ -1,0 +1,18 @@
+Customer: yo
+Customer Service Agent (CSA): Hi! What can I do for you?
+Customer: i would like to send my parents away between sept 12 and oct 1 for 1900
+Customer Service Agent (CSA): From where shall they depart?
+Customer: curitiba
+Customer Service Agent (CSA): I can book 19 days for 2 adults in New York for 6200 dollars. How does that sound?
+Customer: i dont have that kind of money
+Customer Service Agent (CSA): How much are you looking to spend?
+Customer: 1900! I told you this
+Customer Service Agent (CSA): Zion Hotel is available for 13 days in Belem.
+Customer: for how much
+Customer Service Agent (CSA): 1511.11 USD
+Customer: that works. ill send them there. I just need them gone so i can go to my competition.
+Customer Service Agent (CSA): Ok, great! Do you want to know more about the trip?
+Customer: yeah sure why not
+Customer Service Agent (CSA): The 4.5 star hotel is on the beach, has free parking, breakfast, and wifi, and the travel dates extend from September 14 until the 26th
+Customer: cool, ya book it. Thanks
+

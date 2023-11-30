@@ -1,0 +1,28 @@
+Customer: hello there
+Customer Service Agent (CSA): Hello to you too
+Customer: i am in need of some price comparisons, I can leave from wherever
+Customer Service Agent (CSA): where would you like to travel to?
+Customer: I have requests for my available window between sept 12 until the 29th. can you tell me what you offer in Milan
+Customer Service Agent (CSA): Do you have a budget?
+Customer: 4300 dollars
+Customer Service Agent (CSA): I have several points of departure to Milan with all 9 day stays at the same hotel. The least expensive is out of Recife, Brazil
+Customer: ok - whats the price and whatre the hotel details?
+Customer Service Agent (CSA): Your 9 day stay at the 4 star Pink Star Hotel would cost 2690.20USD. This hotel is located downtown and is near the cathedral and the museum. Your package deal includes breakfast and wifi.
+Customer: hmmm downtown - sounds a little congested. I need something near a park
+Customer Service Agent (CSA): There's nothing in Milan with a park
+Customer: if I can’t get that in Milan then I’ll try Ciudad Juarez
+Customer Service Agent (CSA): How many days are you looking for in Ciudad Juarez?
+Customer: 4 at the least
+Customer Service Agent (CSA): In Ciudad Juarez, all my hotels are located either near the palace or the museum.
+Customer: what about in Long Beach?
+Customer Service Agent (CSA): Are you able to depart from Santo Domingo on September 20th?
+Customer: whats the package?
+Customer Service Agent (CSA): Muse Inn is located right near a park and is available for a 10 day stay at 1547.70USD. This is a 3 star hotel with a 8.49/10 user rating.
+Customer: awesome! is breakfast included? And parking?
+Customer Service Agent (CSA): yes parking
+Customer: lets go ahead and book it
+Customer Service Agent (CSA): Should I begin the booking process then?
+Customer: please
+Customer Service Agent (CSA): I will send email confirmation with all the pertinent details. Have a pleasant day!
+Customer: thank you much appreciated
+

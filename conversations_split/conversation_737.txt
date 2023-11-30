@@ -1,0 +1,3 @@
+Customer: Do you do New York to Jerusalem?
+Customer Service Agent (CSA): I’m sorry, we don’t offer packages between these locations.
+

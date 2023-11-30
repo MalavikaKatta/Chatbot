@@ -1,0 +1,26 @@
+Customer: you do flights yea?
+Customer Service Agent (CSA): Welcome. Yes we do, we specialize in travel packages.
+Customer: then get me from columbus to sapporo. dates don't matter but see if you can do it for under 3900
+Customer Service Agent (CSA): I have no travel  packages from Columbus to Sapporo. May I check other destinations?
+Customer: you got any flights to kobe instead?
+Customer Service Agent (CSA): I have several packages in Kobe available for under 3900. Would you prefer to remain in Kobe 12 or 15 days?
+Customer: 15 days? what kind of hotel would that be
+Customer Service Agent (CSA): That would be the Royal Island Inn, close to the market and the palace. The accommodations are 3 star and wifi is provided free of charge.
+Customer: what do other guests think of this place?
+Customer Service Agent (CSA): The guest rating is 0/10, but that may just mean that the hotel has not been reviewed by guests yet.
+Customer: are there any other choices?
+Customer Service Agent (CSA): There are a couple of 12 day options, the Resort Ancient Angel, a 3 star rated hotel with a guest rating of 8.69/10  or 12 days at the White Square, a 3.5 star rated hotel with a guest rating of 6.91/10.
+Customer: Does the first option have any amenities?
+Customer Service Agent (CSA): The first one provides free wifi whereas the second provides free wifi and breakfast
+Customer: is that second one near anything cool?
+Customer Service Agent (CSA): I have no information as to the location of the first hotel but the White Square is located near a park.
+Customer: lets go with that then. i need my free breakfast
+Customer Service Agent (CSA): Would you prefer to be booked on economy or business class flights?
+Customer: what does the business class package cost?
+Customer Service Agent (CSA): It is priced at 3585.81USD. The flight departs on September 8th and returns on September 18th.
+Customer: what about economy
+Customer Service Agent (CSA): Economy is priced at 2781.12USD with the same departure and return.
+Customer: lets do that then. i need to save up to splurge on all that good food
+Customer Service Agent (CSA): You are now booked on economy class flights from Columbus to Kobe. Have a pleasant stay.
+Customer: thanks thanks
+

@@ -1,0 +1,13 @@
+Customer: I want to book a trip for my honeymoon!
+Customer Service Agent (CSA): Where do you want to go?
+Customer: My soon to be husband and I really want to go to Ulsan for 5 days, can you make it happen?
+Customer Service Agent (CSA): Hopefully! Where do you want to leave from?
+Customer: Valencia!
+Customer Service Agent (CSA): When?
+Customer: After September 11!
+Customer Service Agent (CSA): Ok - what is your budget?
+Customer: Ooh we spent a lot on the wedding so we have to be careful. 4200 at most!
+Customer Service Agent (CSA): I’m sorry, I cannot accommodate two adults on your budget. Perhaps another destination would be more suitable?
+Customer: Are you kidding? What about a trip to Busan? You better have that at least.
+Customer Service Agent (CSA): I do not have trips to Busan from Valencia for 2 people that cost less than 4200 dollars.
+

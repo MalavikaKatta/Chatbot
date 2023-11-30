@@ -1,0 +1,18 @@
+Customer: get me from Buenos Aires to the nicest hotel in Punta Cana. And I mean ASAP!!!!
+Customer Service Agent (CSA): Does August 30th as a departure date work for you?
+Customer: Yes, I just need to get back by Sepetember 12.
+Customer Service Agent (CSA): Great! The package I’m looking at would have you back on Sept 4
+Customer: Ok, but how good is the hotel. I need business class tickets also.
+Customer Service Agent (CSA): The hotel is unrated. The price with a business class ticket would cost 2625.38USD
+Customer: What about Fukuoka then, can you find me a five star hotel there
+Customer Service Agent (CSA): The hotel is in Punta Cana. 
+Customer: I want Buenos Aires to Fukuoka
+Customer Service Agent (CSA): And you would only like options for 5 star hotels?
+Customer: Preferably, yes. Thats where my superstar self ought to stay, away from the riff raff.
+Customer Service Agent (CSA): I’m sorry but the highest hotel rating I can find is the Oceanside Hotel with a 4 star rating.
+Customer: Ratings, amenities, is it near anything cool?
+Customer Service Agent (CSA): Its in the heart of the city and has free wifi. The package costs 8316.1USD from September 3-11
+Customer: What would it cost if I booked for two adults
+Customer Service Agent (CSA): 14828.39USD with business class flights.
+Customer: BOOK IT.
+

@@ -1,0 +1,14 @@
+Customer: I only have 1800 in the bank though... can't do anything with that I bet
+Customer Service Agent (CSA): Depends! Where are you located ?
+Customer: Hold on let me check... I tend to forget since I never leave my cubicle. OH RIGHT I live in Cordoba
+Customer Service Agent (CSA): Oh, ok! I will see what we have - but did you have anywhere in mind?
+Customer: I don't suppose I can go to Queenstown?
+Customer Service Agent (CSA): You absolutely could! You could stay 10 days at a 5 star hotel with free breakfast and wifi and spend less than 1000 dollars.
+Customer: Can you tell me if it's by the beach?? Or a park?? Where I can go out and enjoy the sun?
+Customer Service Agent (CSA): I’m sorry but I haven’t got any information on the nearby attractions.
+Customer: Now I don't think my money can take me to Houston can it?
+Customer Service Agent (CSA): Not with your budget, sorry.
+Customer: Then my dream city Seattle won't work for me either right?
+Customer Service Agent (CSA): Sorry, no.
+Customer: Thanks! Back to work!
+

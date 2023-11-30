@@ -1,0 +1,22 @@
+Customer: Hi im from Hauston looking to get to my internship
+Customer Service Agent (CSA): Where would you like to go and when would you like to start?
+Customer: Ulsan, i should be ther on August 27th
+Customer Service Agent (CSA): Let me see what I can find. Do you have to stick to a budget?
+Customer: $5600 unfortunately very tight budget
+Customer Service Agent (CSA): I have here 11 days in Ulsan at a 5 star hotel for 4484.47 USD, what do you think?
+Customer: What do you have in Athens
+Customer Service Agent (CSA): I have 5 day stays starting at 4038.40 USD in Athens.
+Customer: When does it leave?
+Customer Service Agent (CSA): For 4102.24 USD, you can leave on August 27th.
+Customer: I will have to book that
+Customer Service Agent (CSA): Great! The Lunar Jewel Lodge is a 3 star hotel with free wifi and parking.
+Customer: you know wha never mind scratch that i want to book the 11 day stay in ulsan
+Customer Service Agent (CSA): The Crimson Seaside Hotel has 4 stars and a 7.06/10 user rating. It's located near the market and royal palace, and offers free wifi and parking.
+Customer: when would it leave and return?
+Customer Service Agent (CSA): It leaves August 27th at 1:29 am and returns on September 5th.
+Customer: That seems great! and what is that like compared to if i wanted to go to Tolucca
+Customer Service Agent (CSA): I'm sorry, but I cannot find any results for Tolucca.
+Customer: OKay well let’sbook the one to ulsan
+Customer Service Agent (CSA): Fantastic, you're all booked up!
+Customer: Thank yoU!
+

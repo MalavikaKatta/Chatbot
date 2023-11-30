@@ -1,0 +1,7 @@
+Customer: Can you get me and my family a vacation that departs from Jerusalem?
+Customer Service Agent (CSA): Any specific destinations in mind?
+Customer: Tampa
+Customer Service Agent (CSA): How many adults and children in your family?
+Customer: 14 adults 13 children.
+Customer Service Agent (CSA): I do not have any packages available from Jerusalem to Tampa available for that many people.
+

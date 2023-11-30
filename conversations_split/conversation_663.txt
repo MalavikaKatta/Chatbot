@@ -1,0 +1,10 @@
+Customer: send my parents somewhere for 1800 from Burlington
+Customer Service Agent (CSA): When?
+Customer: Sept 2-19
+Customer Service Agent (CSA): I can get them to Calgary from September 7th to 19th. This is a 4 star hotel 0/10 guest rating, free parking and wifi, near a university, business flights, and the total cost is 674.27.
+Customer: that's awesome! is that the longest trip you have available?
+Customer Service Agent (CSA): Our longest trip is from September 3rd to 17th at a 2 star hotel near a park, museum, and university, free parking, breakfast, and wifi, 6.51/10 guest rating, economy flight, total price of 1735.78.
+Customer: It'll be way easier to sell them on the 4 star. Can I book that first package for them
+Customer Service Agent (CSA): Yes! This package is booked! You will receive a confirmation email soon! Have a great day!
+Customer: Thanks!
+

@@ -1,0 +1,28 @@
+Customer: we have a big group to book for!
+Customer Service Agent (CSA): Okay! How big?
+Customer: 4 adults 7 kids. leaving from washington. can you just give me some options that cost less than 30300
+Customer Service Agent (CSA): When would you like to leave?
+Customer: After September 12
+Customer Service Agent (CSA): We have a package to Indianapolis, St. Louis, Dublin, San Antonio, and Hamburg.
+Customer: Indianapolis? anything on the beach there
+Customer Service Agent (CSA): Yes! The hotel is on the beach and close to shopping hot spots.
+Customer: Does it come with free parking? Could look into renting a car
+Customer Service Agent (CSA): Yes, free parking, breakfast, and wifi are all included.
+Customer: What is the rating for this hotel?
+Customer Service Agent (CSA): 2.5 stars and 6.37/10 guest rating.
+Customer: Could we afford anything better there?
+Customer Service Agent (CSA): You can afford a 3 star hotel near the beach, airport, park, and university. This hotel also has a 7.15/10 guest rating and offers free parking, breakfast, and wifi.
+Customer: Whats the best thing you can get me in SL?
+Customer Service Agent (CSA): The best package to St. Louis is a 3.5 star hotel, 9.16/10 guest rating, free parking, breakfast and wifi, near the airport and theatre, from September 16th to 29th, 15910.39 for business flights, 12853.36 for economy flights.
+Customer: Can you check whats in Dublin?
+Customer Service Agent (CSA): We don't have any hotels above 2.5 stars.
+Customer: What about in San Antonio?
+Customer Service Agent (CSA): There are only 2 star hotels in San Antonio.
+Customer: Hamburg then??
+Customer Service Agent (CSA): Our best package here is a 4.5 star hotel near the airport, 9.16/10 guest rating, free parking and wifi, from September 13th to 30th, 24501.33 for business flights, 19293.70 for economy flights.
+Customer: Yes I’d like to confirm
+Customer Service Agent (CSA): Business or economy flight?
+Customer: business would do
+Customer Service Agent (CSA): Great! You will get a confirmation email soon which will include details about the trip. Have a great day!
+Customer: Thanks!
+

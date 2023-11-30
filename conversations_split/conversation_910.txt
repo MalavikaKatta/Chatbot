@@ -1,0 +1,33 @@
+Customer: I have to get home and to be honest with you I'm kinds happy cause I'm sick of carrying around this 50lb backpack!
+Customer Service Agent (CSA): Sure! Where are you looking to go? And where are looking to leave?
+Customer: Berlin. Tofino.
+Customer Service Agent (CSA): Is there an alternate departure point you could travel from?
+Customer: Toronto
+Customer Service Agent (CSA): Starlight Hotel is available. You can depart September third.
+Customer: How much!
+Customer Service Agent (CSA): For this package, a 14 day stay, it's 2459.74USD. An alternate package is available for 2162.77USD from September 8th-17th
+Customer: The 3rd is definitely better. What else can you tell me about what this hotel offers?
+Customer Service Agent (CSA): The hotel is 5 stars, has free breakfast and wifi, and is near cathedrals and museums.
+Customer: 5 star sounds nice after sleeping on the side of the road for months! But do you have anything cheaper? Not used to spending money like that.
+Customer Service Agent (CSA): That is the cheapest price available unless you leave on the 8th.
+Customer: Even if I go down in hotel category or stay a max of 5 days?
+Customer Service Agent (CSA): Yes, just 2162.77USD for 10 days leaving on the 8th.
+Customer: I don't need to stay 14 days
+Customer Service Agent (CSA): As I said, 10 days.
+Customer: No 5 day packages?
+Customer Service Agent (CSA): No, sorry.
+Customer: Actually. let's just see if we can find something in Sao Paulo out of Toronto.
+Customer Service Agent (CSA): I have nothing from Toronto to Sao Paulo.
+Customer: Tofino To Sao Paulo?
+Customer Service Agent (CSA): I have nothing from Tofino to Sao Paulo.
+Customer: Ugh! I really need to get home...I'll just book the flight leaving on the 3rd.
+Customer Service Agent (CSA): You're booked!
+Customer: What was the name of the place again?
+Customer Service Agent (CSA): Berlin.
+Customer: The hotel
+Customer Service Agent (CSA): Starlight Hotel is available
+Customer: Yeah that's the one.
+Customer Service Agent (CSA): Ok. Done.
+Customer: thanks bud
+Customer Service Agent (CSA): My pleasure!
+

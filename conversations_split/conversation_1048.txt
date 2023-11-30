@@ -1,0 +1,10 @@
+Customer: I have clients to meet with in Rome, I need to travel there some time soon - anytime, any price.
+Customer Service Agent (CSA): Where will you need to leave from?
+Customer: I can leave from Berlin
+Customer Service Agent (CSA): Is anyone else going to be travelling with you?
+Customer: No, I alone
+Customer Service Agent (CSA): The best package I can offer is at The Double Pastures, a 4 star hotel near a cathedral, 8.98/10 guest rating, free breakfast and wifi, from September 11th to 23rd, business flights for 911.50, and economy flights for 810.76.
+Customer: Ideal. Book business flights please
+Customer Service Agent (CSA): Great! It is booked! Have a great day!
+Customer: You’re great
+

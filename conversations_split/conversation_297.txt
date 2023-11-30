@@ -1,0 +1,7 @@
+Customer: hi there. need to book a trip to denver
+i live in houston
+sept 10 to 11
+Customer Service Agent (CSA): Ok! I can help you with that. Do you have a budget?
+Customer: budget is $3300
+Customer Service Agent (CSA): Sadly I have nothing available for your date range. Are you flexible on when you travel?
+

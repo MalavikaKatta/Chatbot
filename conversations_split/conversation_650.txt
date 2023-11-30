@@ -1,0 +1,24 @@
+Customer: Hey, I need to take two of my clients for a few days on a business trip. We have to leave Aug 29
+Customer Service Agent (CSA): I can help with that, where are you leaving from and where do you plan on going?
+Customer: We'll be leaving from St. Petersburg. Can you check for trips to Osaka first?
+Customer Service Agent (CSA): Certainly, this is for three adults?
+Customer: yes
+Customer Service Agent (CSA): We don't have flights leaving on August 29, but would September 2 be okay?
+Customer: Can you check whether you have Aug 29 for Brasilia then?
+Customer Service Agent (CSA): That I do! How does a 12 day trip to the Parallel Angel sound?
+Customer: Do you have a shorter option? It's only a business trip and I might not want to spend 12 days with my clients
+Customer Service Agent (CSA): How does 9 days sound instead?
+Customer: Can you also check check Athens for me?
+Customer Service Agent (CSA): We have an option for August 30 to September 11 in Athens.
+Customer: What kind of hotel is it?
+Customer Service Agent (CSA): Its the Lunar Jewel Lodge, a 3 star hotel near the mall.
+Customer: and that's the only option?
+Customer Service Agent (CSA): Yes, thats the only hotel we have in Athens
+Customer: okay back to Brasilia. Do you have something closer to 5 days?
+Customer Service Agent (CSA): We have 7 day trips, but they all depart on September 8. Would you prefer these instead?
+Customer: You know what, the 9 days leaving Aug 29 sounds better. business?
+Customer Service Agent (CSA): For 9382.7USD, I can book all of you on business class!
+Customer: Awesome! Please book it
+Customer Service Agent (CSA): Will do, and send an email confirmation your way. Have a great trip!
+Customer: Thank you!
+

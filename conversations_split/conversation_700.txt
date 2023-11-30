@@ -1,0 +1,18 @@
+Customer: Hello. me and my grand child would like to go on a a trip.
+Customer Service Agent (CSA): Can you give me more information on what your requirements are?'
+Customer: I won 3300 on the slots and would like to go to Kobe
+Customer Service Agent (CSA): Cool! Do you have any dates in mind?
+Customer: I'm available from September 12 to the 26th
+Customer Service Agent (CSA): Where will you be flying from?
+Customer: phoenix.
+Customer Service Agent (CSA): Nothing goes from Phoenix to Kobe on your budget. Any alternate destinations?
+Customer: I can go to Burlington, I suppose.
+Customer Service Agent (CSA): I can get you to Burlington...how would you like to stay at the Celestial Inn & Suites?
+Customer: This hotel... Does it have amenities?
+Customer Service Agent (CSA): They offer free breakfast and wifi!
+Customer: When does my airplane take off to take me to Burlington?
+Customer Service Agent (CSA): The flight departs at 10:00AM on September 12, and the return flight departs at 3:00AM on September 18.
+Customer: This is terrible. I cannot leave at 3 am!
+Customer Service Agent (CSA): All of our return flights from Burlington depart at 3:00AM.
+Customer: Goodbye, you can't offer me a good trip!
+

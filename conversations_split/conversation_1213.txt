@@ -1,0 +1,21 @@
+Customer: san jose to guadalajara
+Customer Service Agent (CSA): When would you like to go?
+Customer: between septemeber 6 to 21
+Customer Service Agent (CSA): How many total will be traveling? And do you have a budget?
+Customer: one no
+Customer Service Agent (CSA): Alrighty then, our very best in Guadalajara is a 3.0 star hotel with 8.37/10 guest ratings and located near a park and an airport. I can offer you a 14 day stay with business flights.
+Customer: san jose to cordoba
+Customer Service Agent (CSA): In Cordoba I can get you a 5.0 star hotel with 8.98/10 ratings next to a museum. We have a 11 day trip available.
+Customer: san jose to kyoto
+Customer Service Agent (CSA): In Kyoto it will be a 3.0 star hotel also next to a museum. Average guest rating is 8.22/10 and the longest trip is 9 days.
+Customer: san jose to calgary
+Customer Service Agent (CSA): In Calgary we have a 14 day trip to a 4 star hotel next to a university.
+Customer: how much for the cordoba one
+Customer Service Agent (CSA): 2990.99 in business class and 2330.97 in economy class.
+Customer: what is the calgary guest rating
+Customer Service Agent (CSA): 0/10
+Customer: ok cordoba... sounds better..
+Customer Service Agent (CSA): I agree. Would you like me to confirm the business or economy package for you?
+Customer: business pls
+Customer Service Agent (CSA): Done! Anything else I can do for you today?
+

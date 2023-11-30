@@ -1,0 +1,10 @@
+Customer: Wanna get my parents out of Kingston. I've got 2000. need them gone between september 20th and october 10th
+Customer Service Agent (CSA): We've got an amazing 4 star hotel that will work for your parents! It is close to the park, museum, and cathedral. Do you think this will interest them?
+Customer: I think it would, they are homebodies usually so I think they would enjoy getting out and seeing the world. Where is this trip to?
+Customer Service Agent (CSA): It will be 13 days in Vancouver from September 28 to October 10.
+Customer: What does it cost?
+Customer Service Agent (CSA): 1430.86 for economy and 1684.93 for business.
+Customer: I’ll give them economy, might make it easier to sell the trip to them if they know its business flights. Book it!
+Customer Service Agent (CSA): Alright I have booked for the two of them! Anything else for today?
+Customer: nope! Thanks! You’re a life saver!
+

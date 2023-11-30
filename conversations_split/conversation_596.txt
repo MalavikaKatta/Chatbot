@@ -1,0 +1,13 @@
+Customer: i need a trip under the radar from mannheim to fukuoka
+i need to be back here for august 30th
+Customer Service Agent (CSA): Do you have a budget?
+Customer: no
+Customer Service Agent (CSA): Is this for 1 person?
+Customer: no. two adults
+Customer Service Agent (CSA): We have one result for a 3 star hotel in the heart of the city. This hotel has a 6.61/10 guest rating and offers free wifi. The departure flight is on August 27th and the returning flight is on the 30th. Total price for business class is 7561.52.
+Customer: what do you have available in Buenos Aires.. anything of a higher rating?
+Customer Service Agent (CSA): There are no results for Buenos Aires.
+Customer: What if I leave from Osaka instead of Mannheim?
+Customer Service Agent (CSA): Nothing for this either.
+Customer: fine, the Kobe package then
+

@@ -1,0 +1,17 @@
+Customer: We have decided to go visit my sister in Sao Paulo. What do you have out of Santa Cruz?
+Customer Service Agent (CSA): Yes we do. How many are you? And when do you want to go?
+Customer: We are 8 in total. 6 adults and 2 children.  We can go whenever, let's see what you have to offer.
+Customer Service Agent (CSA): Is there a budget you want me to work with?
+Customer: 17100
+Customer Service Agent (CSA): Alrighty, we can put the family in a 3.0 star hotel in the heart of Sao Paulo near a cathedral and a theatre for 11 days. How does that sound?
+Customer: Well that sounds kind of okay. What else you've got?
+Customer Service Agent (CSA): Your other option is a 2.0 star hotel also close to a cathedral and a theatre. We have a 9 day trip there.
+Customer: Nah I prefer the first one. What does the first package include?
+Customer Service Agent (CSA): Breakfast and wifi is included
+Customer: And how much is it?
+Customer Service Agent (CSA): 12800.18 for the family or 16320.33 if you want to splurge for business class.
+Customer: I rather fly economy and keep the rest as spending money! Can you please make the reservation fo rme?
+Customer Service Agent (CSA): Sure! All is done. You are headed to Sao Paulo for 11 days from September 13-22!
+Customer: Thank you, friend
+Customer Service Agent (CSA): You're welcome, human!
+

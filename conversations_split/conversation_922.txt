@@ -1,0 +1,19 @@
+Customer: Hello. I'd like to leave from Tel Aviv
+And go to Puebla
+Customer Service Agent (CSA): Are you travelling alone?
+Customer: I'm traveling with 6 adults including myself. We have 2200 between us
+Customer Service Agent (CSA): There are no results.
+Customer: How about......if we left from Tofino?
+Customer Service Agent (CSA): Still nothing.
+Customer: How about......if we went to Portland instead
+...but this time...
+...with 3 adults...
+...and...
+...wait for it...
+...2500 in cold, hard, cash
+Customer Service Agent (CSA): Portland from Tofino or Tel Aviv?
+Customer: Whichever works
+Customer Service Agent (CSA): There are no results.
+Customer: Well I can't say I didn't try hard enough
+Customer Service Agent (CSA): Bye! Come again!
+

@@ -1,0 +1,9 @@
+Customer: I want to go to Monterrey from Tofino
+Customer Service Agent (CSA): Do you have a budget?
+Customer: no I am very flexible with the price. but I would like it if it could be around 3300 for 7 adults
+Customer Service Agent (CSA): I am sorry, but  I don't have any results for that
+Customer: I could increase my budget by 200.
+Customer Service Agent (CSA): Hi, so after double checking, I found that we do have something to Long Beach
+Customer: No, that wont work. hmm i guess i'll have to go somewhere else. that's okay. Thanks for the help anyway.
+Customer Service Agent (CSA): Goodbye
+

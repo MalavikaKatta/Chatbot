@@ -1,0 +1,25 @@
+Customer: I'm so happy, my wife is finally letting me plan the family vacation! We saved all of our loonies and twonies this year and we have a whole $5000 to spend! Now, I have to impress her by getting the best possible information on all of our options. I think Belem would be a great place to take the kiddies!
+Customer Service Agent (CSA): I'd be happy to look into that for you! From where are you leaving?
+Customer: We live in Goiania
+Customer Service Agent (CSA): And how many kids do you have?
+Customer: We have 5 beautiful children, 2 girls and 3 boys. Their names are Sansa, Arya, Robb, Brandon and Rickon.
+Customer Service Agent (CSA): I'll also need the dates you are available. Then i'll be able to start presenting you with some options!
+Customer: We can leave from August 30th to September 6th, before winter sets in
+Customer Service Agent (CSA): For those days, I have one package which is a 4 day stay at the Gentle Tower Resort. Its a four star hotel close to the beach and the airport and it has excellent user reviews. Is that a long enough stay for you?
+Customer: We would prefer something longer....winter is coming. How about south to Baltimore. What do you have available there on the dates I gave you?
+Customer Service Agent (CSA): The packages we have to Baltimore do not fit in your budget. Did you have any other destinations in mind?
+Customer: well how much is it?
+Customer Service Agent (CSA): The cheaper one is over 17000
+Customer: We've heard Hamburg is really kid friendly!
+Customer Service Agent (CSA): I have something for you in Hamburg! I can offer you a 7 day holiday at Hotel Peter. You would be staying in the heart of the city and close to a museum. The package includes free breakfast, wifi and parking and you could fly in business class and still be within your budget.
+Customer: How much is that one? Is that one on business class too?
+Customer Service Agent (CSA): The one in Hamburg is 4963.89USD in business and 3722.99USD if you prefer to fly in economy. The Gentle Tower package is 4407.43USD and is only available with economy flights.
+Customer: What dates for Hambuurg?
+Customer Service Agent (CSA): Your stay there would be from August 31st to September 5th.
+Customer: And in Belem?
+Customer Service Agent (CSA): That one is from September 2nd to the 5th.
+Customer: Well we definitely would not fly business class with all those kids, definitely economy whatever we choose. You said Gentle Tower is on the beach, is Hamburg also on the beach?
+Customer Service Agent (CSA): No, the Hamburg hotel is in the heart of the city and close to a museum.
+Customer: How many stars is the hotel Peter rated?
+Customer Service Agent (CSA): It is a 3 star hotel.
+

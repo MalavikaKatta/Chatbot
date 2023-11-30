@@ -1,0 +1,40 @@
+Customer: Hi I'm looking for a cool place to go to with my friends, do you think you can help me?
+Customer Service Agent (CSA): Sure!! Where are you leaving from?
+Customer: From La Paz
+Customer Service Agent (CSA): How many of you will there be?
+Customer: I'm going with a bunch of friends but I'm just booking it for myself.
+Customer Service Agent (CSA): And do you have a budget?
+Customer: Yeah I'm not made of money so 3600 is the absolute maximum.
+Customer Service Agent (CSA): Ok! Where do you want to go?
+Customer: I hear Toronto is pretty cool! I can only go between Saturday September 10 and Friday September 23 though because those are the only days I have school off!
+Customer Service Agent (CSA): You can fly business class and stay at the 3 star Hotel Richard for only 1372.80USD! You would leave September 13th and return home on the 21st
+Customer: Hotel Richard? Where is that located? Is that in the heart of the city?
+Customer Service Agent (CSA): It is near a market and a cathedral.
+Customer: That sounds like a pretty sweet deal, I gotta admit. I want to check out another destination though before I make a final decision/
+Customer Service Agent (CSA): I will book this package.
+Customer: Got any packages for a trip to Paris?
+Customer Service Agent (CSA): Enjoy your stay at the Hotel Richard :slightly_smiling_face:
+Customer: Dude. You better give me some options for Paris right now.
+Customer Service Agent (CSA): I will book Hotel Regal Universe in Paris for 3642.59USD. Have a nice vacation :slightly_smiling_face:
+Customer: Hey hey, don't be so quick. And that's out of my budget.
+Customer Service Agent (CSA): Would you like to stay at a 4 star hotel with a 8.49/10 guest rating?
+Customer: For how many days? Is that the one you mentioned at Hotel Regal Universe?
+Customer Service Agent (CSA): Hotel Regal Universe has a guest rating of 9.16/10. I will book this package from September 12th-19th.
+Customer: Don't book a damn thing until I say so, man.
+Customer Service Agent (CSA): Would you like to book Hotel Regal Universe from September 12th-19th?
+Customer: Is it under 3600?
+Customer Service Agent (CSA): 3462.59USD is the cost with economy class flights.
+Customer: Is that all you've got?
+Customer Service Agent (CSA): Autumn Treasure Hotel is available from September 15th to 23rd for 3039.53USD.
+Customer: That also sounds pretty sweet. How many stars does this hotel have and what's the guest rating?
+Customer Service Agent (CSA): 4 stars, 8.49/10 guest rating.
+Customer: Hey that's a sweeter deal than the other you gave me.
+Customer Service Agent (CSA): Well I will book Autumn Treasure Hotel for you. Enjoy your stay.
+Customer: I didn't even say...Yeah okay whatever.
+Customer Service Agent (CSA): Goodbye.
+Customer: Wait, Is it an economy class flight?
+Customer Service Agent (CSA): Yes.
+Customer: Okay. Cool.
+And by the way, you should learn to stop being so hasty and rushing customers.
+Customer Service Agent (CSA): Thank you.
+

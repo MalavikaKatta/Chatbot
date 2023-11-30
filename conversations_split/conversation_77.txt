@@ -1,0 +1,12 @@
+Customer: HI there! my family and i are looking to go to Burlington
+Customer Service Agent (CSA): I can certainly help you with that! How many of you will be travelling?
+Customer: 1 child and 6 adults
+Customer Service Agent (CSA): Ok! Where would you like to leave from?
+Customer: Campinnas
+Customer Service Agent (CSA): Would you like to spend August 17-August 24 in Burlington? I have flights and a hotel available for 9610.39USD.
+Customer: ya sure that sounds great! and how much would that be for business?
+Customer Service Agent (CSA): To upgrade that package to Business class would total 12376.71USD.
+Customer: Let's book it! too good of a deal!
+Customer Service Agent (CSA): Sure thing :slightly_smiling_face: Enjoy your stay!
+Customer: thank you!
+

@@ -1,0 +1,24 @@
+Customer: Heyo!
+Customer Service Agent (CSA): Hi! What can I do for you today?
+Customer: I'd like to go to Seattle from Belem between August 27th and September 5th. What is available?
+Customer Service Agent (CSA): I've got a 3.5 star hotel available for 3171.58USD travelling on those dates!
+Customer: That sounds good. What are my options if I leave from Belo Horizonte?
+Customer Service Agent (CSA): I can book you the same hotel but returning on September 3rd if you leave from Belo Horizonte.
+Customer: For how much?
+Customer Service Agent (CSA): That would cost 3332.23USD.
+Customer: Ok let me see, what about a trip to Paris leaving from Belem between the same dates?
+Customer Service Agent (CSA): I don't have anything available in Paris between those dates unfortunately.
+Customer: What about Sao Paulo?
+Customer Service Agent (CSA): Would you like to travel to or from Sao Paulo?
+Customer: Travel to Sao Paulo.
+Customer Service Agent (CSA): I can book you 6 days in Sao Paulo for 907.3USD if you leave from Belem.
+Customer: Fantastic! And if I leave from Belo Horizonte?
+Customer Service Agent (CSA): I can get you 4 days for 853.71USD if you leave from Belo Horizonte.
+Customer: Ok. I choose the trip to Seattle from Belem. What are the arrival and departure dates and times?
+Customer Service Agent (CSA): Great, the 3.5 star hotel for 3171.58USD?
+Customer: Yes!
+Customer Service Agent (CSA): You will depart from Belem at 1:00 pm and arrive in Seattle at 11:59 pm on Saturday, August 27th. When leaving Seattle, you will depart at 4:00 am on Monday, September 5th and arrive back in Belem at 2:59 pm on that same day.
+Customer: Excellent! Let's book this one.
+Customer Service Agent (CSA): Great! Consider it done.
+Customer: Thanks, friend!
+

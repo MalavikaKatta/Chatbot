@@ -1,0 +1,28 @@
+Customer: I want to go to Leon from Nagoya between the 13th and october 2nd.
+Customer Service Agent (CSA): Are you travelling with a budget?
+Customer: no
+Customer Service Agent (CSA): I have a 5 star hotel available for you from September 20th-29th for only 2976.60USD. How does this sound?
+Customer: That sounds amazing. Before I make up my mind can you check a few other places for me? I was thinking about Boston.
+Customer Service Agent (CSA): Of course! In Boston I have two 2.5 star hotels and one 3 star hotel available.
+Customer: Tell me more about the 3 star hotel.
+Customer Service Agent (CSA): It has a 8.37/10 user rating, is near a park, and provides free breakfast, wifi, and parking.
+Customer: Not bad. Can you check packages to Sapporo?
+Customer Service Agent (CSA): In Sapporo I have one hotel available with 8 or 12 day packages. It is 3 stars, unrated by users, and is near a park and a museum.
+Customer: Tell me more
+Customer Service Agent (CSA): It has free wifi, parking, and breakfast.
+Customer: Great! One more place i'd like to know about is Hamburg.
+Customer Service Agent (CSA): In Hamburg I have 4.5, 3, and 4 star hotels.
+Customer: can I hear about the 4.5 star
+Customer Service Agent (CSA): That would be the Glacier: it is near the airport with a 9.16 user rating. The hotel includes free parking and wifi use.
+Customer: That sounds ideal. Can you tell me more about the 5 star Leon package?
+Customer Service Agent (CSA): The hotel is near a market and has free wifi.
+Customer: What is the guest rating?
+Customer Service Agent (CSA): 9.16/10
+Customer: Great! I would like to book this package then
+Customer Service Agent (CSA): Ok! Economy or business class seats?
+Customer: Business
+Customer Service Agent (CSA): Okie doke - that’ll be 3837.41USD.
+Customer: Awesome! book it!
+Customer Service Agent (CSA): It's booked! Thanks for working with us!
+Customer: thank you!
+

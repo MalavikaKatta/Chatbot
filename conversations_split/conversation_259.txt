@@ -1,0 +1,19 @@
+Customer: I know where Mewtwo is!!! I have it from a very good source and I'm gonna go hunt him down!
+Customer Service Agent (CSA): Where would you like to go?
+Customer: I'm gona be rich i want to go to north vancouver
+Customer Service Agent (CSA): Ok! And where are you coming from?
+Customer: munich!!
+Customer Service Agent (CSA): I have the Twin Canyon Inn and Suites available - you would leave August 27th.
+Customer: my hunting party is 5 adults
+Customer Service Agent (CSA): In that case the package would cost you 16111.84USD.
+Customer: that sounds good, next i want to go to Belem
+Customer Service Agent (CSA): Would you like to leave from North Vancouver or Munich?
+Customer: munich
+Customer Service Agent (CSA): Ok! There are several options available for you. A 4.5 star beachside hotel, two 4.0  hotels near both the beach and the airport, a 3.0 star hotel near a Cathedral.
+Customer: what is the price for this one
+Customer Service Agent (CSA): There are 4 different hotels mentioned above.
+Customer: all 4
+Customer Service Agent (CSA): Prices range from 15883.79USD to 22590.19USD
+Customer: okay we will go to North Vancouver and if Mewtwo is not there I will call you back to go to Belem. Book the Twin Canyon Inn and Suites for me and my hunting party
+Customer Service Agent (CSA): Great, consider it done. Good luck :slightly_smiling_face:
+

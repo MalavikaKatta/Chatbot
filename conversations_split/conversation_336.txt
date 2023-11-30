@@ -1,0 +1,15 @@
+Customer: i need to book a trip to rio de janeiro
+Customer Service Agent (CSA): Where are you leaving from?
+Customer: from belem. we are 9
+7 children
+two adults
+Customer Service Agent (CSA): When would you like to leave?
+Customer: august 31 and sept 19
+Customer Service Agent (CSA): Do you have a budget?
+Customer: 4900
+Customer Service Agent (CSA): We have one hotel to Rio de Janeiro. This hotel is 2.5 stars and offers free wifi, breakfast, and parking, there is also a park and shopping mall. Economy class is 2848.99 and business class is 3798.11. The trip is from September 1st to 13th.
+Customer: and this is for 9?
+Customer Service Agent (CSA): yes
+Customer: ok
+ii need my wife's approval. so wont be booking right now
+

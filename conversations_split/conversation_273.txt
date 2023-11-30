@@ -1,0 +1,17 @@
+Customer: I'm a world famous photographer and I need to book a trip on August 24. Do not disappoint me.
+Customer Service Agent (CSA): Hello! Certainly, I'll see what I can do. Where would you like to go and where are you leaving from?
+Customer: It's not "like" to go it's "need" to go. Comprende vous? I need to go to Pittsburgh. This is worth a lot of $ to me so you have to get me there. I'm in Buenos Aires at the moment.
+Customer Service Agent (CSA): Of course. And when do you need to leave by?
+Customer: i need to leave on August 24
+Customer Service Agent (CSA): I can offer you a flight on August 24th to the Sunny Wolf Inn and Suites for 1608.50 USD. Does this suit your needs?
+Customer: In Pittsburgh right?
+Customer Service Agent (CSA): I only have 2.5 star hotels in Pittsburgh, however it does offer free breakfast, wifi and parking. It also has a guest rating of 8.49/10.
+Customer: Can you find me a five star, even if I have to get there a week in advance? I can spend up to $6200 if I have to
+Customer Service Agent (CSA): The best that I have is the 3.5 star Onyx Isle Hotel for 9 days at 2463.27 USD.
+Customer: When do I arrive?
+Customer Service Agent (CSA): August 18th and you return home August 25th.
+Customer: At what time do I leave on August 25th
+Customer Service Agent (CSA): You leave at 12:34pm sharp.
+Customer: Not enough time to get the shot I will have to get a private jet and camp outside their hotel thanks anyways
+Customer Service Agent (CSA): Thank you for using our services. Have a good day!
+

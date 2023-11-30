@@ -1,0 +1,17 @@
+Customer: Hi, this is quite urgent, my sister needs me to book a trip for her. She needs to go to Queenstown between september 9-24 leaving from Queenstown. What do you have?
+Customer Service Agent (CSA): I do not understand. Would you like to go to Queenstown and leave from Essen?
+Customer: She lives in Fort Lauderdale and needs to go to Queenstown
+Customer Service Agent (CSA): How about the Silver Orb Palace? It is five stars and can be booked from August 30-September 7th for 2281USD
+Customer: Her dates are not flexible, she is only available between the dates I gave you
+Customer Service Agent (CSA): What are the dates? Are they flexible?
+Customer: September 9-24. Like I said, they are not flexible
+Customer Service Agent (CSA): You will arrive in Queenstown on September 12 and stay at the Emerald Mountain Hotel. You will return to Fort Lauderdale on September 20th.
+Customer: It's not for me, its for my sister, can you please cut me some slack and pay attention? Like I said, it's been a rough week
+Customer Service Agent (CSA): Will I book this trip?
+Customer: Not yet, tell me more abut the Emerald Mountain Hotel
+Customer Service Agent (CSA): Emerald Mountain Hotel is a 4 star hotel near a museum with free wifi, breakfast, and parking.
+Customer: How much is it?
+Customer Service Agent (CSA): 4012.13USD
+Customer: Just under budget. ok bye now
+Customer Service Agent (CSA): Goodbye
+

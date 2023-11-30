@@ -1,0 +1,18 @@
+Customer: Hey hey :slightly_smiling_face:
+Customer Service Agent (CSA): How many people in your group?
+Customer: So, me and the 5 little ones wanna go to see their mother who works in Washington
+Customer Service Agent (CSA): From where?
+Customer: Kingston
+Customer Service Agent (CSA): Any specific dates?
+Customer: nope - we can go whenever!
+Customer Service Agent (CSA): We have no direct flights from Kingston to Washington. Can you meet somewhere else?
+Customer: we can go to Phoenix and borrow my sister’s mini van - we’ll make a little road trip out of it!
+Customer Service Agent (CSA): would you prefer to stay in Phoenix 6, 7 or 9 days?
+Customer: 9 would be better to give us extra driving time
+Customer Service Agent (CSA): For 9 days I have the The Prism 2.5 star hotel at The Prism. How does that sound?
+Customer: What is the guest rating?
+Customer Service Agent (CSA): 7.06/10
+Customer: not bad. amenities?
+Customer Service Agent (CSA): free parking, free breakfast, free wifi
+Customer: alright, Let’s book it !
+

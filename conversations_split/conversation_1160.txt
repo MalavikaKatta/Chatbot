@@ -1,0 +1,28 @@
+Customer: hi. i need to get the hell out of minneapolis
+Customer Service Agent (CSA): Where would you like to go?
+Customer: i havent taken any vacation days in like 2 years, im off though from septmeber 12th to 25th
+maybe essen
+
+Customer Service Agent (CSA): Do you have a budget for your vacation?
+Customer: nope - i am treating myself
+Customer Service Agent (CSA): Are you going by yourself?
+Customer: yes, getting away from it all. everything.
+Customer Service Agent (CSA): We have a 5 day and 6 day package at a 2 star hotel in Essen.
+Customer: oh dear a 2 star hotel… for my one vacation in all this time. anything nicer in New York?
+Customer Service Agent (CSA): We have a 13 day and 9 day package at a 2.5 star hotel in New York.
+Customer: hm. marginally better
+what are the nearby attractions? any nice amenities… maybe a relaxing spa?
+Customer Service Agent (CSA): It is near a museum and the airport. They offer free parking, breakfast, and wifi.
+Customer: sounds dull...what about in essen?
+Customer Service Agent (CSA): They offer free wifi and parking.
+Customer: and anything nice nearby?
+Customer Service Agent (CSA): Nothing nearby according to my database.
+Customer: i must say, i am pretty disappointed with this. can you check Ciudad Juarez as a saving grace?
+Customer Service Agent (CSA): We have an 8 day and 4 day package at a 3.5 star hotel. They offer free parking, breakfast and wifi, and they are near a palace, they also have a 8.8/10 guest rating.
+Customer: oh god, finally something optimistic how much for the 8 day package?
+Customer Service Agent (CSA): 789.12 for economy flights included and 971.12 for business flights included.
+Customer: amazing!!, I’ll take it
+business flights
+Customer Service Agent (CSA): Awesome! Well, your flights are booked! You will receive email confirmation soon. Is there anything else I can help you with?
+Customer: nope - you have taken great care of me. thanks!!!!
+

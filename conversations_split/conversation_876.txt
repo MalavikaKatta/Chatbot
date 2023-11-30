@@ -1,0 +1,5 @@
+Customer: I'm looking to pay 0 to get out Tijuana
+Customer Service Agent (CSA): We don't offer any free flights.
+Customer: What about $400
+Customer Service Agent (CSA): There are no results within your budget.
+

@@ -1,0 +1,12 @@
+Customer: Hi, I'm leaving from Diagon Alley and going to Coruscant on a budget of $3400. The dates don't matter, but I cannot afford anything over my budget.
+Customer Service Agent (CSA): And how many children and adults will you be bringing with you?
+Customer: Just myself.
+Customer Service Agent (CSA): I'm sorry, but this travel destination is not available.
+Customer: What about Neverland on the same budget?
+Customer Service Agent (CSA): Neverland is unavailable.  Vancouver would be available, however.  Would you like to select another location?
+Customer: No I cannot do another location. What if I increased my budget by $400?
+Customer Service Agent (CSA): I am sorry, but we do not have any trips available to the Neverland travel destination.
+Customer: nor Coruscant?
+Customer Service Agent (CSA): Coruscant is not available either.
+Customer: Ok thanks.
+

@@ -1,0 +1,18 @@
+Customer: I wanna find a vacation between yesterday and the 24th for under 3200 and leaving from Tijuana
+Customer Service Agent (CSA): Ok! Do you have a destination in mind?
+Customer: no
+Customer Service Agent (CSA): Ok, well I’ll let you know the top options I’ve got. I have a 16 day package to Porto, 14 days in Los Angeles, Rio de Janeiro, or Tampa, 13 days in Vancouver, or Goiania.
+Customer: Tell me about Porto
+Customer Service Agent (CSA): The hotel Amistad is 3.5 stars with 9.16/10 from past guests. It is near a mall, shopping district, and univeristy. The total with economy flights would be 3064.92 dollars, including breakfast and wifi.
+Customer: Tell me about the Goiania package
+Customer Service Agent (CSA): With economy class flights, you could stay at Scarlet Palms Resort for 2903.54 USD. This 3.5 star hotel is near a park and shopping district.
+Customer: whats the guest rating
+Customer Service Agent (CSA): 7.15/10
+Customer: I like the one to Porto can you book it?
+Customer Service Agent (CSA): Sure! Will that be everything for you today?
+Customer: ya but are there business class flights for porto?
+Customer Service Agent (CSA): Not within your budget, sorry.
+Customer: ok thats fine, economy it is.
+Customer Service Agent (CSA): Great - I’ll book economy class. Enjoy your trip!
+Customer: thanks
+

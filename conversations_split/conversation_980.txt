@@ -1,0 +1,12 @@
+Customer: I need to get to Baltimore on important business
+Customer Service Agent (CSA): Where are you going from?
+Customer: Houston. I can go whenever
+Customer Service Agent (CSA): Are you going alone?
+Customer: Yes
+Customer Service Agent (CSA): We have a 3.0 star hotel near a park with 8.69/10 guest ratings, free parking, free breakfast, and free wifi. The trip is 18 days from today to the 19th. I can get you a seat in business class. Sound good?
+Customer: Have you got any nicer hotels?
+Customer Service Agent (CSA): Not really. There is another 3.0 star hotel with only 7.06/10 guest ratings. I don't think you would want that.
+Customer: Book the original package then, please. Business class.
+Customer Service Agent (CSA): Sounds good! The business package is booked for you for 2227.78. Your flight is today so better get going!
+Customer: Thanks - will do
+

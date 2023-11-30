@@ -1,0 +1,32 @@
+Customer: Good morning.
+Customer Service Agent (CSA): Good day! How can I help you?
+Customer: I'd like to book a trip to Rome for business purposes. What's available for departures from Calgary?
+Customer Service Agent (CSA): I can book you 6 days in Rome from August 17-August 21 if you leave from Calgary.
+Customer: That's a possibility, and what about between August 27 and September 12th?
+Customer Service Agent (CSA): How about August 27th-August 31st?
+Customer: Excellent! For how much?
+Customer Service Agent (CSA): I have a 0.0 star hotel available for 1600.96USD.
+Customer: I prefer 2 and above. I may also have a colleague travelling with me. What else can you offer?
+Customer Service Agent (CSA): There is a 4.0 star hotel available for 1952.49USD. Will you be travelling alone?
+Customer: As I mentioned seconds ago, I may have a colleague travelling with me.
+Customer Service Agent (CSA): How many people is this for again?
+Customer: FOR TWO PEOPLE!
+Customer Service Agent (CSA): For two people at the Hotel Emerald Legacy the price is 3841.18USD.
+Customer: I need free wifi, is this included?
+Customer Service Agent (CSA): This place has free wifi as well as free breakfast!
+Customer: Excellent! I will most probably book this one, but I would like to see about one more destination.
+Customer Service Agent (CSA): Sure! Where would you like to go?
+Customer: To Paris. What can you offer around the same dates? Again, for two people.
+Customer Service Agent (CSA): I can book 2 people a trip to Paris from Calgary for 3164.38USD.
+Customer: How many stars is the hotel?
+Customer Service Agent (CSA): For that price you would stay in a 4.0 star hotel.
+Customer: That is suitable. Is the wifi free?
+Customer Service Agent (CSA): There is Wifi
+Customer: Excellent. And what are the departure and arrival dates and times?
+Customer Service Agent (CSA): You will leave Calgary 12:00 pm August 30th and arrive in Paris 7:17 pm that evening.
+Customer: Great, and for leaving Paris?
+Customer Service Agent (CSA): You will leave Paris at 3:00 am on September 7th and arrive in Calgary at 10:17am that morning.
+Customer: I prefer the Hotel Emerald Legacy package. I will book this one.
+Customer Service Agent (CSA): Ok. I will book Hotel Emerald Legacy for August 27th-August 31st for two people.
+Customer: Thank you. You can be sure that I will bring my business here again.
+

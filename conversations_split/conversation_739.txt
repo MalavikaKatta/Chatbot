@@ -1,0 +1,16 @@
+Customer: Hey! I have to book a trip for a group of people from Beijing to Toluca.
+Customer Service Agent (CSA): How many people?
+Customer: 14 of us
+Customer Service Agent (CSA): All adults?
+Customer: Right
+Customer Service Agent (CSA): Do you have a budget?
+Customer: I was hoping to spend maybe 2700.
+Customer Service Agent (CSA): When would you like to leave?
+Customer: We can go any day between Aug 29 and Sep 1
+Customer Service Agent (CSA): There are no results within your budget or for these dates.
+Customer: If I increase my budget by 200, would that change anything?
+Customer Service Agent (CSA): No sorry.
+Customer: What if I make my dates completely flexible?
+Customer Service Agent (CSA): Still nothing.
+Customer: I don't think this trip is going to work then..
+

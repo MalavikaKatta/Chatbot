@@ -1,0 +1,10 @@
+Customer: Goiania to Marseille, I need a flight for 14 adults for 2300 total. This is very important, do you understand?
+Customer Service Agent (CSA): There are no results for your request.
+Customer: Evidently the importance of my request is lost on you. Fair enough, find me one ticket for Kyoto then,
+Budget at 7500
+Customer Service Agent (CSA): Our best package comes to 5725.00. The hotel is 3 stars, near a museum, 8.22/10 guest rating, free breakfast and wifi. This is from September 2nd to 13th and this is the business flight.
+Customer: Good
+Customer Service Agent (CSA): Would you like to book this?
+Customer: I would
+Customer Service Agent (CSA): Great! It is booked! Have a great day!
+

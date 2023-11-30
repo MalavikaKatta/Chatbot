@@ -1,0 +1,12 @@
+Customer: Hello I am currently in Tel Aviv on business and would like to get to Houston next Saturday, August 27th.
+Customer Service Agent (CSA): I'm sorry but we currently do not have any flights between Tel Aviv and Houston.
+Customer: Well what if i left from Maceio?
+Customer Service Agent (CSA): I can offer you a 6 day stay at the Elton. The only dates available though are from September 6th to September 11th. Are your dates flexible?
+Customer: Hmm, I’d like to leave the 27th.. in that case I can perhaps switch around my schedule, as I also have to make it to Burlington for an old colleague’s retirement party. Can you look into trips to Burlington for me from Maceio? I would have a coworker travelling with me.
+Customer Service Agent (CSA): What date is this for?
+Customer: I would like to leave Maceio on the 27th of August, can you tell me my options?
+Customer Service Agent (CSA): I apologize for the inconvenience but once again I have no flights leaving August 27th to offer you. The earliest you could fly from Maceio to Burlington would be on September 2nd.
+Customer: Hmmm well that’s it I guess.. what would the cost be?
+Customer Service Agent (CSA): It would be a 13 day stay at the Excursion Motel and it would cost a total of 5579.42USD if you flew in economy or 7214.67USD in business class.
+Customer: Well that is no good.. Goodbye.
+

@@ -1,0 +1,12 @@
+Customer: Good evening
+Customer Service Agent (CSA): Good evening
+Customer: I think what I need is to travel, but I have no time. I've saved up $3200, would I be able to get out of Valencia and to Busan?
+Customer Service Agent (CSA): Packages for Busan are presently unavailable from Valencia
+Customer: Calgary??
+Customer Service Agent (CSA): Packages to Calgary are presently unavailable from Valencia
+Customer: Berlin???
+Customer Service Agent (CSA): Packages to Berlin are presently unavailable from Valencia
+Customer: :disappointed: :disappointed: :disappointed: Ok one last try How about Milan
+Customer Service Agent (CSA): Packages to Milan are presently unavailable from Valencia. We suggest you check back with us at a later date.
+Customer: You did what you could, and for that I am grateful...friend
+

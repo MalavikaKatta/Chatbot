@@ -1,0 +1,14 @@
+Customer: ay i need to get my parents out of SL this month ok??? can u book them somewhere from St. Louis til the 28th for 4300 bucks and get em out of here today if u can
+Customer Service Agent (CSA): We have a trip to Toronto leaving today and returning on on the 23rd and another trip to Santo Domingo or San Francisco leaving tomorrow and returning on the 28th. Which one would you prefer?
+Customer: whoa that's amazing. which one is cheaper
+Customer Service Agent (CSA): San Francisco is cheapest at 945.18, followed by Santo Domingo at 3015.99. Toronto costs 3179.24.
+Customer: san francisco is way cheaper wow,. how many stars are the hotels
+Customer Service Agent (CSA): It's a 2 star hotel with 6.37/10 guest ratings.
+Customer: i am gonna need something nicer to sell my folks on it tho. what is the santo domingo  hotel like?
+Customer Service Agent (CSA): It's a 3 star beachside hotel with 7.06/10 ratings and conveniently located next to shopping.
+Customer: that sounds better for sure! is the toronto hotel even nicer?
+Customer Service Agent (CSA): It is! It's a 4.0 star hotel next to the airport and the cathedral. It has an average 8.8/10 guest rating.
+Customer: ok well that's gonna have to be the winner in that case. go for it
+Customer Service Agent (CSA): Alright booked. Your folks are headed to Toronto for 16 days! The flight leaves this afternoon. Better let them know soon!
+Customer: thanks dude
+

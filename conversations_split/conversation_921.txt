@@ -1,0 +1,17 @@
+Customer: I have 3900 to spend and not a penny more. I want to go to Kochi to Punta Cana. What do you have for me?
+Customer Service Agent (CSA): To Kochi or to Punta Cana?
+Customer: From Kochi to Punta Cana
+Customer Service Agent (CSA): Sorry, I can’t offer that flight.
+Customer: Can I go to Sao Paulo then?
+Customer Service Agent (CSA): Yes, I have two hotels for you. From Sept 7-12 or Sept 2-6.
+Customer: Dates don't matter as long as we stick to my budget. Which hotel has a better rating?
+Customer Service Agent (CSA): 3666.23USD for a 2.0 star 6 day package or 3228.11USD for the 3 star 7 day package.
+Customer: Can you tell me a little more about the hotel with the 3 star rating?
+Customer Service Agent (CSA): It is near a cathedral and a theatre, has 5.14/10 from previous user reviews, and provides free parking, breakfast, and wifi to guests.
+Customer: this one seems to fit the bill. Can you give me some flight information please?
+Customer Service Agent (CSA): You’ll leave Kochi at 8am Wednesday morning, Sept 7th. You will arrive at 1:01am the following Thursday in Sao Paulo. As for your return flights, you will depart Sao Paulo at 3:00am Monday morning on September 12th and arrive back at Kochi  at 8:01pm that evening.
+Customer: you may book this package for me.
+Customer Service Agent (CSA): Great! Consider it done.
+Customer: thank you
+Customer Service Agent (CSA): My pleasure :”)
+

@@ -1,0 +1,13 @@
+Customer: Theed
+Customer Service Agent (CSA): Would you like to travel to Theed or are you travelling from Theed?
+Customer: I wan to go to Theed
+Customer Service Agent (CSA): Great, where will you be leaving from?
+Customer: Termina
+Customer Service Agent (CSA): When would you like to depart and do you have a budget for this trip?
+Customer: August 13
+Customer Service Agent (CSA): Unfortunately I do not have any packages to Theed from Termina.
+Customer: what if i give you more money
+Customer Service Agent (CSA): I am sorry, but we do not have any packages to Theed from Termina.
+Customer: okay bye
+Customer Service Agent (CSA): Thank you for using our services. Have a good day.
+

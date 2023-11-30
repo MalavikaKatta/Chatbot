@@ -1,0 +1,12 @@
+Customer: Next stop is San Jose! Can you get me there?
+Customer Service Agent (CSA): Sure thing! Where from?
+Customer: Current stop is Manaus.
+Customer Service Agent (CSA): How long do you plan to go away for?
+Customer: Just give me your best hotels.
+Customer Service Agent (CSA): The best hotel we have is the Tranquil Seaside Inn, rated at 4 stars with a 8.8/10 guest rating. Our package is 9 days long and we offer both business and economy class flights. Does this interest you?
+Customer: Is there any cool stuff around?
+Customer Service Agent (CSA): Yes indeed! There is a beach and a museum nearby! Still interested?
+Customer: Sign me up. In business class of course
+Customer Service Agent (CSA): Not a problem! Your reservation has now been made.
+Customer: Thanks!!
+

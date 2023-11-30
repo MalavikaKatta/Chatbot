@@ -1,0 +1,20 @@
+Customer: santiago to burlington, go!
+Customer Service Agent (CSA): Do you have a budget?
+Customer: no budget. but it has to be between sept 7 and 15, ok?
+Customer Service Agent (CSA): All we have available is a 2.5 star hotel in the heart of the city. 1328.16 for economy flights and 1705.16 for business flights.
+Customer: What are the dates?
+Customer Service Agent (CSA): September 7th to 14th
+Customer: Okay but what about Columbus, you go there?
+Customer Service Agent (CSA): There are no results within your date range.
+Customer: does Cleveland work within my dates?
+Customer Service Agent (CSA): Unfortunately not.
+Customer: And Leon?
+Customer Service Agent (CSA): I think this will be the winner. This is a 5 star hotel from September 8th to 15th. Economy class flights for 598.77 and business for 668.48.
+Customer: Does the Burlingtonian hotel have good amenities?
+Customer Service Agent (CSA): Burlington has free parking and wifi,  Leon has only free wifi.
+Customer: Yeah seeing as the dates are a good match, I've never been, and its not that much more expensive, lets book that
+Customer Service Agent (CSA): Would you like economy flights or business flights?
+Customer: Economy would be fine
+Customer Service Agent (CSA): Great! Your trip is booked! Have fun!
+Customer: thanks!
+

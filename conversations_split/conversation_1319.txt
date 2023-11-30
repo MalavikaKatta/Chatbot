@@ -1,0 +1,12 @@
+Customer: I'd like to go to Washington.
+Customer Service Agent (CSA): Sure thing :slightly_smiling_face: Where would you like to leave from?
+Customer: Naples
+Customer Service Agent (CSA): Sorry but we do not offer trips straight from Naples to Washington. Is there another destination you would consider?
+Customer: I also had Sao Paulo in my mind..
+Customer Service Agent (CSA): Ok! I have two hotels available: a 2 star and a 3 star - both with 6.91 guest ratings.
+Customer: The 3 star would be great if it's under my budget of 5600..
+Customer Service Agent (CSA): It sure is! You could even fly business class for  2893.46USD total.
+Customer: Great let's book it!
+Customer Service Agent (CSA): Consider it booked :slightly_smiling_face:
+Customer: Thanks!
+

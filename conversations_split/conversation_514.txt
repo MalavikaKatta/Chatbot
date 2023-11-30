@@ -1,0 +1,12 @@
+Customer: hello i need to get from north vancouver to fortaleza. 3600 budget. whats available
+Customer Service Agent (CSA): Hi!
+Customer: can you tell me dates available in fortaleza
+one adult
+Customer Service Agent (CSA): August 28th to September 12th are the only dates available.
+Customer: thats fine whats the hotel like
+Customer Service Agent (CSA): It's a 3 star hotel near a park and shopping, with free breakfast, wifi, and parking.
+Customer: what if i increase my budget ? what can you find me then?
+Customer Service Agent (CSA): How much would you like to increase your budget?
+Customer: another thousand
+Customer Service Agent (CSA): There are no other options available.
+

@@ -1,0 +1,16 @@
+Customer: hello
+Customer Service Agent (CSA): How can I help you&gt;
+Customer: i have 9 days of vacation
+Customer Service Agent (CSA): Awesome! Where would you like to travel?
+Customer: from sendai to anywhere. starting friday sept 2 2016
+Customer Service Agent (CSA): I have a 9 day package available in Kobe from Sept 13-21
+Customer: ok. but i have to leave on sept 2
+Customer Service Agent (CSA): I can give you 13 days in Kyoto if you leave on Sept 2
+Customer: ok
+Customer Service Agent (CSA): Would you like to book it?
+Customer: what are the details
+Customer Service Agent (CSA): A 3.0 star hotel near a museum with free wifi and free breakfast for $442.70.
+Customer: ok I'd like to book it please
+Customer Service Agent (CSA): Ok, booked!
+Customer: thanks
+

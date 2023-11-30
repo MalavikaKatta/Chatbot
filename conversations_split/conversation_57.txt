@@ -1,0 +1,25 @@
+Customer: Hi. I need to book a vacation to Long Beach between August 25 and September 3. Departure is from Paris
+Customer Service Agent (CSA): Would you like to depart Paris on September 6th?
+Customer: Preferably by the 3rd. Is there anything available?
+Customer Service Agent (CSA): Sorry, looks like there is nothing available from Paris to Long Beach on September 3rd.
+Customer: I'm not quite sure I understand, is there anything available leaving Long Beach to go to Paris between August 25 and September 3rd?
+Customer Service Agent (CSA): Would you like to depart Paris on September 6th?
+Customer: No. I would like to leave Long Beach around the 25th of August to go to Paris for some reason. What is so confusing about that!?
+Customer Service Agent (CSA): You can leave Long Beach, USA and go to Paris, France on Tuesday, August 30th. Will I book this?
+Customer: Finally! No, don't book yet, I would like to know more about the hotel. Is there free breakfast?
+Customer Service Agent (CSA): There is free wifi.
+Customer: Look buddy, is there free breakfast or not? Tell me, am I gonna get eggs, toast, cereal, etc? You know? The good stuff?
+Customer Service Agent (CSA): There is free wifi at the hotel. 
+Customer: What is the price of this toastless package?
+Customer Service Agent (CSA): This package costs 2191.55USD.
+Customer: Is this the cheapest option?
+Customer Service Agent (CSA): Yes, this is the cheapest option from Long Beach to Paris.
+Customer: And the hotel has how many stars?
+Customer Service Agent (CSA): Muse Hotel has 2.0 stars.
+Customer: Ok I will book this one.
+Customer Service Agent (CSA): Great. You will leave Paris on September 7th.
+Customer: What do you mean?
+Customer Service Agent (CSA): You will depart from Paris at 3:00 am on Wednesday, September 7th.
+Customer: I will not book this trip. Goodbye.
+Customer Service Agent (CSA): Thank you! Goodbye! 
+

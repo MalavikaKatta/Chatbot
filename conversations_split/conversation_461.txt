@@ -1,0 +1,4 @@
+Customer: I need to go from Kabul to Toronto, would you happen to have any flights for me?
+Customer Service Agent (CSA): We do not fly out of Kabul
+Customer: Okay, I will check expedia then.
+

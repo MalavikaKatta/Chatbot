@@ -1,0 +1,18 @@
+Customer: Denver to Porto Alegre please for multiple passengers
+Customer Service Agent (CSA): How many travellers?
+Customer: 4 kids and 5 adults
+Customer Service Agent (CSA): When would you like to travel?
+Customer: I believe I said Porto Alegre
+Customer Service Agent (CSA): I believe I asked when.
+Customer: anytime dammit
+Customer Service Agent (CSA): From September 1st-19th I have a 3 star hotel. The cost for your party of 9 would be 19295.43USD.
+Customer: well that sounds pretty good. what's included?
+Customer Service Agent (CSA): Free breakfast and free wifi.
+Customer: beach side? we love the beach. Hope it's clean.
+Customer Service Agent (CSA): It is near a university.
+Customer: well that sucks. got anything on the beach?
+Customer Service Agent (CSA): I have a 13 day package at a 4 star beachside hotel - also located close to shopping, a park, and a mall - with a 10/10 user rating. The cost would be 20806.86USD.
+Customer: why didn't you suggest this in the first place? well I prefer this one, beach it is and love the user rating. Book it please.
+Customer Service Agent (CSA): Your wish is my command.
+Customer: Thank you!
+

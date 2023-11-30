@@ -1,0 +1,16 @@
+Customer: I am leaving from Marseille and want to bring my friends with me to Hamburg for my birthday bash
+Customer Service Agent (CSA): I can help you with that! How many of you are there?
+Customer: 8 altogether
+Customer Service Agent (CSA): Great! I have a 13 day stay at a 4.5 star hotel, or 8 days at a 3 star or a 4 star.
+Customer: I think 13 days at a 4.5 star sounds the best. Tell me about it!
+Customer Service Agent (CSA): Well, its a hotel near the airport with free parking and free wifi. Guests have given it a 9.16/10 rating.
+Customer: Thats good but I think i'd like to look at Mexico City
+Customer Service Agent (CSA): I have two different hotels in Mexico City - both are 3 stars.
+Customer: I'm gonna need 5 star options. Anything in Essen
+Customer Service Agent (CSA): I have only 2 or 3 star hotels in Essen.
+Customer: Ugh that's frustrating. Well I think we will have to book the 4.5 star hotel in Hamburg then. It's close to 5 stars. Yeah just book that one then. Business class
+Customer Service Agent (CSA): Ok, I will do that. Business class flights?
+Customer: yeah
+Customer Service Agent (CSA): 6540.39USD
+Customer: kk thanks
+

@@ -1,0 +1,18 @@
+Customer: HELLO THERE I AM IN MILAN AND LOOKING TO TRAVEL TO SANTO DOMINGO ON WEDNESDAY AUGUST 24. SORRY FOR ALL THE YELLING I'M IN A HELICOPTER
+Customer Service Agent (CSA): How many people will be travelling with you?
+Customer: JUST ME. JUST GONNA TAKE SOME PICTURES OF MADONNA
+Customer Service Agent (CSA): ok! perfect@ when do you need to be back?
+Customer: DOES NOT MATTER! I JUST WANT TO GO ON AUGUST 24
+Customer Service Agent (CSA): How long would you like to go for?
+Customer: OH I DON'T CARE, BUT I WILL SPEND 3700!
+Customer Service Agent (CSA): How many people will be accompanying you?
+Customer: ME ONLY ME
+Customer Service Agent (CSA): And how many people will be going?
+Customer: ME ONLY ME
+Customer Service Agent (CSA): Would a 4 star hotel suit your needs?
+Customer: YES THAT SOUNDS GOOD WHAT IS THE PLACE CALLED ALSO AREN'T THERE ANY 5 STAR HOTELS?
+Customer Service Agent (CSA): Summer Rose, its a 9 day stay with free breakfast, wifi, parking! it leaves on the 24th as you desired and returns on the 1st of september. That would be $1930 would you like me to book it?
+Customer: OK BOOK THANK
+Customer Service Agent (CSA): I will book that now
+Customer: GOODBYE
+

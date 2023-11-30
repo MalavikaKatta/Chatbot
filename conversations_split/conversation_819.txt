@@ -1,0 +1,17 @@
+Customer: Hello! I would like to book a classic Marseille getaway
+Would be leaving from Birmingham City
+Customer Service Agent (CSA): Can you tell me some of the things you are looking for as well as for how many people and your desired date of departure?
+Customer: i'd like to book the poshest trip 3900 can fetch me. just for one
+Customer Service Agent (CSA): How about a 7 day getaway to Marseille for 3123.49USD?
+Customer: What kind of hotel would that be at?
+Customer Service Agent (CSA): That would be a 4 star hotel near the museum. I also have a 4 star hotel near the cathedral for 2437.41USD. Would you rather be near the museum or the cathedral?
+Customer: What amenities would I get with the cathedral place?
+Customer Service Agent (CSA): The Grand Hotel, located near the cathedral, not only has free wifi, but also a spa on the premises. The guest rating is a 8.69/10.
+Customer: But no wifi?
+Customer Service Agent (CSA): It has free wifi.
+Customer: Lets do it then
+Customer Service Agent (CSA): Are you okay with a September 12th departure and return on the 17th?
+Customer: Yes that will work!
+Customer Service Agent (CSA): I will start the booking. Thank you and enjoy your stay in Marseille.
+Customer: Thanks!
+

@@ -1,0 +1,10 @@
+Customer: Hi
+Customer Service Agent (CSA): Hi there
+Customer: Can you help me find a vacation package from Indianapolis to Essen for under 3500 and between September 6th and 22nd please?
+Customer Service Agent (CSA): I have no packages available within those parameters
+Customer: Well how about to Montreal?
+Customer Service Agent (CSA): Neither unfortunately.
+Customer: Nagoya?
+Customer Service Agent (CSA): Neither. Are you able to depart from another city?
+Customer: No, I'll just go to another travel agency. Thanks anyway
+

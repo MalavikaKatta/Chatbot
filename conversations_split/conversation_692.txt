@@ -1,0 +1,11 @@
+Customer: Jerusalem to Belem 2 adults 4000 dollar budget. Leave on September third
+Customer Service Agent (CSA): There are no results.
+Customer: Fine. Leaving from Sapporo
+Customer Service Agent (CSA): There is nothing within your budget.
+Customer: Well I’ll up it to 5200. I’ll leave one person behind
+And I’ll go to Busan instead
+Customer Service Agent (CSA): There is a 4.5 star hotel near the beach, 8.8/10 guest rating, free breakfast, wifi, and parking. This package is from September 8th to 14th and the cost is 4531.64.
+Customer: Ok, that’s fine
+Book it
+Customer Service Agent (CSA): Done! Have a good day!
+

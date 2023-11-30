@@ -1,0 +1,22 @@
+Customer: I’d like to go from Ulsan to Indianapolis soon but keep it under 5700 please
+Customer Service Agent (CSA): Travelling alone?
+Customer: indeeed I am!
+Customer Service Agent (CSA): Do you have travel dates in mind?
+Customer: nope - just soon
+Customer Service Agent (CSA): We have 2.5 and 3 star hotels, which do you prefer to hear about?
+Customer: Which is in a better area?
+Customer Service Agent (CSA): 3 star for sure. Would you rather have economy flights or business?
+Customer: What is around the hotel? And what is the guest rating?
+Customer Service Agent (CSA): A park, beach, airport, and university. The guest rating is 7.15/10. They also offer free parking, breakfast, and wifi.
+Customer: What can you find me in Maceio? I’d like something in the heart of the city.. maybe near markets or shopping districts
+Customer Service Agent (CSA): A 3.5 star hotel near a park and shopping.
+Customer: Even if I left from Fukuoka instead?
+Customer Service Agent (CSA): Yes. This is the only result.
+Customer: Maceio, what’s the travel date?
+Customer Service Agent (CSA): September 12th to 21st.
+Customer: Price?
+Customer Service Agent (CSA): 5569.34.
+Customer: Ok let’s do it
+Customer Service Agent (CSA): Done! have a great day!
+Customer: Thanks - you too
+

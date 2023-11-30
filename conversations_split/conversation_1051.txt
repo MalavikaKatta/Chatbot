@@ -1,0 +1,7 @@
+Customer: I want to go to Fukuoka and I want to leave from Kabul.
+Customer Service Agent (CSA): Alright, do you have a budget?
+Customer: 3100 dollars
+Customer Service Agent (CSA): When would you like to leave?
+Customer: September 6th
+Customer Service Agent (CSA): There are no results from Kabul to your destination, is there a different city you can depart from?
+

@@ -1,0 +1,14 @@
+Customer: yes im looking for mewtwo in Marseille ook? leaving from Fortaleza
+with 2200 sept 11th
+Customer Service Agent (CSA): Will you be going alone?
+Customer: yupp uh huh
+Customer Service Agent (CSA): There are no results.
+Customer: go to atlanta then
+Customer Service Agent (CSA): Do you prefer 3 stars or 3.5 stars?
+Customer: throw that extra .5 in
+Customer Service Agent (CSA): This is a 13 day stay from September 11th to 23rd. The hotel is located near a beach, has a guest rating of 8.8/10 and offers free parking and wifi. The cost is 1936.37.
+Customer: what is nearby the 3 star hotel?
+Customer Service Agent (CSA): Nothing from what my database gives me.
+Customer: 3.5 it is then. lets book it
+Customer Service Agent (CSA): Great! It's booked. Is there anything else I can do for you?
+

@@ -1,0 +1,23 @@
+Customer: Hello there i am looking to go on a vacation with my family to Gotham City, can you help me?
+Customer Service Agent (CSA): when  would you like to travel and how many people will you be?
+Customer: Not sure when we want to leave, but we are 12 kids and 5 adults
+Customer Service Agent (CSA): do you have a budget?
+Customer: yes i do, it is around $2200
+Customer Service Agent (CSA): where will you be travelling from?
+Customer: We are from Neverland
+Customer Service Agent (CSA): We have nothing available leaving from Neverland, are you able to depart from another city?
+Customer: we can depart from Toronto
+Customer Service Agent (CSA): Gotham City is not a destination we travel to. Are you interested in any other destinations?
+Customer: hmm what options would i have out of Toronto?
+Customer Service Agent (CSA): Would you be interested in Calgary?
+Customer: that would be nice
+Customer Service Agent (CSA): I have a departure from Toronto to Calgary  on August 17 returning on August 24. Does that work for you?
+Customer: No sorry i was planning on getting a tan this vacation. Thanks, is there anywhere else? Thank you
+is there anywhere else?
+Customer Service Agent (CSA): How about a trip to Dominican Republic? it is quite cheap at this time of year.
+Customer: What options do you have available for me?
+Customer Service Agent (CSA): I have the el Mar hotel available in Punta Cana this week.
+Customer: That sounds interesting. how many stars does the hotel have?
+Customer Service Agent (CSA): 2.5 stars. You would have to fly out of Melbourne though
+Customer: Ahh...maybe another time
+

@@ -1,0 +1,20 @@
+Customer: Hi im looking to book my Honeymoon
+Customer Service Agent (CSA): I can help you with that. Where are you looking to go?
+Customer: We were thinking of Fortaleza
+Customer Service Agent (CSA): Ok, sure thing. What would be your departure city of choice?
+Customer: We will be leaving from Santos
+Customer Service Agent (CSA): Perfect! I've got a couple of hotels available from August 17-23.
+Customer: leaving on the 17th is perfect! what options do i have there?
+Customer Service Agent (CSA): Ok, leaving on the 17th I have two hotel options - both are 3.0 stars with free parking, wifi, and breakfast.
+Customer: what are the price differences?
+Customer Service Agent (CSA): Would you like to compare the packages with economy or business class flights?
+Customer: yes please, is there a different price between hotels?
+Customer Service Agent (CSA): The first hotel would be 877.94USD with economy class flights and 1082.29USD with business class. The second hotel package costs 938.26USD with economy class flights and 1142.61USD for business class.
+Customer: what options do you have in philadelphia, with the same dates?
+Customer Service Agent (CSA): Unfortunately I have nothing available in Philadelphia, USA for those dates.
+Customer: I think Fortaleza seems like a better destination can we book the cheapest option?
+Customer Service Agent (CSA): Sure! So you'd like to book the Fortaleza package for 877.94?
+Customer: yes please! that would be wonderful
+Customer Service Agent (CSA): Consider it done :slightly_smiling_face: Have a nice day.
+Customer: thank you very much!
+

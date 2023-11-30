@@ -1,0 +1,17 @@
+Customer: get me out of berlin
+Customer Service Agent (CSA): Berlin to?
+Customer: dont care
+Customer Service Agent (CSA): How many people?
+Customer: 1
+Customer Service Agent (CSA): when?
+Customer: 8th-11th
+Customer Service Agent (CSA): During those dates, I only have one option for you in Gaudalajara
+Customer: ok. details
+Customer Service Agent (CSA): A 4 day stay at Resort Felicity leaving on your requested date and returning on your requested date. This 2.5 star hotel has a 8.49/10 star rating and not only included free wifi and parking, but offers a complimentary breakfast every day of your stay.
+Customer: price?
+Customer Service Agent (CSA): 3020.61USD everything included
+Customer: can you upgrade me to business class please
+Customer Service Agent (CSA): Yes for  3889.68USD. Is that alright with you?
+Customer: go for it. book please
+Customer Service Agent (CSA): It has been taken care of.
+

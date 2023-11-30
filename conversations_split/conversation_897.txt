@@ -1,0 +1,25 @@
+Customer: My secretary is on vacation so I have to book my own flights today. Definitely feels strange
+Please book: San Diego to Rome
+Customer Service Agent (CSA): When would you like to go to Rome?
+Customer: After September 8
+Customer Service Agent (CSA): Do you have a budget or do you just want to hear the best packages we've got?
+Customer: Yes. That would be good. Give me the priciest options, I’ll expense it on the company
+Customer Service Agent (CSA): Got it! The best package we've got is a 11 day stay at a 4.0 star hotel right by the cathedral. It has a guest rating of 8.98/10 and offers free breakfast and wifi. Business package would cost 3458.79.
+Customer: Oh I forgot to mention, we’ll be four adults total
+Customer Service Agent (CSA): Yup, for 4 it will be 13835.19.
+Customer: Cool cool. I was also thinking of spicing it up a little with a long distance trip
+Can you look into flights to Osaka, also departing from San Diego
+Customer Service Agent (CSA): Would you prefer a 11 day stay at a 2.5 star hotel or a 6 day stay at a 4.0 star hotel?
+Customer: Oh definitely the 4 star - but what is it near?
+Customer Service Agent (CSA): It's nicely located near a park and a museum.
+Customer: What about Denver? I know a good seafood restaurant there that I could go to
+Customer Service Agent (CSA): In Denver we have a 11 days package at a 4.0 star hotel.
+Customer: Are there decent amenities there?
+Customer Service Agent (CSA): There is wifi free of charge.
+Customer: Ok you know what. I’m really craving some lobster rolls
+Nothing else matters
+Book us for business
+Customer Service Agent (CSA): Alright get ready for some deliciousness! Your trip is booked for you for 4921.24!
+Customer: Thank you! I’m tempted to do my own bookings in the future now, its fun!
+Customer Service Agent (CSA): I'm glad! I will always be here for you :slightly_smiling_face:
+

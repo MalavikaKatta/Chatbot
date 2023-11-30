@@ -1,0 +1,24 @@
+Customer: What packages do you have available between september 7th and 13th from Columbus to Punta Cana?
+Customer Service Agent (CSA): We have 8 day trips at two 3 star hotels. Are you interested in knowing more?
+Customer: What is the main difference between the two hotels?
+Customer Service Agent (CSA): One has guest ratings of 6.77/10, is close to a cathedral, and offers free breakfast and wifi. The other has guest ratings of 8.69/10, is close to a palace and a theatre, and offers everything that the former offers and also free parking.
+Customer: Okay the second one sounds a lot better. Can you tell me more about that package?
+Customer Service Agent (CSA): Sure, it's 8 days from the 6th to the 13th and it costs 1427.4 or 1808.67 with a business upgrade.
+Customer: I can’t leave before the 7th
+Customer Service Agent (CSA): Our only flight from Columbus to Punta Cana is on the 6th. Is there another destination you would like to go to?
+Customer: I guess we could look at Guadalajara
+Customer Service Agent (CSA): In Guadalajara we have a 2.5 star hotel with a guest rating of 8.49/10. It offers free parking, free breakfast, and free wifi. We offer an 8 day trip there starting from the 8th.
+Customer: When would I get back?
+Customer Service Agent (CSA): The shortest trip would take you back on the 15th.
+Customer: I need to be back by the 13th.
+Customer Service Agent (CSA): Sorry, we don't have any trips between these two cities that fit your dates.
+Customer: I’ll try LA instead then.
+Customer Service Agent (CSA): Great! In Los Angeles we have a 6 day trip from the 8th to the 13th at a 3 star hotel.
+Customer: That sounds wonderful! tell me more.
+Customer Service Agent (CSA): The hotel is wonderfully located near the airport and the mall. While there, you can enjoy free parking, free breakfast, and free wifi. Previous guests have given it ratings of 8.86/10 on average.
+Customer: I’ll take that! How much?
+Customer Service Agent (CSA): 1217.88 flying economy and 1483.6 flying business.
+Customer: Perfect! Book it for me!
+Customer Service Agent (CSA): Consider it done! Happy traveling!
+Customer: Thanks you!
+

@@ -1,0 +1,10 @@
+Customer: hello
+Customer Service Agent (CSA): Hi :smile: how can I help you :slightly_smiling_face:
+Customer: i am leaving from osaka
+Customer Service Agent (CSA): Going where?
+Customer: and would like to go to fortaleza. i dont care about the price
+Customer Service Agent (CSA): We have 3 star hotels and 6 8 10 day trips
+Customer: not intersted. whats available in tijuana
+Customer Service Agent (CSA): 2.5 and 3 stars hotels, 6 - 10 - 12 days
+Customer: not interested
+

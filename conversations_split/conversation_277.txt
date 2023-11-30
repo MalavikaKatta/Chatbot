@@ -1,0 +1,7 @@
+Customer: I want to go to Fortaleza to visit my aunt Betty.
+Customer Service Agent (CSA): Ok great. How many cousins will join you?
+Customer: 5 - my cousin Tommy, my cousin Henry, my cousin Johnny, my cousin Ian, and my cousin Derrick
+Customer Service Agent (CSA): What beautiful names :slightly_smiling_face: Where are you leaving from?
+Customer: Valencia we live in valencia
+Customer Service Agent (CSA): Ok I have booked you 6 days at Secret Prairie Resort you must pay 12692.12USD Enjoy your stay goodbye :slightly_smiling_face:
+

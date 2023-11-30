@@ -1,0 +1,26 @@
+Customer: Hi there! Can you find me a trip to Kingston between August 25 and September 4?
+Customer Service Agent (CSA): Hello, we will do our best to comply with your request. In order to proceed, I must have a departure city provided to me.
+Customer: I'm leaving from Santiago on a very tight budget of 3100 dollars.
+Customer Service Agent (CSA): I have a few selections available to you. Where are you leaving from and what is your budget?
+Customer: As I said, I am leaving from Santiago on a tight budget of 3100 dollars.
+Customer Service Agent (CSA): and where would you like to go?
+Customer: To Kingston, which is what I said before.
+Customer Service Agent (CSA): I have nothing available from Kingston to Santiago
+Customer: I have no patience for this. I am looking for a trip to Kingston from Santiago.
+Customer Service Agent (CSA): I understand, Kingston to Santiago.
+Customer: A trip to Kingston from Santiago on a budget of 3100 dollars.
+Customer Service Agent (CSA): and when would you like to go?
+Customer: Between August 25 and September 4th.
+Customer Service Agent (CSA): I have 4, 6, and 7 day packages. What is you preference?
+Customer: Lets look at the 6 day packages.
+Customer Service Agent (CSA): Ebony Manor Inn & Suites
+Customer: How much would that cost?
+Customer Service Agent (CSA): 1911.41USD
+Customer: And how many stars does this hotel have? What are the amenities included?
+Customer Service Agent (CSA): 4.0 star hotel
+Customer: Is breakfast included? wifi? parking?
+Customer Service Agent (CSA): free breakfast, free wifi, free parking. Book?
+Customer: No. I will book elsewhere.
+Customer Service Agent (CSA): I am sorry we could not be of assistance today. Have a nice day!
+Customer: Good bye.
+

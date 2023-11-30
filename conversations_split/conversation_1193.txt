@@ -1,0 +1,19 @@
+Customer: Need to go to Vancouver
+Customer Service Agent (CSA): From where?
+Customer: La Paz
+Customer Service Agent (CSA): Budget?
+Customer: wtv
+Customer Service Agent (CSA): I do not comprehend.
+Customer: DON'T MATTER
+Customer Service Agent (CSA): Ok. When would you like to leave?
+Customer: 09/20 to 09/30
+Customer Service Agent (CSA): Travelling alone?
+Customer: yes
+Customer Service Agent (CSA): We have a 4 star hotel available for 10 days or 4 days. Which do you prefer?
+Customer: As long as it fits my dates 10 is good
+Customer Service Agent (CSA): It is from the 21st to 30th. The hotel is near a park and museum, they have a 10/10 guest rating, and they offer free parking, breakfast, and wifi. Do you prefer to know the business or economy flights price?
+Customer: That suits. Business.
+Customer Service Agent (CSA): The business price is 1497.00
+Customer: Perfect. Book. Thanks.
+Customer Service Agent (CSA): Done. Have a great day!
+

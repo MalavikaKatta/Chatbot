@@ -1,0 +1,12 @@
+Customer: yo i need a flight to beijing, leaving from rio de janeiro on sunday august 21st
+Customer Service Agent (CSA): I will book you 8 days in Manaus leaving from Rio de Janeiro on August 24th for 469.25USD. Enjoy your stay :slightly_smiling_face:
+Customer: no i want beijing, not manas. how much would that cost???
+Customer Service Agent (CSA): Sadly I have no trips available to Beijing that leave from Rio de Janeiro. I can find you another destination?
+Customer: you gotta get me to beijing
+Customer Service Agent (CSA): No
+Customer: check porto alegre to beijing
+Customer Service Agent (CSA): I can book you from Porto Alegre to Rio de Janeiro.
+Customer: check puebla to beijing
+Customer Service Agent (CSA): You cannot travel from Puebla to Beijing.
+Customer: i give up
+

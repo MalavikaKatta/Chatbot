@@ -1,0 +1,26 @@
+Customer: Hi there. Looking to get out of Toronto with a few friends
+Customer Service Agent (CSA): Where to?
+Customer: We don't need to go far, but we would like to see how far our budget can stretch us as far as luxury hotels
+Customer Service Agent (CSA): What is your budget?
+Customer: We have 6200
+Customer Service Agent (CSA): How many people?
+Customer: 6 of us
+Customer Service Agent (CSA): All adults?
+Customer: all adults.
+Customer Service Agent (CSA): When would you like to leave?
+Customer: we'd like to fit this trip between sept 1 to 12
+Customer Service Agent (CSA): We have a package to Las Vegas, Calgary, Sacramento, Vancouver, Phoenix, and Burlington.
+Customer: yes, what do you have for us in calgary?
+Customer Service Agent (CSA): We have a 2 star hotel near a park and airport, 6.51/10 guest rating, free parking, breakfast and wifi, from September 2nd to 11th, 4661.23 for business flights, and 4059.51 for economy flights.
+Customer: can we get a better hotel in Vancouver? 2 star hotel definitely wouldn't be our first choice
+Customer Service Agent (CSA): I double checked and we also have a 4 star hotel in Calgary near a university. They have a 0/10 guest rating, free parking and wifi, from September 2nd to 9th, business flights costs 2289.75 and economy flights cost 1717.77.
+Customer: but do also look at Vancouver for me please
+Customer Service Agent (CSA): We have a 4 star in Vancouver. It is near a park and museum, 10/10 guest rating, free parking, breakfast and wifi, from September 2nd to 10th, business flights for 5176.65 and economy flights for 4707.32.
+Customer: Booking business class flights still leaves us with some room
+Customer Service Agent (CSA): Would you like to book?
+Customer: Yes why not
+Customer Service Agent (CSA): Great! Business flights or economy?
+Customer: business
+Customer Service Agent (CSA): Awesome! Your flight will book automatically after you confirm your payment details in the confirmation email I have sent. Safe travels and have a great day!
+Customer: Great, thanks a lot!
+

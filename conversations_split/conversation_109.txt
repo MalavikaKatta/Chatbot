@@ -1,0 +1,26 @@
+Customer: hi im in mannheim and want to spend a week away
+Customer Service Agent (CSA): Where are you planning on going?
+Customer: i was thinking about burlington
+Customer Service Agent (CSA): Do you have a budget for this trip?
+Customer: no id just like to compare packages
+Customer Service Agent (CSA): okay, how many people will be attending this trip?
+Customer: just me
+Customer Service Agent (CSA): any dates in mind?
+Customer: august 17-august 24
+Customer Service Agent (CSA): OKay let’s find something, Would you rather stay at Celestial inn & Suites a 3.0 star hotel or at Excursion Motel which is a 2.5 star hotel?
+Customer: hm.. well i don't know about 3.0 stars only. what about trips to Sendai?
+Customer Service Agent (CSA): Sorry, unfortunately there are no trips to Sendai
+Customer: how about curitiba?
+Customer Service Agent (CSA): As well no packages available
+Customer: ok... well how about to SL?
+Customer Service Agent (CSA): Sorry nothing to SL but we have trips from Mannheim to Germany and Italy
+Customer: can you give me some more information on the burlington packages?
+Customer Service Agent (CSA): The Excursion motel has free wifi and Free Parking while celestial has Free breakfast and free wifi
+Customer: how much are each of the packages?
+Customer Service Agent (CSA): celestial goes for about $2145 and the Excursion Motel is $1900. that is for economy seating of course.
+Customer: ok let's book celestial.. how much to upgrade to business?
+Customer Service Agent (CSA): celestial will be $2740 for business class should i book that for you?
+Customer: yes lets do it!
+Customer Service Agent (CSA): cool beans! have a good trip!
+Customer: :grimacing: thanks!
+

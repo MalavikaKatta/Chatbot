@@ -1,0 +1,12 @@
+Customer: yo im taking 6 kids and 4 adults on a trip yo
+Customer Service Agent (CSA): Sounds cool! Where are you going and where are you coming from?
+Customer: gonna go to Leon from Boston
+Customer Service Agent (CSA): When would you like to go? And do you have a budget?
+Customer: 18100
+Customer Service Agent (CSA): We have a package that is perfect for you! It is an 11 day stay at a fantastic 5.0 star hotel, rated 9.16/10 by guests, next to a market.
+Customer: sounds dope. Is there another hotel yo?
+Customer Service Agent (CSA): That is the only one that works with you budget.
+Customer: ok, ill take it yo
+Customer Service Agent (CSA): Great! It will be 17296.23. I will confirm this reservation for you!
+Customer: Yo! thanks dude!
+

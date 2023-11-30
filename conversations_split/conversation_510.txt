@@ -1,0 +1,16 @@
+Customer: yo. im from burlington. want to travel somewhere cool with my bro. between sept 8 and sept 18. you got flights to kingston?
+Customer Service Agent (CSA): how much money would you like to spend?
+Customer: doesn't matter, got a trust fund
+Customer Service Agent (CSA): The most expensive package I offer to Kingston is $3377.17USD via business class for 8 days. Would you like to book it?
+Customer: what kind of hotel
+Customer Service Agent (CSA): 3.5 star Golden Excalibur Hotel 8 day package. We also offer the 4 star Ebony Manor Inn & Suites for 6 days via business class at $3141.90USD
+Customer: hm. check out vitoria for me will ya?
+Customer Service Agent (CSA): Burlington to Vitoria - Hotel Oro  5 days, 3 star rating, on business class at $5144.1USD. ONLY available between Sept 24 to sept 27. Are your dates changeable?
+Customer: i'd rather not. ok lets not do vitoria then. i want to go somewhere with good amenities. hows the ebony manor inn in that regard?
+Customer Service Agent (CSA): It includes free wifi, parking, breakfast and is located near the museum. Guest rating is an above average 8.22 / 10.
+Customer: wow thats really not bad
+Customer Service Agent (CSA): I can proceed with the reservation if you would agree?
+Customer: yes proceed
+Customer Service Agent (CSA): Very well then, it has been done. You are booked to go from Burlington to Kingston via business class to the Ebony Manor Inn for 2 adults. Thank you for your booking and have a pleasant and safe trip.
+Customer: Thank you so much!
+

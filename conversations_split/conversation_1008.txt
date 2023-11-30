@@ -1,0 +1,3 @@
+Customer: I want to fly from Kabul to denver. 10 adults
+Customer Service Agent (CSA): We have no flights out of Kabul, to anywhere.
+

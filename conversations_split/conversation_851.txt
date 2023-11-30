@@ -1,0 +1,7 @@
+Customer: I would like to go to Monterrey from Stuttgart
+Customer Service Agent (CSA): You cannot do this.
+Customer: Well how about if i go to Dublin for 2300 with 11 adults
+Customer Service Agent (CSA): For 11 adults the cost would be 24294.45USD.
+Customer: too much. How about marseille for 2000 with 7 adults
+Customer Service Agent (CSA): I cannot accommodate this request.
+

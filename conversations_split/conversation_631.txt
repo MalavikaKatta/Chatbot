@@ -1,0 +1,18 @@
+Customer: san antonio i live in. i go to anywehere
+i spend 4 thousand dollars plus more 300 dollars
+Customer Service Agent (CSA): There's presently some awesome deals out of San Antonio.  How long do you want to go for?
+Customer: until september of ninth but not before i will leave for 3 in september as well too please
+Customer Service Agent (CSA): So how many days maximum?
+Customer: 6 is math answer
+Customer Service Agent (CSA): I have departures on August 27, August 30 or Sept 6, which do you prefer?
+Customer: no. i go for 3 of spetmebr
+i will be BACK HOME for 6
+Customer Service Agent (CSA): Are you flexible on your travel dates at all?
+Customer: i wil lbe back for 9 i mean. Leaving 3
+Customer Service Agent (CSA): I only have 4 days packages available from the 6 to the 9 within the dates you have provided me with. Departure Sept 6 and returning September 9. Is that something that would interest you?
+Customer: yes thank u where i go
+Customer Service Agent (CSA): You can go to Rosario or you can go to Houston.
+Customer: price ?
+Customer Service Agent (CSA): To Houston 548.25USD, to Rosario 2403.91USD, economy flights for both
+Customer: thank you
+

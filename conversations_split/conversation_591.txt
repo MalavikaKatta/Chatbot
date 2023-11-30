@@ -1,0 +1,8 @@
+Customer: I just got an intership and I need to check out my possibilities Puebla to Minneapolis and I have a 4300 budget to travel between Septemeber second until september eighteenth
+Customer Service Agent (CSA): We can't provide anything for you at the moment destination Minneapolis. Can I look up other cities for you?
+Customer: Disappointing.. But yes, look at Rome
+Customer Service Agent (CSA): Nor to Rome. Neither of these destinations are available through Puebla.
+Customer: What about in Atlanta?
+Customer Service Agent (CSA): Nor Atlanta.
+Customer: This is HORRIBLE
+

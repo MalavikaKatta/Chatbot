@@ -1,0 +1,13 @@
+Customer: HOUSTON TO PUNTA CANA
+Customer Service Agent (CSA): Budget?
+Customer: NO
+Customer Service Agent (CSA): Travelling alone?
+Customer: YES
+Customer Service Agent (CSA): When do you want to leave?
+Customer: August 28
+Customer Service Agent (CSA): There are no results in my database.
+Customer: GO TO PUEBLA INSTEAD
+Customer Service Agent (CSA): There is nothing for this either.
+Customer: GO TO ULSAN
+Customer Service Agent (CSA): There are no results for this request.
+

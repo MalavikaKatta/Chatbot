@@ -1,0 +1,14 @@
+Customer: I want to find a vacation between September 12th and 18th to San Diego from Calgary for under 1800.
+Customer Service Agent (CSA): Ok, I can help you with that :slightly_smiling_face: How many travellers?
+Customer: just me myself and i
+Customer Service Agent (CSA): I have the perfect trip for you! 7 days at Anomaly Inn & Suites from Sept 12-18 for 1113 dollars.
+Customer: whats the hotel rated?
+Customer Service Agent (CSA): 2.0 stars. 6.51/10 user rating.
+Customer: Is there a hotel with a higher rating?
+Customer Service Agent (CSA): I have only 2 star hotels for your date range.
+Customer: okay, thats fine. Go ahead and book it for me then, i just wanna get away.
+Customer Service Agent (CSA): Sure thing! Are economy class flights ok with you?
+Customer: yeah thats fine
+Customer Service Agent (CSA): Great, enjoy your stay :slightly_smiling_face:
+Customer: Thanks
+

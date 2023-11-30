@@ -1,0 +1,7 @@
+Customer: Hi there, I'd like to book a vacation to Queenstown please.
+Customer Service Agent (CSA): Absolutely! I can help you with that. Where would you like to leave from?
+Customer: Beijing
+Customer Service Agent (CSA): I’m sorry but we do not currently operate out of Beijing. Is this another destination you could depart from?
+Customer: No, there isn't.
+Customer Service Agent (CSA): I’m sorry, it seems I won’t be able to help you then.
+

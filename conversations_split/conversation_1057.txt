@@ -1,0 +1,26 @@
+Customer: Hi there, I'm looking to go to Stuttgart please.
+Customer Service Agent (CSA): I can help with that! Where will you be coming from?
+Customer: I'll be coming from Hiroshima.
+Customer Service Agent (CSA): How many people will be traveling?
+Customer: Just me! I'm thinking of going there for a while.
+I'm thinking about 6 weeks or so. I'm kinda flexible.
+Customer Service Agent (CSA): We have a 6 day trip from September 20-24 at a 3 star hotel. Will this work for you?
+Customer: 6 weeks, not 6 days. Sorry! Can you do that?
+Customer Service Agent (CSA): Unfortunately the 6 day trip is the only offer we have for Stuttgart. Is there somewhere else you would like to go?
+Customer: Oh I see. In that case, do you have any trips to Kingston anytime soon?
+Customer Service Agent (CSA): Yes we do! When would you like to go?
+Customer: Sometime this week or next week. I'm flexible.
+Customer Service Agent (CSA): The longest trip we have is a 10 day trip from September 8-16. Or would you be interested in shorter trips?
+Customer: Yeah, shorter trips would be great.
+Customer Service Agent (CSA): In that case, I'd like to recommend our best hotel in Kingston. A 4.0 star hotel close to the museum. We offer 7 day trips here.
+Customer: That sounds great. Could you give me more details?
+Customer Service Agent (CSA): Of course. It has a a guest rating of 8.22/10 and offers free parking, free breakfast, and free wifi. The trip will run from September 12-17.
+Customer: That sounds really good. Can you add anything to the package?
+Customer Service Agent (CSA): I will not be able to do that; however, you can visit the museum that is very closeby.
+Customer: Okay cool, thanks. How much does it come to?
+Customer Service Agent (CSA): It will be 4041.98 if you choose to fly economy. Or you can update to business flights for a total of 5241.40.
+Customer: I'll take business please.
+Customer Service Agent (CSA): Sounds good! You are headed to Kingston! Booking confirmation will come via email. Anything else for today?
+Customer: Nope, I'm all good, thanks!
+Customer Service Agent (CSA): Glad to help :slightly_smiling_face:
+

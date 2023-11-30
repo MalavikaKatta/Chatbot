@@ -1,0 +1,11 @@
+Customer: I need to bring 6 clients out to impress them for a few days. 7 adults in total, and we're looking to leave Queenstown any time after September 20th. What've you got in Rome that sounds swanky.
+Customer Service Agent (CSA): Our very best in Rome is a 4 star hotel located near the cathedral and shopping. We can offer you stays up to 9 days.
+Customer: Amenities?
+Customer Service Agent (CSA): Free wifi and breakfast is included.
+Customer: Moving on - can you  tell me your best hotel in Detroit?
+Customer Service Agent (CSA): In Detroit our only availability is a 2.5 star hotel.
+Customer: Ah, that won't do at all. Anything nicer in Kingston?
+Customer Service Agent (CSA): In Kingston the best right now is a 3 star hotel with 8.49/10 ratings.
+Customer: Meh. Ok, Rome it is. Book business class please.
+Customer Service Agent (CSA): Alright business packages are booked for all of you! You will be there from September 26th to October 4th.
+

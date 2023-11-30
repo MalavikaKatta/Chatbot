@@ -1,0 +1,20 @@
+Customer: I want to book a flight for myself and 6 grandchildren
+Customer Service Agent (CSA): Where to?
+Customer: Essen please
+Customer Service Agent (CSA): From where?
+Customer: Pittsburgh would be our point of departure.
+Customer Service Agent (CSA): Do you have a budget?
+Customer: 3900
+Customer Service Agent (CSA): When would you like to leave and return?
+Customer: Leaving September 6. Returning September 22
+Customer Service Agent (CSA): We can't fly you out of Pittsburgh, is there somewhere else you could fly from?
+Customer: But do you have other flights leaving Pittsburgh?
+Customer Service Agent (CSA): We have a package to Calgary, Guadalajara, Denver, Burlington, Toronto, and Houston.
+Customer: What about Sacramento?
+Customer Service Agent (CSA): We have a 5 star hotel, 10/10 guest rating, free breakfast and wifi, from September 11th to 20th, economy flights, 3629.62.
+Customer: Is that price for me and the six kids?
+Customer Service Agent (CSA): Would you like to book it?
+Customer: yes please! and thank you! :slightly_smiling_face:
+Customer Service Agent (CSA): Great! Your package is booked for you and your 6 grandchildren! Have fun!
+Customer: Thank you! :slightly_smiling_face:
+

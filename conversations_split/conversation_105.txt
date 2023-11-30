@@ -1,0 +1,10 @@
+Customer: hey, i'm looking to go to Theed from Caprica on August 13th
+Customer Service Agent (CSA): Okay perfect! to help me find the best vacation plan for you, please answer some questions. Will you be travelling with anyone?
+Customer: yeah me and 12 dwarves are going backpacking around the fictional universe because we recently got a ton of gold from smaug's cave so there's 13 of us
+Customer Service Agent (CSA): Great! are all of you adults?
+Customer: of course!
+Customer Service Agent (CSA): Do you have a budget?
+Customer: we want to spend 2500 for all 13 of us
+Customer Service Agent (CSA): I am sorry but it seems as if there are no packages to Theed, is there another destination you prefer?
+Customer: ugh dang it.. Thanks anyhow
+

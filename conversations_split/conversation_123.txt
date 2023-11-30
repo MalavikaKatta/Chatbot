@@ -1,0 +1,20 @@
+Customer: hi I am burnt out... i need a vacation
+Customer Service Agent (CSA): Hi let me book you the most relaxing vacation
+Customer: I am off from september 2 to september 23 !
+Customer Service Agent (CSA): ohhh perfect! do you have a budget in mind?
+Customer: can you find me something? I hear Madrid is beautiful. No budget though
+Customer Service Agent (CSA): sure what city are you departing from?
+Customer: im leaving from Barcelona, Spain
+Customer Service Agent (CSA): will you be travelling alone?
+Customer: yes, i need a break from it all can you find me anything?
+Customer Service Agent (CSA): yes i can find a trip on september 6th to the 13th
+Customer: hmm ok, that would work! where would that be?
+Customer Service Agent (CSA): its at the El Hotel De La Reina, in Madrid, a five star hotel with free breakfast and wifi, would you like me to book it for you?
+Customer: wow, nice! what's the price?
+Customer Service Agent (CSA): $611 for an economy class ticket and $684 for business class
+Customer: and what is available in Santa Cruz?
+Customer Service Agent (CSA): sorry there are no results for santa cruz
+Customer: that's ok. let's book Madrid in that case
+Customer Service Agent (CSA): booked!
+Customer: thank you 
+

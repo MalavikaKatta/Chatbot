@@ -1,0 +1,7 @@
+Customer: Hi, my name is Harry Potter and I'd like to go to Hogsmeade leaving from Kakariko Village on Saturday, August 13th for 3 nights with 11 friends.
+Customer Service Agent (CSA): I can book 6 days at Obsidian Gem Inn in Vancouver, Canada for 10540.39USD. Would you like to leave from Dallas, USA?
+Customer: What? No. I'm looking for a trip to Hogsmeade with 11 of my friends.
+Customer Service Agent (CSA): I can offer you a trip for 12 adults is 6 days at Obsidian Gem Inn in Vancouver, Canada for 10540.39USD. Shall I go ahead and book this?
+Customer: I'll have to talk about it with my friends and get back to you. Thank you for your help.
+Customer Service Agent (CSA): Goodbye
+

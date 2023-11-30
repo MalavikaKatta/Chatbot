@@ -1,0 +1,7 @@
+Customer: Hi! We're thinking of going to Washington. Will try to get all 19 of us to go if that's possible!
+Customer Service Agent (CSA): Departing from where?
+Customer: Beautiful Jerusalem
+Customer Service Agent (CSA): Unfortunately, we do not service Jerusalem at this time. Perhaps another point of departure is available to you?
+Customer: I guess I'll have to look elsewhere
+Customer Service Agent (CSA): Sorry!
+

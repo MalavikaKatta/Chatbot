@@ -1,0 +1,13 @@
+Customer: I have a total of $4200 to go to Kingston from Seoul. What can you do for me?
+Customer Service Agent (CSA): Are you travelling alone?
+Customer: I am
+Customer Service Agent (CSA): When would you  like to leave?
+Customer: The dates don't matter as long as you stay within my spending limit
+Customer Service Agent (CSA): Ok! I have several options available. There is an 8 day package at a 2.5 star hotel inthe heart of the city, 7 days at a 3.5 star near a museum, 6 days at the Raven B&B of a 3 star rating, or several 5 day packages at hotels ranging from 2.5-4 star ratings, also for 5 days.
+Customer: Can you tell me a little bit more about the 5 day package at the 4 star hotel?
+Customer Service Agent (CSA): Sure, that’s the Ebony Manor Inn & Suites. It is near a museum and also has 8.22/10 for its guest rating. The hotel package includes complimentary breakfast, free wifi, and free parking for a total cost of 3384 dollars.
+Customer: Ugh it would be nice to see a photo or something but go ahead and book that one please
+Customer Service Agent (CSA): Ok, I will send confirmation shortly! Enjoy your stay.
+Customer: thanks
+Customer Service Agent (CSA): so long
+

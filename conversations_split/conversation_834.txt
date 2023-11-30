@@ -1,0 +1,26 @@
+Customer: I want to go to Dublin
+Customer Service Agent (CSA): Hi there, not so fast. Where are you leaving from and when would you like to go?
+Customer: cancun and from september 11 to 28 or somewhere around there
+Customer Service Agent (CSA): Are you on your own or with a group?
+Customer: ill let you know if i find a trip that looks enticing
+Customer Service Agent (CSA): In Dublin we have a 2.5 star hotel and a 2.0 hotel. Would you like to know more about these options?
+Customer: what is the highest rated hotel
+Customer Service Agent (CSA): The highest rated is the 2.5 star hotel, rated at 6.77 / 10.
+Customer: ew. Any trips to kochi?
+Customer Service Agent (CSA): In Kochi we have a 3.5 hotel rated at 7.15/10 by guests.
+Customer: what if i leave from Recife
+Customer Service Agent (CSA): The hotel is the same in Kochi if you leave from Recife.
+Customer: What about from Recife to Dublin
+Customer Service Agent (CSA): Still the same hotels in Dublin. One 2.5 start and one 2 star.
+Customer: Is there anything to Buenos Aires
+Customer Service Agent (CSA): Actually yes, if you leave from Recife, we have a 3.5 star hotel and a 3.0 star hotel in Buenos Aires.
+Customer: ok is the 3.5 star hotel near anything interesting?
+Customer Service Agent (CSA): Yup, it is in fact in the heart of the city, close to a park. While there, you can also enjoy free wifi and breakfast.
+Customer: cool beanie weenies. Book it for me and 3 of my friends
+Customer Service Agent (CSA): Okay, this one has a 9 day business package (Sep 20-28) for 3428.5 and the economy version for 2861.76.
+Customer: i like it. can you book it for me please
+Customer Service Agent (CSA): The business package?
+Customer: yes
+Customer Service Agent (CSA): I'd be happy to book it for you! Anything else you need?
+Customer: Thanks
+

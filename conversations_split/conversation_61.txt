@@ -1,0 +1,14 @@
+Customer: The police are after me, and I need to leave Kobe between August 27 and September 2.
+Customer Service Agent (CSA): Hi! I can help you with booking a trip from Kobe for your requested dates. Now, where would you like to go today?
+Customer: Take me anywhere, but I only have $4600 cash.
+Customer Service Agent (CSA): I can book you four days in Sapporo for 200.92USD!
+Customer: Four days may not be long enough... what else do you have?
+Customer Service Agent (CSA): How about 6 days in San Jose for 2045.99USD?
+Customer: That should be alright. Does the room have a safe?
+Customer Service Agent (CSA): This four star hotel has free wifi, free parking, and free breakfast!
+Customer: Perfect! So if I steal a car I can park it there! I'll have to call the hotel about the safe, what is the name of the hotel?
+Customer Service Agent (CSA): It's the Tranquil Seaside Inn.
+Customer: And free parking?
+Customer Service Agent (CSA): Yes! Tranquil Seaside Inn is the hotel I quoted for you before.
+Customer: Oh yes ok. This one sounds good to me!
+

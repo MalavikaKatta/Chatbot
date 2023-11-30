@@ -1,0 +1,9 @@
+Customer: Hello bot. I want to go to Manas from Boston on September 2
+Customer Service Agent (CSA): Do you have a budget?
+Customer: $4,100
+Customer Service Agent (CSA): Will you be travelling alone?
+Customer: Yes
+Customer Service Agent (CSA): There are only flights from Boston to Alexandria, Calgary, Atlante, and Punta Cana.
+Customer: Okay but what if I leave from Naples instead. Can you get me to Manas from Naples?
+Customer Service Agent (CSA): From Naples there are only results to Hamburg and Rome
+

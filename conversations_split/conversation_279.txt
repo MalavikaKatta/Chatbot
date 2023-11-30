@@ -1,0 +1,10 @@
+Customer: Hello you may know me as the best Pokemon Hunter in the world
+Customer Service Agent (CSA): Hello.
+Customer: i need to get to Rio de Janeiro
+Customer Service Agent (CSA): You can leave Recife Saturday August 27th
+Customer: but I can only leave from Santos
+Customer Service Agent (CSA): For less money on the same day you can leave and spend 261.99
+Customer: I will offer you $20000 to get me there
+Customer Service Agent (CSA): You only need to spend 261.99 good bye
+Customer: ok very good
+

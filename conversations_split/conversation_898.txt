@@ -1,0 +1,35 @@
+Customer: I have a business trip coming up in Punta Cana and I was thinking of taking a short vacation to Tofino.  Whatcha got for me?
+Customer Service Agent (CSA): Where would you like to go and where would you like to leave from?
+Customer: I want to go to Tofino. I want to leave from Punta Cana. Comprende?
+Customer Service Agent (CSA): Got it! When would you want to leave?
+Customer: I can travel from Tuesday, September 6, 2016 and Monday, September 26, 2016. Comprende?
+Customer Service Agent (CSA): Are you travelling with a budget?
+Customer: No. No budget, But don't rip me off either.
+Customer Service Agent (CSA): I’m having trouble finding something from Punta Cana to Tofino. Is there anywhere else you would be interested in going?
+Customer: How about form Punta Cana to Santa Cruz?
+Customer Service Agent (CSA): I have availability in Punta Cana, does that interest you?
+Customer: No, it does not. Check Belo Horizonte to Tofino.
+Customer Service Agent (CSA): Sorry, no availability.
+Customer: GRRRRRRRRR Belo Horizonte to Santa Cruz?
+Customer Service Agent (CSA): How about Belo Horizonte to Porto Alegre?
+Customer: ONE LAST TRY - KOBE
+Customer Service Agent (CSA): Would you like to go to Kobe or depart from Kobe?
+Customer: GO TO KOBE
+Customer Service Agent (CSA): Would you like to depart from Tokyo?
+Customer: NO FORM PUNTA CANA
+Customer Service Agent (CSA): I can book you 10 days at Resort Ancient Angel leaving from Belo Horizonte.
+Customer: HALLELUJAH
+Customer Service Agent (CSA): Would you like to book 10 days at this hotel leaving from Punta Cana?
+Customer: HOW MUCH FOR 2 PEOPLE
+Customer Service Agent (CSA): 11385.57USD
+Customer: LEAVING FROM WHERE?
+Customer Service Agent (CSA): Punta Cana.
+Customer: Can you tell me more about the hotel?
+Customer Service Agent (CSA): The 3.5 star hotel has a 8.69/10 rating and free wifi.
+Customer: dates?
+Customer Service Agent (CSA): September 9th until the 17th.
+Customer: Sounds good. Can you just reiterate everything back to me so I know we got the booking right?
+Customer Service Agent (CSA): Punta Cana to Kobe, Sept 9-17, 2 adults, cost of 11385 dollars.
+Customer: Very well done... my friend. Took a while but we got there. Thanks for your help.
+Customer Service Agent (CSA): My pleasure :slightly_smiling_face:
+

@@ -1,0 +1,20 @@
+Customer: Hi, I could use some help planning a low-budget honeymoon.
+Customer Service Agent (CSA): Ok, where would you like to go?
+Customer: Ideally Calgary. We can leave from St. Petersburg anytime after Tuesday Aug 30
+Customer Service Agent (CSA): What is your budget?
+Customer: 1200 max
+Customer Service Agent (CSA): For 2 adults?
+Customer: Exactly!
+Customer Service Agent (CSA): We have a 4 star hotel near a university, free parking and wifi, leaving September 7th and returning the 19th, business package costing 475.43 and economy package costing 356.68.
+Customer: Wow that's a good deal! Do you have anything leaving earlier though?
+Customer Service Agent (CSA): We have a package at the same hotel leaving September 2nd and returning the 8th.
+Customer: That's better! How much is that one?
+Customer Service Agent (CSA): 585.28.
+Customer: And that's the economy package?
+Customer Service Agent (CSA): This is the business package.
+Customer: This one is perfect then!
+Customer Service Agent (CSA): Would you like to book it?
+Customer: Yes please!
+Customer Service Agent (CSA): Great! You will receive confirmation shortly. Have a nice day and enjoy the honeymoon!
+Customer: Nice, thanks!
+

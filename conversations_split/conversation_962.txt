@@ -1,0 +1,15 @@
+Customer: Hi there
+Customer Service Agent (CSA): Hi! How can I help you?
+Customer: I have September 13 to 25 off
+Customer Service Agent (CSA): Okay, where will you leave from?
+Customer: Dallas. Can you look at flights to Belem?
+Customer Service Agent (CSA): Do you have a budget?
+Customer: Lets consider this independently of any budget for now
+Customer Service Agent (CSA): We have a great 4.5 star hotel package available from September 14th to 22nd. The hotel is located near the beach and has a 8.8/10 guest rating and also offers free parking, breakfast, and wifi. The economy flights package is 1583.37 and the business flights package is 2011.78.
+Customer: can you also tell me what you can find me in Denver?
+Customer Service Agent (CSA): We have a 3 star hotel near a park, 8.86/10 guest rating, free breakfast and wifi, from September 13th to 18th, 1134.60 for economy flights, and 1364.73 for business flights.
+Customer: Lets go with Belem now
+Customer Service Agent (CSA): Business or economy?
+Customer: Lets do Business class
+Customer Service Agent (CSA): Awesome! Done! Have a great vacation!
+

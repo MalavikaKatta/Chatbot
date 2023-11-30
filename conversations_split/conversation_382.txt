@@ -1,0 +1,13 @@
+Customer: I want to go to Sapporo
+Customer Service Agent (CSA): From where?
+Customer: Santo Domingo
+Customer Service Agent (CSA): On which days?
+Customer: August 23 to 26
+Customer Service Agent (CSA): Hi, how can I help you today?
+Customer: I want to go to Sapporo from Santo Domingo from August 23 to 26
+Customer Service Agent (CSA): What is your budget?
+Customer: 3000 for 1 adult
+Customer Service Agent (CSA): Sorry, I don't have any results
+Customer: That unfortunate....oh well. Thank you anyway!
+Customer Service Agent (CSA): Thank you !
+

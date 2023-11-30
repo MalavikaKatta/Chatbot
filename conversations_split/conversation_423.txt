@@ -1,0 +1,18 @@
+Customer: Hi My cousin is getting married so I'm looking for a place to stay in Milan from August 27th to September 1st :slightly_smiling_face: I'd be leaving from Punta Cana
+Customer Service Agent (CSA): Great :slightly_smiling_face: Ok, I have El Mundo Hotel available from August 27-31. It’s a four star hotel near the airport with free wifi and breakfast.
+Customer: That could work! How much is it?
+Customer Service Agent (CSA): 2488.66USD
+Customer: Is that the price for 2 people?
+Customer Service Agent (CSA): Just one. Would you like to know the price for two adults?
+Customer: yes that would be great! I'm going with my husband
+Customer Service Agent (CSA): Ok :slightly_smiling_face: In that case I could book the two of you for 4977.33USD
+Customer: That's a bit expensive! Do you have any cheaper deals?
+Customer Service Agent (CSA): I’m sorry, nothing available for two people at a lower price from Punta Cana to Milan :disappointed:
+Customer: What about if we left earlier? Like the 25th?
+Customer Service Agent (CSA): I do have options available leaving on the 25th, however they are more expensive.
+Customer: Ok, let me see them
+Customer Service Agent (CSA): Let me know when you are ready to book :slightly_smiling_face:
+Customer: My husband didn't want to come anyways and we can't afford to both go so I guess i'll book hotel for one person
+Customer Service Agent (CSA): Ok, sure thing! I will take care of that for you
+Customer: Thank you!
+

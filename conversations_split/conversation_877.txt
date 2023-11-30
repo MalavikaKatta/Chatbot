@@ -1,0 +1,18 @@
+Customer: Do you do flights out of Seoul?
+Customer Service Agent (CSA): Sure do! Where to?
+Customer: I have Boston in mind
+Customer Service Agent (CSA): We do have a few options for Boston from Seoul. When would you like to go? And how many are you traveling with?
+Customer: Traveling alone. September 5 to 16
+Customer Service Agent (CSA): We have a 6 day package at a 2.5 star hotel that matches your needs for 3616.69.
+Customer: Which six days?
+Customer Service Agent (CSA): September 6-10.
+Customer: Ok I’d like to find a longer stay elsewhere if possible. Can you also look up Santos for me?
+Customer Service Agent (CSA): Unfortunately we don't have any trips form Seoul to Santos. Any other places you'd like to visit?
+Customer: Try San Francisco
+Customer Service Agent (CSA): In San Francisco we have a 10 day package from September 5-13 at a 2.5 star hotel. Does that sound better?
+Customer: Whats the cost?
+Customer Service Agent (CSA): We have the economy package for 2871.66 and the business package for 3713.8.
+Customer: Please get me on the economy!
+Customer Service Agent (CSA): You are all set! An email confirmation is on its way to your inbox.
+Customer: Thanks!
+

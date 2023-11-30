@@ -1,0 +1,14 @@
+Customer: I want to go to San Juan.
+Customer Service Agent (CSA): Where would you need to leave from?
+Customer: Detroit.
+Customer Service Agent (CSA): Do you have a budget?
+Customer: 2300
+Customer Service Agent (CSA): When would you like to leave?
+Customer: September 12th
+Customer Service Agent (CSA): Will you be travelling alone?
+Customer: Yeah
+Customer Service Agent (CSA): Do you need to be back by a certain time?
+Customer: By September 20
+Customer Service Agent (CSA): The only thing available is a 2.5 star hotel near a museum, 8.49/10 guest rating, free parking, breakfast and wifi, from September 12th to 20th, business flights for 1522.20, and economy flights for 1239.84.
+Customer: That’s fine. Thank you!
+

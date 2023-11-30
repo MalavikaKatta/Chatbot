@@ -1,0 +1,25 @@
+Customer: hi 
+Customer Service Agent (CSA): How can i help you today?
+Customer: do you offer flights from san jose to buenos aires?
+Customer Service Agent (CSA): I sure do :slightly_smiling_face: For how many people?
+Customer: if its a good deal then i’d like to book for 6 adults
+Customer Service Agent (CSA): When would you like to travel?
+Customer: between sept 12 and 25
+Customer Service Agent (CSA): For 6 adults I can book 15 days from September 12-25 at a 3 star hotel near a park and museum for $27860. The hotel has a 6.61 guest rating as well as free parking, breakfast, and wifi.
+Customer: check denver first
+Customer Service Agent (CSA): Ok! Same dates and number of travellers?
+Customer: yes yes all the same please
+Customer Service Agent (CSA): In Denver I would have four different options for you - the Brass Renaissance Resort for 10 days (a three star hotel with 8.86/10 guest rating) from Sept 13-21, Solar Inn for 10 days (a three star hotel with 8.69/10 user rating) from September 15-23, or 8 days from Sept 12-18, and lastly the 3 star Oriental Resort (unrated by users) is available for a nine day stay from Sept 13-20.
+Customer: The Brass sounds most appealing. Is it near any points of interest?
+Customer Service Agent (CSA): It is near a park.
+Customer: and the solar inn?
+Customer Service Agent (CSA): No nearby points of interest are listed in my database.
+Customer: and can you give me a sense of the costs associated for brass?
+Customer Service Agent (CSA): 8938.88USD would be the price for 6 adults.
+Customer: economy?
+Customer Service Agent (CSA): That’s correct.
+Customer: how much for business class
+Customer Service Agent (CSA): 11309.90USD
+Customer: lets do it
+Customer Service Agent (CSA): Indeed! Ok, great! I will go ahead and book that.
+

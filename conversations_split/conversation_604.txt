@@ -1,0 +1,22 @@
+Customer: Hi there, do you do flights out of Belo Horizonte?
+Customer Service Agent (CSA): Yes, to Vitoria, Goiania, Naples, Minneapolis or Tampa
+Customer: I need to go to Cleveland though
+Customer Service Agent (CSA): We have 10 days and 8 days trips available
+Customer: Oh nice, can you do a 10 day trip between September 6 to 21?
+Customer Service Agent (CSA): So I've got 2413.15USD at 3 stars hotel in economy class or  3113.63USD in business class. Hotel is near park & theatre and includes free parking, free breakfast, free wifi
+Customer: Would like to inquire about trips to Long Beach also
+Customer Service Agent (CSA): 9 days or 7 days?
+Customer: 9 please
+Customer Service Agent (CSA): 2236.40USD in business class and 1728.40USD in economy class.
+Customer: Is the hotel any good?
+Customer Service Agent (CSA): 2.5 stars with 6.91 guest rating. free parking, free breakfast, free wifi
+Customer: Book me for Business class please
+but before you do
+can you confirm the dates?
+Customer Service Agent (CSA): ok
+Customer: what are dates?
+Customer Service Agent (CSA): September 14 - 21 from Belo Horizonte to Long Beach in business class at 2.5 stars hotel near airport, is that correct?
+Customer: yes, sounds right to me
+Customer Service Agent (CSA): ok I will book it for you
+Customer: :+1:
+

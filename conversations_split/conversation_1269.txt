@@ -1,0 +1,16 @@
+Customer: Yes! I choose Tampa! There lies my destiny.
+Customer Service Agent (CSA): May I ask where will you be coming from? And will it be just you?
+Customer: I will have 5 fellow teammates are we're based in Columbus.
+Customer Service Agent (CSA): So 6 adults from Columbus? Is there a budget to keep in mind?
+Customer: We were granted $15900.
+Customer Service Agent (CSA): We have a wonderful 13 day package to offer you with a stay at a 3 star hotel that has a guest rating of 8.8/10. This also includes parking, breakfast, and wifi. Are you interested in booking this package?
+Customer: Is it a nice location?
+Customer Service Agent (CSA): Most definitely! And a very convenient one indeed. There's an airport, a beach, a park, and a museum nearby! Plenty of activities for you and your group to do during your stay. Shall I proceed with booking?
+Customer: Before anything, can you also check Essen?
+Customer Service Agent (CSA): Not anything that fits your budget I'm afraid. Is it flexible?
+Customer: I can pull together an additional $500 at most.
+Customer Service Agent (CSA): I'm afraid there is still nothing that fits your budget. Are there any other options that you'd like to explore?
+Customer: No it's fine, let's just get the Tampa trip.
+Customer Service Agent (CSA): Okay, now booking the 13 day package to Tampa. Expect an email shortly. Enjoy your trip!
+Customer: Thanks so much!
+

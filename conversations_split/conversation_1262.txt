@@ -1,0 +1,21 @@
+Customer: Hey! So I'm in charge of planning the next vacay for my wife and me plus our seven munchkins.
+Customer Service Agent (CSA): So that would be 2 adults and 7 children? Where are you coming from and where would you like to go?
+Customer: Yup! Our family's settled in Vancouver. I've got a few sweet destinations in mind but can you help me check Punta Cana first?
+Customer Service Agent (CSA): Not a problem. Do you have a fixed budget?
+Customer: Yeah that's the hard part... we're hoping to spend only 1300
+Customer Service Agent (CSA): I'm afraid we have nothing that accommodates your budget. Could you expand your budget?
+Customer: Ugh that's what I thought. The most I can convince her to spend is $1000 more
+Customer Service Agent (CSA): I'm afraid we still don't have anything that accommodates your budget. Would you like to try another destination?
+Customer: This is harder than I thought... What about Denver?
+Customer Service Agent (CSA): I have an 8 day package to Denver costing at 1900.60 for business and 1420.71 for economy. Would this interest you?
+Customer: Sounds pretty good.. can you tell me more about the hotel?
+Customer Service Agent (CSA): It's 3 stars with wifi included and there is a museum and university nearby.
+Customer: How much did other guests like it?
+Customer Service Agent (CSA): There's no guest rating for this one, I'm afraid. Are you still interested in this package?
+Customer: Are there any other hotels or packages in Denver?
+Customer Service Agent (CSA): I'm afraid that's all we have for Denver...
+Customer: Okay.. anything for Santiago then?
+Customer Service Agent (CSA): Nothing that suits your accommodation I'm afraid. How else may I help you?
+Customer: That's all for now! I'm going to talk to my wife about the Denver option and come back to you once we've decided.
+Customer Service Agent (CSA): My pleasure. Have a good day.
+

@@ -1,0 +1,14 @@
+Customer: I'm looking to go on a trip but i'm not sure where. Can I get information for a trip from Toluca to Paris From August 25th to September 9th?
+Customer Service Agent (CSA): Sure thing! Are you on a budget?
+Customer: no
+Customer Service Agent (CSA): How about a 9 day stay at a 4 star hotel for only 516.90USD?
+Customer: How about a trip from Toluca to Curitiba?
+Customer Service Agent (CSA): How does an 8 day stay at a 3.5 star hotel for 1003.59USD sound?
+Customer: No thanks. Can you check trips from Toluca to Brasilia?
+Customer Service Agent (CSA): I can offer you a 3.5 star, 6 day stay for 1035.87 USD!
+Customer: hmmm. I don't know. Could you check one more, from Toluca to Hiroshima?
+Customer Service Agent (CSA): I've got a very nice one here. How about a 4.5 star, 7 day stay for 1081.42 USD?
+Customer: No thanks but I think I will take the 9 day trip to Paris! What are the dates for this trip?
+Customer Service Agent (CSA): August 27th to September 4th.
+Customer: That sounds great! I'll take it!
+

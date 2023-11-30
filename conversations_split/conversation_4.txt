@@ -1,0 +1,14 @@
+Customer: Hi I'd like to go to Caprica from Busan, between Sunday August 21, 2016 and Wednesday August 31, 2016
+Customer Service Agent (CSA): And what would be your maximum budget for this trip?
+Customer: Actually it's unlimited for this trip
+Customer Service Agent (CSA): How many adults and how many children will be making this trip?
+Customer: 2 adults
+Customer Service Agent (CSA): I have no trips to Caprica from Busan.  I do have a trip to Mannheim, Germany, one to Kingston , Canada, and another to Toronto Canada.  Would you like to select alternate dates or an alternate travel destination?
+Customer: Do you have anything for San Antonio as a destination?
+Customer Service Agent (CSA): Yes, I do.  I have one for 8445.37 USD.  Would you like to book this package?  The guest rating is 7.15/10 and there is free parking and free wifi.  Leaving Sunday, August 21st at 11:00 a.m. and returning Sunday, August 28th at 1:00 a.m.
+Customer: Is breakfast included?
+Customer Service Agent (CSA): Yes, it is.
+Customer: That sounds great. 1:00 am return on Sunday August 28th is very early in the morning... 
+Customer Service Agent (CSA): Would you like to book this package?
+Customer: Yes I would. Thanks for your help.
+

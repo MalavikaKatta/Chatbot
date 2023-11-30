@@ -1,0 +1,12 @@
+Customer: Hi im looking to go on a trip to baltimore
+Customer Service Agent (CSA): What city will you be departing from?
+Customer: Im from Las Vegas!
+Customer Service Agent (CSA): Let me know how this sounds: 10 days at Baltimore 's Countryside Resort starting August 18.
+Customer: im looking to leave on August 25th, do you have anything around there?
+Customer Service Agent (CSA): I could book you 10 days in Baltimore leaving on the 25th.
+Customer: 10 days in baltimore seem perfect! can you tell me about the hotels?
+Customer Service Agent (CSA): The only available hotel is the Countryside Resort. It is a 3-star hotel with a 7.06/10 guest rating, free wifi, free parking and free breakfast. Do you want me to book this trip?
+Customer: ya for sure!
+Customer Service Agent (CSA): Booked! Your flight leaves Thursday, August 18th at 5:13 p.m. Enjoy your stay!
+Customer: thank you so much
+

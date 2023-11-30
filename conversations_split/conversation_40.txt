@@ -1,0 +1,33 @@
+Customer: Hi! I hear Hogsmeade has some excellent bars. Can you book me a trip there from Diagon Alley, leaving on August 13th? For 7 men and women
+Customer Service Agent (CSA): Hi there! I am searching trips available to Hogsmeade but am unable to find any possibilities. Is there another destination you might be interested in?
+Customer: Well, we were thinking Dominican Republic could be fun as well.
+Customer Service Agent (CSA): Ok. I will look for trips to Dominican Republic. Do you have another option for a departure city?
+Customer: Yes, Vancouver.
+Customer Service Agent (CSA): Great! Where would you like to travel to?
+Customer: Punta Cana is good!
+Customer Service Agent (CSA): Great. I can book a trip for 7 people travelling from Vancouver to Punta Cana for 3853.27USD.
+Customer: that's just a little over my budget... what about for 3 adults instead of 7?
+Customer Service Agent (CSA): For three adults, this trip would cost 1651.40USD.
+Customer: The trip meant to be a bachelor party for my friend. is there an open bar at the hotel?
+Customer Service Agent (CSA): I do not have this information for the El Mar hotel in Punta Cana.
+Customer: How many stars is it?
+Customer Service Agent (CSA): 2.5 stars.
+Customer: Let's try 4 stars.
+Customer Service Agent (CSA): I'm having trouble finding 4 star hotels in Punta Cana for you. Perhaps if you provided a departure and/or return date I could narrow things down?
+Customer: End of August, anytime after the 22nd of August.
+Customer Service Agent (CSA): I am only able to find hotels with a 2.5 star rating in Punta Cana for that time. 
+Customer: 2.5 stars will do. Can you offer any additional activities?
+Customer Service Agent (CSA): Unfortunately I am not able to provide this information.
+Customer: How about breakfast?
+Customer Service Agent (CSA): El Mar does not provide breakfast.
+Customer: Are there other hotels in the area that do?
+Customer Service Agent (CSA): I am unable to find other hotels in Punta Cana that offer free breakfast.
+Customer: In that case I will book the first one for 1651. 40 USD.
+Customer Service Agent (CSA): Great! You will leave Vancouver at 10:00 am - Wednesday, August 24th.
+Customer: When do we leave?
+Customer Service Agent (CSA): You will leave Vancouver at 10:00 am - Wednesday, August 24th.
+Customer: leave Punta Cana?
+Customer Service Agent (CSA): You will leave Punta Cana at 4:00 am - Tuesday, August 30th.
+Customer: Great! I'll book this one. Thank you
+Customer Service Agent (CSA): Great! Thank you
+

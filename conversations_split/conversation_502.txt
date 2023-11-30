@@ -1,0 +1,8 @@
+Customer: Hey there, sooo I’m in a bit of a bind where I’m getting married next week and have yet to book a honeymoon..
+Customer Service Agent (CSA): Hello! Where would you like to go?
+Customer: We’ve got a fair bit of money on hand - 4100. Would love to go to Porto Alegre! Our wedding will be in Leon
+Customer Service Agent (CSA): When would you like to leave?
+Customer: Any time after the wedding, which is September 3
+Customer Service Agent (CSA): There's nothing to Porto Alegre but is there somewhere else you'd be willing to go?
+Customer: Ahhh dammit No
+

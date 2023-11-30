@@ -1,0 +1,17 @@
+Customer: Hello there, I'd like to book a vacation for my best friends and myself. I live and work in St. Petersburg, and I've been wanting to get out of the city with my buddies for a long time now :slightly_smiling_face:
+Customer Service Agent (CSA): Ok! How many of you will be travelling? Any destination in mind?
+Customer: Do you have any flights departing for Santiago on August 24?
+Customer Service Agent (CSA): You’re in luck! I can book you Aug 24-28 in Santiago for only 1563 dollars per person.
+Customer: And how about San Juan, departing on the same day?
+Customer Service Agent (CSA): I can book Aug 24-27 in San Juan for 1169.
+Customer: What kind of hotel can you find me in Santiago?
+Customer Service Agent (CSA): In Santiago I have Una casa available. It is 3 stars with free wifi, free parking, and free breakfast.
+Customer: Ooh fancy! And what about the hotel in San Juan?
+Customer Service Agent (CSA): I have the Fairyland, a 4 star hotel near shopping, markets, and a museum with free wifi.
+Customer: Would you be able to find me a nicer hotel in any of these cities?
+Customer Service Agent (CSA): Unfortunately those are the only hotels that leave on August 24.
+Customer: Can you put us up for Santiago August 24-28. Umm book for one please
+Customer Service Agent (CSA): Ok! I will book for one person for Santiago. Is this ok?
+Customer: Yes! Thank you :slightly_smiling_face:
+Customer Service Agent (CSA): You are welcome! That will cost 1563.24USD.
+

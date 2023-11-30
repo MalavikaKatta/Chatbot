@@ -1,0 +1,20 @@
+Customer: I want to find a vacation between the 7th to 24 for 3100 leaving from Cordoba. Can you help me find something good?
+Customer Service Agent (CSA): I sure can! Are you willing to go anywhere?
+Customer: Yes anywhere is fine, just like to hear some options.
+Customer Service Agent (CSA): Ok - first off, I have an 18 day package in Recife at a 3.5 star hotel with a 8.69/10 guest rating.
+Customer: What else?
+Customer Service Agent (CSA): There is a 17 day package in Paris at a 4 star hotel with free breakfast and wifi near a museum, shopping district, and a cathedral.
+Customer: Better. Are there other places available?
+Customer Service Agent (CSA): In Madrid I have a 5 star hotel near a palace, a museum, and a cathedral. The package lasts 16 days and includes free breakfast and wifi.
+Customer: 5 stars! Now we're talkin! Any other places with 5 stars?
+Customer Service Agent (CSA): Not that I can see from my initial list..
+Customer: Okay well is there any more information on the 5 star hotel in Madrid?
+Customer Service Agent (CSA): Yes - the hotel has a 9.16 guest rating and the package spans from September 9th to the 24th.
+Customer: That sounds like a pretty good package. What is the cost?
+Customer Service Agent (CSA): For economy class 937.60USD.
+Customer: good good, very affordable. Can you book it for me?
+Customer Service Agent (CSA): Sure! Business class would cost 1078.0USD. Do you want to upgrade?
+Customer: Yeah of course!
+Customer Service Agent (CSA): Great :slightly_smiling_face: All booked!
+Customer: Thank you very much, i'm sure I'll be back again the next time I plan on travelling.
+

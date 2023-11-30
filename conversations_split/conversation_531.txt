@@ -1,0 +1,6 @@
+Customer: Can I take my wife and son from Madrid to Santos for 4800??
+Customer Service Agent (CSA): Let me check that for you! No flights from Madrid to Santos.
+Customer: and Ulsan?
+Customer Service Agent (CSA): No flights from Madrid to Ulsan.
+Customer: wow
+

@@ -1,0 +1,26 @@
+Customer: Hello there! I'm trying to plan a vacation here for my family - want to bring my wife and three kids somewhere cool before school starts. I'm looking for something between August 27th and September 16th, and we're looking at a couple of cities
+Customer Service Agent (CSA): Where will you be leaving from?
+Customer: I'll be leaving from Seattle. Could you do me a favour and check for trips to Toluca please?
+Customer Service Agent (CSA): Do you have a budget?
+Customer: Yes I do. Trying to spend $4800 or less on this vacation
+Customer Service Agent (CSA): We have a 3.5 star hotel with four different packages
+Customer: Are these packages for different dates?
+Customer Service Agent (CSA): There are two dates to choose from. September 1st to 9th or August 27th to September 6th.
+Customer: Oh very cool! What is the price for the August 27th to September 6th dates?
+Customer Service Agent (CSA): 3889.55 for economy class and 4702.78 for business class seats.
+Customer: Beautiful, thank you! Can you see if there are available packages for the same dates going to Santos?
+Customer Service Agent (CSA): There are no trips to Santos
+Customer: Oh rats! How about...Kingston?
+Customer Service Agent (CSA): There's a 2.5 star hotel for economy and business class seats from the 7th to 14th of September.
+Customer: How much does it cost?
+Customer Service Agent (CSA): Economy seats are 3762.80 and business seats are 4783.39.
+Customer: Great! Going back to the Toluca option, do I get a choice of hotels for the economy class trip from August 27th to September 6th?
+Customer Service Agent (CSA): There is just the one hotel for Toluca.
+Customer: Is it a good hotel?
+Customer Service Agent (CSA): It is a 3.5 star hotel with free breakfast, free wifi, and free parking.
+Customer: Thanks! Is the 2.5 star hotel my only option in kingston?
+Customer Service Agent (CSA): The 2.5 star hotel is the only option in Kingston.
+Customer: Okay I will need to confirm with my wife and then I'll let you know
+Customer Service Agent (CSA): Sounds great!
+Customer: Thanks again! :slightly_smiling_face:
+

@@ -1,0 +1,18 @@
+Customer: Hi there! I have a couple interviews coming up. Do you have anything to Kyoto?
+Customer Service Agent (CSA): where would you be coming from and can you provide me with your travel dates please?
+Customer: I'll be leaving from Santos, and ideally I'd like to be there between August 27 and 30.
+Customer Service Agent (CSA): I have flights to Kioto but not out of Santos. Are you able to depart from Nagoya?
+Customer: Not really, but I can travel to Toronto instead!
+Customer Service Agent (CSA): You are in luck, I have packages available from Santos to Toronto close to your desired dates. Would an August 30th departure date be acceptable?
+Customer: I would really prefer getting there for the 27th, is that possible?
+Customer Service Agent (CSA): I have nothing available on the 27th but I have a package available from August 24th to September 1st
+Customer: What if I went to Porto Alegre instead?
+Customer Service Agent (CSA): From Santos to Porto Alegre, I have a package from the 25th to the 28th and a package from the 26th to 29th. The first package would be at a 3.5 star hotel and the second at a 3 star hotel. Are you travelling alone?
+Customer: The second package sounds interesting. What amenities does it include. Yes I'll be travelling alone.
+Customer Service Agent (CSA): The Deluxe Hotel is located near the University and includes a free continental breakfast and of course wifi. It has a very good guest rating of 8.69 / 10 all for the low price of 787.76USD. Does this offer appeal to you?
+Customer: It sure does!
+Customer Service Agent (CSA): Fantastic. May I proceed with the booking then?
+Customer: Yes, please do!
+Customer Service Agent (CSA): done
+Customer: Great! Thank you so much!
+

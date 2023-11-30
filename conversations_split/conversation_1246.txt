@@ -1,0 +1,18 @@
+Customer: Hi! You can help me by giving me the best honeymoon in Cancun!
+Customer Service Agent (CSA): Sure thing! Where will you be coming from? And do you have a budget?
+Customer: Well we just finished our wedding in Burlington so we can leave from here anytime. We blew out both of our bank accounts for the wedding so now the both of us can put together only 1800.
+Customer Service Agent (CSA): I'm afraid we don't offer anything that fits your budget. Is your budget flexibl?
+Customer: Can you find me something in Tampa?
+Customer Service Agent (CSA): Most certainly. We have a 7 day package at the Dual Loch Hotel which has 3 stars and has a guest rating of 8.8/10. It includes free parking, breakfast, and wifi, costing at 1487.43 for economy and 1785.35 for business. Would you be interested in booking?
+Customer: Nice! Is it close to something cool?
+Customer Service Agent (CSA): It is close to many things, including a park, a museum, a beach, and an airport. Would you like to book this trip?
+Customer: Before I get too carried away, is this the only option that works for us?
+Customer Service Agent (CSA): The only other package we have is a 4 day one with the same hotel, costing at 1755.8 for economy class. Which package would you prefer?
+Customer: So it's actually cheaper to stay longer??
+Customer Service Agent (CSA): That's what I've found in my database, yes.
+Customer: Okay.. We were thinking of only stay 4 days to save money and go back to work earlier... but in this case... We'll go for the 7 days!
+Customer Service Agent (CSA): Would you like to book economy or business class?
+Customer: I'm going to splurge for biz since I can afford it :slightly_smiling_face:
+Customer Service Agent (CSA): Good choice! Your package has now been booked. Enjoy your holiday!
+Customer: Thank you!
+

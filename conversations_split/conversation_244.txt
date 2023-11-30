@@ -1,0 +1,20 @@
+Customer: I need to get to NAPLES
+Customer Service Agent (CSA): No problem, where are you leaving from?
+Customer: Seoul
+Customer Service Agent (CSA): When would you like to leave?
+Customer: August 19th
+Customer Service Agent (CSA): I have packages starting at 2426.22USD. Do you have a budget or a companion?
+Customer: my budget is $4700
+Customer Service Agent (CSA): How about 14 days at the 3 star Courtyard Resort for 4045.13 USD?
+Customer: And what if i had no budget?
+Customer Service Agent (CSA): there are no other options
+Customer: what are the dates/
+Customer Service Agent (CSA): August 27th to September 8th. I have found a 14 day package for only 2434.53 USD at the 4 star Tower Hotel. Would you like to know more about this hotel?
+Customer: I need to go on August 19th
+Customer Service Agent (CSA): For 2426.22 USD you can leave on August 18th and stay for 14 days at the 3 star Courtyard Resort.
+Customer: Let’s book it!
+Customer Service Agent (CSA): Great! Shall I go ahead and book this for you?
+Customer: Yes please!
+Customer Service Agent (CSA): Your reservation is complete! Thank you!
+Customer: hanks
+

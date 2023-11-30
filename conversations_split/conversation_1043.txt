@@ -1,0 +1,5 @@
+Customer: Long Beach to Belo Horizonte September eighth
+Customer Service Agent (CSA): is there any flexibility on your date?
+Customer: sure
+Customer Service Agent (CSA): Regretfully we do not have flight packages from Long Beach to Belo Horizonte
+

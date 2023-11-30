@@ -1,0 +1,13 @@
+Customer: Minneapolis to Punta Cana
+Customer Service Agent (CSA): 1855.8USD for 15 days.
+Customer: whats the hotel like
+Customer Service Agent (CSA): 3 stars, near a cathedral, free breakfast and wifi.
+Customer: kk How bout a trip to Guadalajara?
+Customer Service Agent (CSA): At a 2.5 hotel 1106.92USD for economy flights including free parking, free breakfast and free wifi. This is an 11 day package.
+Customer: What about to Belem?
+Customer Service Agent (CSA): Lots of options in Belem, longest are 9 day packages. I have a 4.5 star hotel on the beach or a 3 star near a cathedral.
+Customer: Whats the price for the 4.5 star?
+Customer Service Agent (CSA): 1910.19USD with business class flights.
+Customer: wow. i could afford all these. shocking. well i cant book anything. sorry for wasting your time.
+Customer Service Agent (CSA): Have a good day.
+

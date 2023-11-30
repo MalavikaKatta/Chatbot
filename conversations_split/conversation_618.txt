@@ -1,0 +1,13 @@
+Customer: Hello there. I would be intersted in travelling from Cordoba to Tokyo and I’m hoping you could help me with that
+Customer Service Agent (CSA): Do you have the dates when you'd be travelling and a budget?
+Customer: 20200. 4 adults 2 kids
+Customer Service Agent (CSA): I have 8, 9 and 11 days trips at 19674.88USD, 18702.67USD and 19736.42USD, at 3 star hotels with spa and free wifi
+Customer: Spa and free wifi sounds nice. I would be interested in the 9 day trip What are the flight details
+Customer Service Agent (CSA): 3.0 star hotel near museum & shopping mall, in ECONOMY class. Guest rating is 6.77
+Customer: I want to know the flight details please
+Customer Service Agent (CSA): september 2 - 9th
+Customer: What time would we leave from Cordoba??
+Customer Service Agent (CSA): 9:38 pm on Friday September 2nd
+Customer: Ok, I think that’ll work
+Customer Service Agent (CSA): Alright. It's done
+

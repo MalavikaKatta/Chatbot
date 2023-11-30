@@ -1,0 +1,11 @@
+Customer: I need to go to beijing from Atlanta
+Customer Service Agent (CSA): I’m sorry, I can’t offer a flight from Beijing to Atlanta at this time. Could you perhaps leave from somewhere else?
+Customer: Well good cuz i want to go to beijing from Atlanta.
+Customer Service Agent (CSA): Oh, I’m sorry, I misread. However I am still unable to accommodate any trips involving Beijing.
+Customer: well take me to Barcelona for 12 adults and $3100
+Customer Service Agent (CSA): Sorry, I cannot provide a trip for 12 adults at that price. Would you be able to increase your budget or reduce the size of your party?
+Customer: i can go to Stuttgart for 3500 with 6 adults total
+Customer Service Agent (CSA): I can book a week at Hotel Jade Valley in Stuttgart for 6 adults for just under your budget! Would you prefer to leave from Berlin, Hamburg, or Essen?
+Customer: I have to leave from Atlanta.
+Customer Service Agent (CSA): Sorry, that is not possible for your budget.
+

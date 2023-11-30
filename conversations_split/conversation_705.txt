@@ -1,0 +1,16 @@
+Customer: Hi , looking for a business class package to Philadelphia, leaving Ciudad Juarez, after August 31st
+Customer Service Agent (CSA): Hello!
+Customer: 6 adults in total travelling
+Customer Service Agent (CSA): Do you have a budget?
+Customer: Nope, but can't leave until after August 31st
+Customer Service Agent (CSA): We have a 2 star hotel near a park and museum, 6.61/10 guest rating, free parking, breakfast, and wifi, departing August 31st, returning September 10th, business class, total is 8106.32.
+Customer: Is anything nicer available in Philadelphia?
+Customer Service Agent (CSA): No.
+Customer: Can you find something nicer in Baltimore?
+Customer Service Agent (CSA): We have a 3 star hotel near a park, 8.69/10 guest rating, free parking, breakfast, and wifi, business class flight, from September 2nd to 14th, and the price is 3955.65.
+Customer: How about  in San Francisco?
+Customer Service Agent (CSA): We only have 2.5 star hotels.
+Customer: So the best you can offer is the 3 star in Baltimore?
+Customer Service Agent (CSA): Yes.
+Customer: Ok, that'll do. Book that one please
+

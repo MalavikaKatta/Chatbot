@@ -1,0 +1,23 @@
+Customer: Need to get to Essen
+Customer Service Agent (CSA): And from where will you be departing?
+Customer: Berlin
+Customer Service Agent (CSA): I have 15 days at the Relaxation Hotel for  576.46USD.
+Customer: How many people is this for?
+Customer Service Agent (CSA): are you travelling alone?
+Customer: no
+Customer Service Agent (CSA): How many are in your party?
+Customer: My wife, my lawyer, me and my 5 kids
+Customer Service Agent (CSA): In that case, the cost of the Relaxation Hotel package increases to 3510.67USD
+Customer: What can we do at the Relaxation Hotel, this is an information gathering mission but I would like to spend some quality time with the kids
+Customer Service Agent (CSA): It is near a palace, has free wifi, and breakfast costs are included.
+Customer: what if we fly business class, how $$$$
+Customer Service Agent (CSA): 3857.61USD
+Customer: Is this all you have in Essen?
+Customer Service Agent (CSA): Yes.
+Customer: what's the rating on the hotel?
+Customer Service Agent (CSA): 3.0 stars. 6.61/10 user rating.
+Customer: If I increase my budget to a total of $6100, do you have something nicer in Essen?
+Customer Service Agent (CSA): No, that is the only option in Essen.
+Customer: Well I guess we have no choice then LOL let's reserve it On business class
+Customer Service Agent (CSA): Ok, you’ve got it!
+

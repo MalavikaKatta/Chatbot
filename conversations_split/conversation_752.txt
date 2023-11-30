@@ -1,0 +1,15 @@
+Customer: Hey, I really need to get out of Tofino for a while. Any chance to leave on Aug 29?
+Customer Service Agent (CSA): Where would you like to go?
+Customer: Stuttgart would be a cool place to go.
+Customer Service Agent (CSA): Do you have a budget?
+Customer: I've only got 3100 actually.
+Customer Service Agent (CSA): Are you travelling by yourself?
+Customer: Right on.
+Customer Service Agent (CSA): There are no results showing for your request.
+Customer: Any chance if I leave from Busan instead?
+Customer Service Agent (CSA): Nothing within your budget.
+Customer: Uh.. okay. I guess I can settle for Dallas. Still leaving from Tofino though.
+Customer Service Agent (CSA): No, sorry.
+Customer: Alright I'm gonna give it a last shot. What about Dallas from Busan?
+Customer Service Agent (CSA): No, sorry!
+

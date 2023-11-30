@@ -1,0 +1,29 @@
+Customer: Hey, I need to get to Punta Cana! For some important business!
+Customer Service Agent (CSA): Ok! From where?
+Customer: From Tokyo. And I'll be bringing my kids with me.
+Customer Service Agent (CSA): How many people in total?
+Customer: 1 adult and 3 kids.
+Customer Service Agent (CSA): And what is the budget for you all?
+Customer: 11600
+Customer Service Agent (CSA): Great! I have 5 or 6 day packages available. Do you have any preference?
+Customer: Is a 6 day package the longest you have?
+Customer Service Agent (CSA): Yes, it is.
+Customer: How many 6 day packages do you have?
+Customer Service Agent (CSA): Just one, but with either economy or business class flights.
+Customer: How much is it and what does it include?
+Customer Service Agent (CSA): 8320.93USD is the price for your family and the hotel is 2.5 stars, located on the beach.
+Customer: That doesn't sound too bad. 
+If I increase my budget, would you be able to get me a longer package deal?
+Customer Service Agent (CSA): There is an 11 day package at an unrated hotel for 7909.84USD total.
+Customer: So you do have something longer! Is that hotel also on a beach?
+Customer Service Agent (CSA): No, it is near a palace.
+Customer: That also sounds good. Any other longer package deals that you've been hiding from me?
+Customer Service Agent (CSA): Shall I book?
+Customer: Okay then, I'll book the 11 day package.
+Customer Service Agent (CSA): Ok, great. Would you like to upgrade to Business class flights?
+Customer: How much would that be?
+Customer Service Agent (CSA): 10546.23USD
+Customer: Sure, that sounds good. I'll take that! The children will enjoy it.
+Customer Service Agent (CSA): Wonderful. Enjoy your stay
+Customer: Thanks!
+

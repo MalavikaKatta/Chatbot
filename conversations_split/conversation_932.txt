@@ -1,0 +1,17 @@
+Customer: Hi. I am leaving from Recife
+Trying to see if there are any 5 star hotels in Sendai
+Customer Service Agent (CSA): Would a 4 star suffice?
+Customer: Barely, but tell me more
+Customer Service Agent (CSA): Well there’s the Hotel Kirei, near a park and a museum with a 8.8/10 guest rating. I also have vacancies at the Voyage which features a 8.49/10 guest rating and is near both museums and shopping.
+Customer: Is there free breakfast at the Kirei?
+Customer Service Agent (CSA): No, sorry. Only free wifi at both of these hotels.
+Customer: Ok I’ll roll the dice. But yes let me know the dates I can get at Kirei
+Keep in mind I need to back before the 8th of September, preferably
+Customer Service Agent (CSA): I can book you from Sept 2-7
+Customer: Done, done, done.
+Customer Service Agent (CSA): Business class?
+Customer: Yes
+Customer Service Agent (CSA): That will be 7185.50USD.
+Customer: Yes I will wire the money over shortly. Is this booked?
+Customer Service Agent (CSA): It sure is!
+

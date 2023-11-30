@@ -1,0 +1,12 @@
+Customer: I wanna lay low so i need to get out of tijuana. I think i’d like to go to rome
+Customer Service Agent (CSA): When would you like to leave?
+Customer: september 16th
+Customer Service Agent (CSA): My earliest departure is on Sept 20th, does that work for you? How many people will be travelling to Rome together?
+Customer: What about if i leave from Hamburg?
+Customer Service Agent (CSA): From Hamburg, I have departures on the 11th and on the 20th
+Customer: What about from Tijuana to Manaus?
+Customer Service Agent (CSA): From Tijuana to Manaus my earliest flights are on Sept 14th and Sept 21st
+Customer: From Hamburg to Manaus?
+Customer Service Agent (CSA): From Hamburg to Manaus I have flights on the 14th and the 20th.
+Customer: No i really needed to leave on the 16th. that’s okay, i’ll figure something out.
+

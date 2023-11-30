@@ -1,0 +1,20 @@
+Customer: hello. lima please
+Customer Service Agent (CSA): From where?
+Customer: osaka
+Customer Service Agent (CSA): Do you have a budget?
+Customer: 5300 dollars
+Customer Service Agent (CSA): For 1 adult?
+Customer: yes for one adult
+Customer Service Agent (CSA): When would you like to leave?
+Customer: september 14th i start my holidays. and i must be back to work october 4th
+Customer Service Agent (CSA): Do you prefer a 3.5 star hotel or a 4 star hotel?
+Customer: I want to stay on the beaches and near markets, and I want free wifi
+Customer Service Agent (CSA): Every hotel is near a park.
+Customer: that is pretty good...book the 4 star please
+Customer Service Agent (CSA): Okay. Would you prefer 11 days from September 15th to 24th or 9 days from September 26th to October 3rd?
+Customer: 11 days how much would that cost?
+Customer Service Agent (CSA): For business flights, 4054.90 and for economy flights, 3152.83.
+Customer: economy please
+Customer Service Agent (CSA): Great! It is booked! Have a great day and enjoy the trip!
+Customer: i appreciate your assistance
+

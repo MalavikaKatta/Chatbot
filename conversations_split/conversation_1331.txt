@@ -1,0 +1,11 @@
+Customer: Hi there, I need to go to North Vancouver please.
+Customer Service Agent (CSA): Hello! How can I help you with your travel needs?
+Customer: I need to go to Montreal for under 3800 from Valencia. Could you help me?
+Customer Service Agent (CSA): Sure I can! How many people will you be travelling with?
+Customer: Just me. I need to go between Friday September 30 and Tuesday October 4 though
+Customer Service Agent (CSA): When would you like to travel?
+Customer: September 30 to October 4
+Customer Service Agent (CSA): There are no results for trips to Montreal from Valencia.
+Customer: Oh that's a shame. I'm out of here then. Goodbye
+Customer Service Agent (CSA): Sorry!
+

@@ -1,0 +1,7 @@
+Customer: essen to osaka. sept 2-16
+Customer Service Agent (CSA): number of people?
+Customer: one
+Customer Service Agent (CSA): I have nothing to Osaka from Essen. Can I interest you in other destinations?
+Customer: what if i change the dates and leave a day earlier
+Customer Service Agent (CSA): It does not make a difference
+

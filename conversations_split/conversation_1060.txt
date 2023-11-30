@@ -1,0 +1,29 @@
+Customer: Hi there, I'd like to book a trip for the family, but we haven't decided on a destination yet.
+Customer Service Agent (CSA): I'd be happy to help with that! Where are you coming from?
+Customer: From Sapporo.
+Customer Service Agent (CSA): How big is the family?
+Customer: Pretty big. It'll be 3 adults and 7 kids.
+Customer Service Agent (CSA): Sure is! When would you like to take this vacation?
+Customer: Pretty soon, but no earlier than Thursday September 8
+Customer Service Agent (CSA): How much budget have you allocated to this trip
+Customer: I don't want to spend any more than $54700
+Customer Service Agent (CSA): That will be enough. Is there a date you have to return by?
+Customer: Yes! Wednesday September 28
+Customer Service Agent (CSA): Okay. I have quite a few options for you. Do you want to hear the longest trips first or the highest star-rated ones first?
+Customer: Longest I guess! Ones that will make the most of my budget!
+Customer Service Agent (CSA): That would surely be an 18 stay at our prestigious 4.0 star hotel next to the park, beach, shopping, and mall. It has a whoping guest rating of 10/10 and I can get you all into business class for 54474.39.
+Customer: Oh that sounds good! But what is the city of destination?
+Customer Service Agent (CSA): None but the amazing Porto Alegre!
+Customer: Oh wow that's really good. Is that the best option you have?
+Customer Service Agent (CSA): Yes, it is one of the longest trips we have and the best rated.
+Customer: Do you have anything else comparable?
+Customer Service Agent (CSA): We also have 13 day trips to a 3.5 star hotel in both Atlanta. Would this be of interest to you?
+Customer: Wow, that also sounds very nice. How much would that one cost?
+Customer Service Agent (CSA): It would be 30657.65 for economy class and 39694.35 for business class.
+Customer: How much does the Porto Alegre package cost for economy?
+Customer Service Agent (CSA): That would be 41753.92.
+Customer: You know what, I'll take the Porto Alegre package, and for business class!
+Customer Service Agent (CSA): That's a great choice! I have secured the booking for you! Your flight leaves on the 8th so better start packing :slightly_smiling_face:
+Customer: Perfect, thank you!
+Customer Service Agent (CSA): With pleasure :slightly_smiling_face:
+

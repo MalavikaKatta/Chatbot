@@ -1,0 +1,19 @@
+Customer: Hi there!
+Customer Service Agent (CSA): Good afternoon!
+Customer: I would like to take my wife and 3 kids on a vacation. can you help?
+Customer Service Agent (CSA): Of course I can. Where do you live?
+Customer: Sapporo
+Customer Service Agent (CSA): And where would you like to vacation?
+Customer: We were thinking of a few different options, first being La Paz
+Customer Service Agent (CSA): Are you on a budget for this trip?
+Customer: Yeah, we have 2500
+Customer Service Agent (CSA): I have packages from Sapporo to La Paz, but unfortunately none that meet your budget.
+Customer: We can up our budget by another thousand, would that help?
+Customer Service Agent (CSA): No still too high for you. Can I check other destinations for you?
+Customer: Kochi?
+Customer Service Agent (CSA): We could send you and your family on a 7 day holiday to Kochi at the Hotel Grandiose Rose, a 6.61 star hotel located in the heart of the city and close to a park.  The total price would be 2986.25USD and include wifi.
+Customer: Hm, maybe. Do you have anything to Vancouver?
+Customer Service Agent (CSA): No I don't
+Customer: Bummer. I guess Kochi is our only option then..... hm. When is this package?
+Customer Service Agent (CSA): It is available from September 11 to September 17th,
+

@@ -1,0 +1,15 @@
+Customer: Alexandria to Toronto
+Customer Service Agent (CSA): When?
+Customer: 13th of September. until the 24th
+Customer Service Agent (CSA): Any budget?
+Customer: yes. I have 2100
+Customer Service Agent (CSA): Alone?
+Customer: yes, just me
+Customer Service Agent (CSA): There are no results showing for Alexandria, are you able to leave from somewhere else?
+Customer: …no, I live here. I am checking out several places though
+check Belem
+Customer Service Agent (CSA): Nothing to Belem
+Customer: um. what
+Valencia then
+Customer Service Agent (CSA): Nothing for Valencia either.
+

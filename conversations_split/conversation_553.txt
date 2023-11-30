@@ -1,0 +1,15 @@
+Customer: Want to travel with me and my wife and my young child from Birmingham to Curitiba. 15 days, $4000 to spend. You think you can make it happen?
+Customer Service Agent (CSA): How many children do you have?
+Customer: 1
+Customer Service Agent (CSA): I'm afraid we do not have any packages for 2 adults and 1 kid. Any other destinations you had in mind?
+Customer: How about Hamburg??
+Customer Service Agent (CSA): In Hamburg I can offer you an 11 day holiday at Hotel Peter. It is close to a museum and is in the heart of the city.
+Customer: Is this a well-reviewed hotel?
+Customer Service Agent (CSA): It is a 3 star hotel with guest reviews of 0/10.
+Customer: Yikes. Are there no other options as far as hotels?
+Customer Service Agent (CSA): That is the only package that would accomodate your family.
+Customer: I guess we’ll have to make do then. Does it have ok amenities?
+Customer Service Agent (CSA): Yes! It offers free breakfast, parking and wifi to all its guests
+Customer: Ok sold! please enter a booking for us
+Customer Service Agent (CSA): Sure thing! Thank you for using our service.
+

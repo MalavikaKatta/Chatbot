@@ -1,0 +1,22 @@
+Customer: Hi im looking to go to monterrey
+Customer Service Agent (CSA): Where will you be leaving from?
+Customer: i leave from cancun
+Customer Service Agent (CSA): Do you have a budget?
+Customer: $2,500
+Customer Service Agent (CSA): How many people are going with you?
+Customer: just myself
+Customer Service Agent (CSA): When would you like to leave?
+Customer: Need to be there on the 4th
+Customer Service Agent (CSA): Would you like economy class or business class seats?
+Customer: depends what fits my budget
+Customer Service Agent (CSA): Both fit your budget.
+Customer: Business then
+Customer Service Agent (CSA): This package includes a 4 star hotel, museum, beach, theatre, free breakfast, wifi, and parking. The trip is from the 12th to 21st and the cost is 703.21.
+Customer: Thats a little early do you have anything in Long Baech?
+Customer Service Agent (CSA): Unfortunately there are no results for Long Beach in my database.
+Customer: anything to tampa?
+Customer Service Agent (CSA): No, sorry.
+Customer: monterrey it is
+Customer Service Agent (CSA): Great! I will book this package for you right away!
+Customer: thank you!
+

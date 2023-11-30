@@ -1,0 +1,27 @@
+Customer: Hi I'd like to take a trip.
+Customer Service Agent (CSA): Sure! Where do you want to go?
+Customer: I'd like to go to both Guadalajara and Rio de Janeiro.
+Customer Service Agent (CSA): Would you like to fly from Guadalajara to Rio de Janeiro?
+Customer: No, I'm leaving from Mexico City, but I want to go to both places if that's possible.
+Customer Service Agent (CSA): Would you like to go from Mexico City to Rio de Janeiro?
+Customer: Sure. But can I go to Guadalajara from Rio de Janeiro after that?
+Customer Service Agent (CSA): I don’t understand.
+Customer: I mean, I want to go two cities.
+Customer Service Agent (CSA): I do not have flights to the destination “two cities”.
+Customer: There are two cities that I just have to visit!
+Customer Service Agent (CSA): Where would you like to go&gt;
+Customer: I'd like to go to both Rio de Janeiro and Guadalajara. But from Mexico City.
+Customer Service Agent (CSA): Mexico City to Rio de Janeiror?
+Customer: yeah. But can you book me two trips in this one session?
+Customer Service Agent (CSA): I can book you from Mexico City to Rio de Janeiro for 13 days starting September 10th for 2335.73USD.
+Customer: I don't need to go there for that long. Can you give me a shorter package deal?
+Customer Service Agent (CSA): How about 7 days for 1607.99USD? You would leave on September 8th.
+Customer: That sounds pretty good.
+Customer Service Agent (CSA): Ok! Would you like some more information?
+Customer: Yes please.
+Customer Service Agent (CSA): La Perfección is a 3 star hotel near a park, museum, and university. It has a 8.22/10 user rating and free parking, breakfast, as well as free wifi.
+Customer: Okay then, I'll definitely take it. It sounds good.
+Customer Service Agent (CSA): Ok! Consider it booked.
+Customer: Thanks! You should consider creating packages involving more than one city in the future.
+Customer Service Agent (CSA): Not my problem. Goodbye.
+

@@ -1,0 +1,15 @@
+Customer: I want to go to Denver from Rosario
+Customer Service Agent (CSA): Not a problem. How many of you will there be and how long would you like to go for?
+Customer: 2 adults and 2 kids and im not picky on how long we stay
+Customer Service Agent (CSA): Sounds great. Do you have a budget in mind?
+Customer: 12400
+Customer Service Agent (CSA): I have an excellent 18 day package for you at a 4 star hotel. It comes to a total of 10737.13 for economy class. Would you be interested?
+Customer: What other packages are there?
+Customer Service Agent (CSA): Everything else comes with a 3 star hotel and you can choose among 12, 13, and 14 day packages.
+Customer: Can you give me some info on the hotel?
+Customer Service Agent (CSA): For the 4 star hotel 18 day package, it has a guest rating of 8.69/10 and includes free wifi. For the other packages, the best one which I would recommend is the 3 star Brass Renaissance Resort that has a 8.86/10 rating  and includes free breakfast and wifi, and lasts for 14 days. Which one would you be interested in?
+Customer: I think the 3 star sounds better. How much are business flights?
+Customer Service Agent (CSA): It comes to a total of 12367.12 for business. Would you like to book this trip?
+Customer: yeah please
+Customer Service Agent (CSA): It's been booked!
+

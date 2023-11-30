@@ -1,0 +1,19 @@
+Customer: Hey there I'm looking to go San Juan soon!
+Customer Service Agent (CSA): Sure, from where?
+Customer: Belem. I need to go sometime between Saturday September 10 and Sunday September 25.
+Customer Service Agent (CSA): I have 13 days at the Brass Tower Inn for 3284.31USD.
+Customer: What are the dates for that? And where is the Brass Tower Inn located?
+Customer Service Agent (CSA): The Brass Tower Inn is located in San Juan, near a market. The trip stretches from the 16th to the 27th of September
+Customer: No, no. That won't do. I need to get back by the 25th of September at the latest.
+Customer Service Agent (CSA): I have 12 days at the Fairyland for just over $2870.
+Customer: That sounds pretty decent. What are the dates for that and what's nearby?
+Customer Service Agent (CSA): September 14th-24th. It is near a museum, shopping, and a market.
+Customer: How many stars does the hotel have and what else is included in the package?
+Customer Service Agent (CSA): Flights and hotel are included in the package. The hotel is 4 stars and has free wifi.
+Customer: Is there free breakfast?
+Customer Service Agent (CSA): No.
+Customer: That's okay. It sounds good, I'll take it!
+Customer Service Agent (CSA): Ok, great. I’ll go ahead and book for you.
+Customer: Thank you.
+Customer Service Agent (CSA): Yes, no problem.
+

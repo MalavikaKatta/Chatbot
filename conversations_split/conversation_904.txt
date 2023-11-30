@@ -1,0 +1,22 @@
+Customer: Hi there. I’d like for you to take me anywhere really
+Do you do flights out of Milan?
+Customer Service Agent (CSA): Of course, give me your desired travel dates, # people, and budget and I will help you find your destination :slightly_smiling_face:
+Customer: Cool. Dates are Sept 6 to 15
+Customer Service Agent (CSA): Do you have a budget in mind? And are you traveling alone or in a group?
+Customer: No budget, and I’m traveling alone!
+Customer Service Agent (CSA): I have quite a few options for you! Do you only want to hear about hotels at least 4 stars?
+Customer: You know exactly what I want! Also please book a trip for 5 days minimum
+Customer Service Agent (CSA): :wink: Will do! Our best packages are these: 9 days at a 4 star hotel in Santo Domingo, 8 days at a 4 star hotel in Paris, 8 days at a 5 star hotel in Berlin, and 8 days at a 8.86 star hotel in Hamburg.
+Customer: Ok great. Is the Santo Domingo hotel near the beach?
+Customer Service Agent (CSA): You bet! It's next to the beach and shopping!
+Customer: How about Paris. But is it near a museum?
+Customer Service Agent (CSA): Yup! Not just a museum! Also a cathedral and shopping!
+Customer: Does that cost more or less than the Santo Domingo trip?
+Customer Service Agent (CSA): It's about half of the Santo Domingo trip's price.
+Customer: Whats the exact cost?
+Customer Service Agent (CSA): For Paris it's 938.44 for economy, 1132.43 for business. For Santo Domingo it's 1930.48 for economy, 2474.61 for business.
+Customer: Ok book me for Paris, economy!
+Customer Service Agent (CSA): You are all set!
+Customer: Thanks!
+Customer Service Agent (CSA): It's my absolute pleasure!
+

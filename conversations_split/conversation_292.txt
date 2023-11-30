@@ -1,0 +1,7 @@
+Customer: beijing to pittsburgh, under 1700
+Customer Service Agent (CSA): Would you like to travel from Minneapolis to Pittsburgh?
+Customer: beijing to pittsburgh
+Customer Service Agent (CSA): Sorry I have no trips from Beijing to Pittsburgh.
+Customer: beijing to san jose, under 1700
+Customer Service Agent (CSA): I have no trips available.
+

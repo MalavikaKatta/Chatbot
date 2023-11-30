@@ -1,0 +1,18 @@
+Customer: Hello, book me a trip from San Antonio to Phoenix leaving September 9th and returning September 11th please.
+Customer Service Agent (CSA): What is your budget?
+Customer: No budget. Book me business class and the best hotel you can find. Oh and this is for two adults.
+Customer Service Agent (CSA): Wow! Unfortunately there are no packages available for this request
+Customer: Try coming back on September 11th instead
+Customer Service Agent (CSA): No, sorry, there are no results for this either.
+Customer: Hmm. Try La Paz instead of Phoenix
+Same dates, still leaving from Rio de Janeiro
+Customer Service Agent (CSA): There are two results from Rio de Janeiro to La Paz.
+Customer: Do share
+Customer Service Agent (CSA): The options are at the same hotel. The hotel is 4 stars and offers free wifi, breakfast, and parking. One package is from August 25th to 31st and the other package is from August 30th to September 1st.
+Customer: Are there results for Rio de Janeiro to Phoenix?
+Customer Service Agent (CSA): There is one for this request from September 2nd to September 9th.
+Customer: Is it a five star hotel?
+Customer Service Agent (CSA): No, it is a 2.5 star hotel.
+Customer: Okay book us for Rio de Janeiro to La Paz, business class, August 25th to 31st please
+Customer Service Agent (CSA): Great! The price for this package is 4569.98.
+

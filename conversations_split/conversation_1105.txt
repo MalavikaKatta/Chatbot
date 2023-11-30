@@ -1,0 +1,20 @@
+Customer: I wanna go to San Juan
+Customer Service Agent (CSA): I want to take you there! Where are you coming from?
+Customer: Belo Horizonte
+Customer Service Agent (CSA): When do you want to go?
+Customer: between sept. 17 and oct. 7
+Customer Service Agent (CSA): Did you have a budget in mind?
+Customer: no
+Customer Service Agent (CSA): Okay, I can put you in a 4.0 star hotel near the museum, shopping, and market for 7 days. How does that sound?
+Customer: good good. Got anything to San Francisco?
+Customer Service Agent (CSA): We've just got a 2.0 star hotel in the heart of the city near a museum. I have trips there for 10 or 16 days.
+Customer: no thank you. anything to Burlington?
+Customer Service Agent (CSA): In Burlington we've got a 3.0 star hotel near the park and we have an 11 day package there.
+Customer: Nope. Anything to Leon?
+Customer Service Agent (CSA): Sure! We've got a 5.0 star hotel next to the market actually, and we offer 9 day trips there.
+Customer: I want it! When is it?
+Customer Service Agent (CSA): It's Sep 24 to Oct 3.
+Customer: Thatll work. Book it for me
+Customer Service Agent (CSA): Consider it done! An email confirmation with all the details is coming your way shortly. Have a good trip!
+Customer: thank ya
+

@@ -1,0 +1,13 @@
+Customer: I have 4800 dollars
+Customer Service Agent (CSA): Where would you like to go?
+Customer: i dont care i just need to leave from milan
+Customer Service Agent (CSA): I can offer you 19 days in Porto for 3272.95USD
+Customer: can you give me a list of possible destinations?
+Customer Service Agent (CSA): Would you rather spend 17 days in Montreal?
+Customer: Are there any other places?
+Customer Service Agent (CSA): I only see one hotel in Montreal. Would you like me to look for more?
+Customer: are porto and montreal the only places i can go?
+Customer Service Agent (CSA): Where would you like to go?
+Customer: anwhere im just wondering if there are only the 2 destinations
+Customer Service Agent (CSA): I can offer you 19 days in Porto for 3272.95USD.
+

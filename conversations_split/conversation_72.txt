@@ -1,0 +1,7 @@
+Customer: hi im from Coruscant looking to go to atlantis
+Customer Service Agent (CSA): Hey there! I'm unable to come up with anything for those locations, how about a trip from Cleveland to San Juan?
+Customer: i can leave from Kakariko Village does that work?
+Customer Service Agent (CSA): Kakariko Village eh? I'm having trouble finding that location. 
+Customer: im gonna go now, thanks anyway
+Customer Service Agent (CSA): Thank you for using this service.
+

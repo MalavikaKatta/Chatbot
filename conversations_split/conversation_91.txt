@@ -1,0 +1,15 @@
+Customer: Hi im taking the family on a trip to Manaus is that possible with a budget of $3900
+Customer Service Agent (CSA): Hey there! Where would you like to leave from?
+Customer: i would like to leave from salvador
+Customer Service Agent (CSA): Ok! How many people are in your family?
+Customer: 3 kids seven adults
+Customer Service Agent (CSA): Could you travel from August 19 to the 27th?
+Customer: ya sure the dates are flexible
+Customer Service Agent (CSA): Ok! I have packages from August 19th to August 24th or from August 27th to September 1st.
+Customer: the one on the 27th looks good! what the price look like?
+Customer Service Agent (CSA): Great! The price for that is 3263.60USD
+Customer: perfect let’s book it!
+Customer Service Agent (CSA): Sure thing :smile: I will book that for you right away!
+Customer: thank you!
+Customer Service Agent (CSA): My pleasure
+

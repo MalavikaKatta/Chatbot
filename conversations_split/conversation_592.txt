@@ -1,0 +1,30 @@
+Customer: Hello
+Customer Service Agent (CSA): Hello, we hope to be of assistance today
+Customer: I’m looking to check out san fran and I currently live in Rome I have a couple weeks from Sept 5-22 off to check out Sanf
+but only 2800 USD to spend
+Customer Service Agent (CSA): San Francisco is not one of the destinations we service from Rome.
+Customer: I’m sorry, had a little brain blip .. I live in Vitoria
+Customer Service Agent (CSA): I have packages available from Vitoria to San Francisco :grinning: 8 and 14 days. Which would you like information on?
+Customer: Awesome!! Are either of them under 2800?
+Customer Service Agent (CSA): Both and you can even fly business class if you desire.
+Customer: What are the hotel details?
+Customer Service Agent (CSA): All the options are at the same hotel - Glorious Spring Hotel, a category 2 hotel close to the park and museum. The 8 day package departs on Sept 8 and the 14 day package departs on Sept 9th.
+Customer: Is there anything from Vitoria to Cancun?
+Customer Service Agent (CSA): I only have an 8 day option there, the White Peak Hotel which is a category 3.5 at 2581.19USD.
+Customer: And is it located in the heart of the city with good amenities?
+Customer Service Agent (CSA): It is by the cathedral and includes free wifi, parking and breakfast.
+Customer: My final option is Guadalajara
+Customer Service Agent (CSA): I have a hotel located with 10 and 14 day packages available
+Customer: ok, and what’re the amenities there like?
+Customer Service Agent (CSA): Excursion is a category 3 including free wifi, parking and breakfast. A 10 day package is 2446.82USD.
+Customer: Hmm ok. And you said I could fly business class to San Francisco..
+How much would that be:
+Customer Service Agent (CSA): It will be 2612.62USD.
+Customer: Ok, but thats a 2 star. I think I will go to Cancun instead please
+Customer Service Agent (CSA): In Cancun I have White Peak Hotel - 8 days, category 3.5 star for a total of 2581.19USD via economy class.
+Customer: how much for business?
+Customer Service Agent (CSA): Only available on economy class.
+Customer: Well that is ok. Book Cancun please!
+Customer Service Agent (CSA): I am confirming booking of the the White Peak Hotel, category 3.5 at 2581.19USD from Sept 8 to Sept 15. Thank you and have a safe trip.
+Customer: Yes thank you :smile:
+

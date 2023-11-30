@@ -1,0 +1,19 @@
+Customer: Hellllo ! I am taking a trip with my neighbour and her children
+Customer Service Agent (CSA): Hello! How can I help you?
+Customer: We are going to see if we can find a cheap packages somewhere under 12400 dollars. There will be 3 adults and 7 children travelling and for now we just want to see what is available out of Montreal
+Between September 6 and 24
+Customer Service Agent (CSA): Our cheapest package is a trip to Punta Cana from September 7th to 20th. This is a 2.5 star hotel near the beach. The hotel has a 0/10 guest rating. This economy flight costs 7090.70.
+Customer: Fabulous, that is all 10 of us? Not too pricey at all!
+Customer Service Agent (CSA): Yes that is everyone.
+Customer: And are there any other places beneath our budget?
+Customer Service Agent (CSA): There are packages to Kingston, Sendai, Sao Paulo, Minneapolis, and Kobe.
+Customer: Wow, sweet! What would the hotel be like in Minneapolis/
+Customer Service Agent (CSA): This is a 2.5 star hotel, near a university, free parking, breakfast, wifi, and has a 7.15/10 guest rating. The business flight is 12081.44 and is from September 8th to 23rd.
+Customer: That’s a nice 3.9 guest rating at least! How about Sao Paulo?
+Customer Service Agent (CSA): It's a 3 star hotel near a cathedral and theatre. The hotel has a 5.14/10 guest rating and offers free breakfast, wifi, and parking. This package is an economy package and is from September 7th to 20th. The price is 12052.95.
+Customer: Not bad not bad. And in Kobe?
+Customer Service Agent (CSA): This is a 3 star hotel, close to a market and palace, 0/10 guest rating, free wifi, September 6th to 21st, economy class seating, cost is 11168.17.
+Customer: Ok, well, lets go ahead and book Kobe
+Customer Service Agent (CSA): Great! Your flight to Kobe is booked! Have a great day!
+Customer: Thank you
+

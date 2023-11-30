@@ -1,0 +1,16 @@
+Customer: Hi I would like to book a vacation from August 27th to August 30th
+Customer Service Agent (CSA): Do you have a destination in mind?
+Customer: Barcelona.
+Customer Service Agent (CSA): And where will you be leaving from?
+Customer: London.
+Customer Service Agent (CSA): Shall I input a budget?
+Customer: No budget.
+Customer Service Agent (CSA): We have the perfect 7 day 3 star package for you starting at 2551.88USD. What do you think?
+Customer: Could you check a trip from London to Ulsan? I'd like to see all my options.
+Customer Service Agent (CSA): How about a 5 day trip to a 4 star hotel for 3284.58USD?
+Customer: My dates aren't flexible and i can only go from the 27th to the 30th. If there are no results, could you check a trip from London to Fukuoka?
+Customer Service Agent (CSA): It's your lucky day! I have a 5 day 3 star package from August 27th to the 30th priced at 3410.60USD!
+Customer: Oh good! That's perfect! I'll take it!
+Customer Service Agent (CSA): Your reservation is complete. I hope you have a fantastic stay and that you refer us to all your friends.
+Customer: Thanks!
+

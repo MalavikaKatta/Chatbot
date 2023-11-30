@@ -1,0 +1,21 @@
+Customer: Hi there! I need to get out of town on Tuesday September 6!
+Customer Service Agent (CSA): Sure! What town?
+Customer: I'm based in Tokyo!
+Customer Service Agent (CSA): Ok! Any idea where you want to go?
+Customer: Hamburg please!
+Customer Service Agent (CSA): I have 14 days at the Glacier for 3182.55. How does that sound?
+Customer: Is that leaving on exactly on Tuesday September 6?
+Customer Service Agent (CSA): That would be leaving on September 13th
+Customer: Do you have anything that leaves sooner? I have to leave as soon as possible!
+Customer Service Agent (CSA): I have an 8 day package at the Glacier for 2190.28. It leaves September 8th.
+Customer: Do you have anything that leaves soon but also for longer?
+Customer Service Agent (CSA): Sorry, not for Hamburg.
+Customer: That's okay. What more can you tell me about the 8 day package at Glacier?
+Customer Service Agent (CSA): This hotel is 4.5 star with 9.16/10 in guest ratings. The hotel is near the airport and has free parking as well as free wifi for guests. The flight departs for Hamburg on September 8th and returns to Tokyo on September 14th.
+Customer: That sounds really good!
+Customer Service Agent (CSA): Should I proceed with booking?
+Customer: Yes sure!
+Customer Service Agent (CSA): Ok, I will just get your information and secure the package confirmation for you.
+Customer: Great, thanks!
+Customer Service Agent (CSA): No problem :slightly_smiling_face:
+

@@ -1,0 +1,24 @@
+Customer: Hey, I'm looking to find a vacation from Valencia to Osaka.
+Customer Service Agent (CSA): Hi! Where will you be departing from, and do you have a budget for this trip?
+Customer: I'll be departing from Valencia. I don't have a budget.
+Customer Service Agent (CSA): And will you be travelling solo?
+Customer: Yes.
+Customer Service Agent (CSA): Do you have a time frame for this vacation?
+Customer: Between August 26th and September 3rd if possible.
+Customer Service Agent (CSA): How about a 4 star, 6 day trip to Osaka for only 3354.90USD?
+Customer: When are the dates for this trip?
+Customer Service Agent (CSA): You would depart on August 26th at 8:00 am and return on August 30th at 2:03pm
+Customer: What benefits come with this trip?
+Customer Service Agent (CSA): Free wifi and free parking are all included at the Aquamarine Majesty Hotel.
+Customer: Is there anything cheaper?
+Customer Service Agent (CSA): Not within your time frame. Are your dates flexible?
+Customer: Anything from August 17th to the 30th?
+Customer Service Agent (CSA): Yes! We have the 6 day package at 2802.33 USD. Does this interest you?
+Customer: What about the hotel?
+Customer Service Agent (CSA): The Hotel Opportunity is 3 stars and has a 6.61/10 guest rating. Breakfast and wifi are included in the price.
+Customer: Breakfast is more important to me than the parking. What are the dates for this option?
+Customer Service Agent (CSA): Departure is on August 17th and returns on August 21st.
+Customer: Perfect! I think i will book this trip
+Customer Service Agent (CSA): Great! Booking is complete. Enjoy your vacation!
+Customer: Thank you!
+

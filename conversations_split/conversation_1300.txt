@@ -1,0 +1,9 @@
+Customer: Houston to Milan for 3
+Customer Service Agent (CSA): At this time, we do not have any travel packages from Houston to Milan
+Customer: Houston to San Juan
+Customer Service Agent (CSA): Do you have budget restrictions for this trip?
+Customer: HAHAHAHAHAHAHAHAH NO!
+Customer Service Agent (CSA): The best I have in San Juan then is a 15 day stay at the 4 STAR Fairyland close to the museum, shopping and market. This package includes wifi too. Do you want the price for business class flights?
+Customer: no Do you have anything with 5 stars in Manaus?
+Customer Service Agent (CSA): In Manaus, I have 3 star hotels only.
+

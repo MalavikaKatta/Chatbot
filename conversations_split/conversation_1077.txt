@@ -1,0 +1,15 @@
+Customer: i want to get some work done. there are a few puppers that need my magic touch
+can you get me 4 days or more in Sendai for 5000
+Customer Service Agent (CSA): Leaving from where?
+Customer: wherever
+Customer Service Agent (CSA): Are you travelling alone?
+Customer: i have an assistant
+Customer Service Agent (CSA): We have 17 days from September 7th to 22nd at a 4 star hotel, 8.8/10 guest rating, near a park and museum, and free wifi.
+Customer: 
+Can I leave from Alexandria and spend under 5000
+Customer Service Agent (CSA): Yes the trip from Alexandria is 4887.69.
+Customer: hmm what if I left from Milan?
+Customer Service Agent (CSA): 4476.52.
+Customer: ok. book it out of Milan please
+Customer Service Agent (CSA): Done! Have a great day and enjoy the trip!
+

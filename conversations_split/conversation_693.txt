@@ -1,0 +1,12 @@
+Customer: ok bud I'm sure you've never dealt with this kinda thing in ur line of work but I've got a bit of a bad rap here on the streets of Burlington so I've gotta lay low for a little while... I've got 1700 dollars to burn.  can ya get me to Long Beach by the first of next month
+Customer Service Agent (CSA): I can get you to your destination on your budget...but only on the 8th of September. Would you still be okay with this?
+Customer: what about San Juan to Long Beach. any sooner
+Customer Service Agent (CSA): I have another offer for the 8th of September
+Customer: well, what if I go to Baltimore? I can lay low there for a while...
+Customer Service Agent (CSA): We can get you from Burlington to Baltimore on the 2nd of September. Would you be interested in that?
+Customer: YES! PERFECT! how much?
+Customer Service Agent (CSA): For only 1059.70USD, for a 13 day stay.
+Customer: alrighty you got my business, pal book it stat'
+Customer Service Agent (CSA): Booked! Have a great trip!
+Customer: thanks bucko
+

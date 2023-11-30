@@ -1,0 +1,13 @@
+Customer: I'm good, thanks! I'm looking to book a trip for a group of children with me as their chaperone.
+Customer Service Agent (CSA): Sure! How many children total?
+Customer: 12!
+Customer Service Agent (CSA): That is a lot! Where are you headed from? And what's the total budget?
+Customer: I don't want to spend any more than 2000, and we'll be coming from Belo Horizonte.
+Customer Service Agent (CSA): Sorry, we don't have anything that works with the size of your party and budget. Would you be flexible with you budget by any chance?
+Customer: I'm only willing to increase by $200, would it be possible to find something with that?
+Customer Service Agent (CSA): Unfortunately it is still a no. Anything else I can help you search?
+Customer: Not even a nearby city for a couple of days?
+Customer Service Agent (CSA): Sadly no. Not with a budget of 2200.
+Customer: Okay then, thanks for your help anyway!
+Customer Service Agent (CSA): You're very welcome!
+

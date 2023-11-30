@@ -1,0 +1,14 @@
+Customer: Hi there, I'm looking to book a trip to Manaus. Do you think you can help me find the best deal?
+Customer Service Agent (CSA): Sure can! Where are you hailing from?
+Customer: My family and I will be coming from Leon.
+Customer Service Agent (CSA): And how big is the family?
+Customer: I'll just be going with my wife and son.
+Customer Service Agent (CSA): Do you have a budget range?
+Customer: Yeah actually, I do. I have absolutely no plans of spending beyond 2900.
+Customer Service Agent (CSA): Unfortunately that budget won't work. Do you have any other cities you would like to visit?
+Customer: Are you sure about this? Not even for just a few days?
+Customer Service Agent (CSA): Unfortunately not for Manaus. did you have any alternatives?
+Customer: No i'm afraid not!
+Customer Service Agent (CSA): I'm sorry I will not be able to help then. Good luck with your search!
+Customer: Thank you.
+

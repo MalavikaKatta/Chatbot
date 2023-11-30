@@ -1,0 +1,14 @@
+Customer: hi i need to get to mexico city
+Customer Service Agent (CSA): Hi! Where are you leaving from?
+Customer: PUNTA CANA come on come on
+Customer Service Agent (CSA): Budget?
+Customer: 1300
+Customer Service Agent (CSA): Travelling alone?
+Customer: yes
+Customer Service Agent (CSA): When would you like to leave and return?
+Customer: i want to be there on or after septemeber first
+Customer Service Agent (CSA): We have two 3 star hotels. Are you more interested in free breakfast and wifi, or free wifi and parking?
+Customer: i need free parking as ill be renting a car. But three stars is not going to attract my target demographic. If i throw another thousand dollars on my budget can you find me something better?
+Customer Service Agent (CSA): Unfortunately there are no other hotel ratings
+Customer: oh bullocks
+

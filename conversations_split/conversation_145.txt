@@ -1,0 +1,13 @@
+Customer: Hi, I live in Diagon Alley and we need to go to Las Vegas in August for a graffiti convention its gonna be so chill cant wait
+Customer Service Agent (CSA): Amazing it seems that Diagon Alley is not registered here. Can you depart from somewhere else? how many will you be? and do you have a budget?
+Customer: we're gonna be 4 we can also leave from Dublin  we gotta leave on August 17 or we will miss the convention :flushed:
+Customer Service Agent (CSA): I am sorry it seems there are no packages on that date
+Customer: how bout indianapolis i'll just go on my own then
+Customer Service Agent (CSA): the only departing dates i have are the 18th 19th and 25th do any of those work for you?
+Customer: is that to indianapolis I can leave on the 18th since I won't go to las vagas will I fly out of Dublin then
+Customer Service Agent (CSA): yes it is, when do you need to be back?
+Customer: there's no rush I'm an artist I can hang out there for a while but I do have a  allowance of $3600 what can you do for me please make sure I have a free breakfast
+Customer Service Agent (CSA): I have 2 hotels for you to stay both 13 days, with free wifi, breakfast and parking, at either Hotel Vanilla (3 stars) for $1250 leaving on August 19th or Hotel Liberty (2.5 stars) leaving on August 18th
+Customer: sounds awesome i'll take the Hotel Vanilla might as well go in style lol  thanks for the help man
+Customer Service Agent (CSA): my pleasure! ill go ahead and book that for you! enjoy your stay
+

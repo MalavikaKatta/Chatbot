@@ -1,0 +1,23 @@
+Customer: Hi there, I'd like to book a trip to Denver please
+Customer Service Agent (CSA): Sure thing! Where from and when?
+Customer: From Houston. Ideally on Monday September 12th, but my dates are flexible
+Customer Service Agent (CSA): How many are you booking for?
+Customer: one adult and 7 children
+Customer Service Agent (CSA): And do you have a budget in mind?
+Customer: Yes, I'd like to spend no more than 4500
+Customer Service Agent (CSA): Perfect, our best package that works for you is a 13 day stay at a 3.0 star hotel with 8.86/10 guest rating by a park. We also have two other 3 star hotels in Denver, one with 8.69/10 guest rating, and the other with 0/10 guest rating. Would you like to hear more about any of these options?
+Customer: Actually, I was thinking about a stay under ten days.
+Customer Service Agent (CSA): We don't offer any trips to Denver from Houston under 10 days. Would you want to try another destination?
+Customer: Sure, the other destination I was thinking of is Rio de Janeiro
+Customer Service Agent (CSA): We also do not offer any trips under 10 days to Rio de Janeiro. Can I help you search for trips in another city?
+Customer: Yes sure, do you have any trips for New York?
+Customer Service Agent (CSA): In New York we offer 6 day packages and 10 day packages. Do these interest you?
+Customer: Yes, I'm looking for a package that leaves either on or after Monday, September 12 and returns on Wednesday September 21 at the latest.
+Customer Service Agent (CSA): Great! I have a 6 day package that works perfectly for you! It is at a 2.5 star hotel from September 12-17. The accommodation is rated 8.22/10 by guests and is conveniently located close to the airport and a museum.
+Customer: Are those the only options you have?
+Customer Service Agent (CSA): You are correct.
+Customer: Okay great, how much would that cost?
+Customer Service Agent (CSA): 4195.31 for all of you!
+Customer: Great, I'll take it! Thanks for all your help!
+Customer Service Agent (CSA): My absolute pleasure! I will book this trip for you. Watch out for an email confirmation coming your way!
+

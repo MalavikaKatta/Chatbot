@@ -1,0 +1,9 @@
+Customer: Can you get me out of Tofino???
+Customer Service Agent (CSA): Where would you like to go?
+Customer: Kochi please
+Customer Service Agent (CSA): Do you have a budget?
+Customer: 3200 dawg, please hurry I want to leave today if I can
+Customer Service Agent (CSA): There are no results for this.
+Customer: What about Houston??
+Customer Service Agent (CSA): Nothing for this either.
+

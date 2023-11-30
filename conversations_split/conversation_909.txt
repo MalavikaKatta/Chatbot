@@ -1,0 +1,22 @@
+Customer: Hi there. I'm trying to take the family somewhere nice this month
+I've been working hard to save up all year, and have 23400 to spend
+Customer Service Agent (CSA): Okay! Where would you like to go?
+Customer: Do you have flights to San Jose?
+Customer Service Agent (CSA): Yes. How many people are you?
+Customer: Two adults, 4 children
+Customer Service Agent (CSA): Where are you flying out from?
+Customer: Flying out of Fukuoka please
+Customer Service Agent (CSA): When?
+Customer: Something between September 1 and 9 please
+Customer Service Agent (CSA): We have a result for a 4 star hotel by the beach and also close to a museum. The hotel has a 8.8/10 guest rating and offers free parking, breakfast, and wifi. This package is from September 2nd to 7th and costs 9355.99 for business class and 7392.37 for economy.
+Customer: Wow I'm impressed Lets keep that on hold
+My wife wanted me to check some other cities out too
+Can you take me to Hamburg?
+Customer Service Agent (CSA): We have a 4 star hotel in the heart of the city, 8.98/10 guest rating, free breakfast and wifi, from September 1st to 8th, 12012.20 for economy and 15441.35 for business.
+Customer: How are your packages to Phoenix?
+Customer Service Agent (CSA): This is a 2.5 star hotel near the airport and a museum, 7.06/10 guest rating, free breakfast, parking, and wifi, from September 2nd to 6th, 20145.70 for business, 15508.67 for economy.
+Customer: Ok thats definitely not quite as appealing. Can you put us down for San Jose?
+Customer Service Agent (CSA): Sure! No problem! Have a great family vacation!
+Customer: Thanks! Is it confirmed yet?
+Customer Service Agent (CSA): No problem!
+

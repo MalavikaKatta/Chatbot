@@ -1,0 +1,14 @@
+Customer: I want to send my parents away
+Customer Service Agent (CSA): Where would you like to book them to go? And where will they be leaving?
+Customer: from Milan and i dont care where they go just get them gone
+Customer Service Agent (CSA): Is there a budget?
+Customer: 3500
+Customer Service Agent (CSA): And the dates of travel?
+Customer: between sept 8th and 25th
+Customer Service Agent (CSA): I can send them to Naples for 14 days at a cost of only 837.41 dollar!
+Customer: wow cheap! tell me more about the package
+Customer Service Agent (CSA): It would be from Sept 8 until 21st, the hotel is 3 stars with a 8.8 user rating, and the hotel is near a museum in the heart of the city.
+Customer: i like it. book away
+Customer Service Agent (CSA): Ok, I will go ahead and book it :slightly_smiling_face:
+Customer: thanks! youre a life saver
+

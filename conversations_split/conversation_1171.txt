@@ -1,0 +1,19 @@
+Customer: hi
+Customer Service Agent (CSA): Hey! What can I do for you?
+Customer: i want to bring my kids to vitoria to see their mother. so 4 kids and one adult ticket please
+Customer Service Agent (CSA): Where will you need to fly out from?
+Customer: toronto
+Customer Service Agent (CSA): Do you have a budget?
+Customer: no set amount, but i would like a reasonable price
+Customer Service Agent (CSA): When would you like to leave?
+Customer: we are flexible
+Customer Service Agent (CSA): The only result we have is a 6 day package from September 24th to 28th at a 3 star hotel in the heart of the city.
+Customer: this is the only package at all from toronto to vitoria?
+Customer Service Agent (CSA): Yes but it offers free breakfast, wifi, and parking, and they have business and economy flights available.
+Customer: how much will it be for economy?
+Customer Service Agent (CSA): 4485.14. Would you like to book it?
+Customer: sure
+Customer Service Agent (CSA): Your wish is my command. You will get email confirmation shortly, have a great day and enjoy the trip!
+Customer: :+1: great
+thanks
+

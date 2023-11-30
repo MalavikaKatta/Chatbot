@@ -1,0 +1,12 @@
+Customer: hey yea so i need to get 5 adults and 1 child out of osaka between september 24 to the 27th or 28th
+Customer Service Agent (CSA): Do you know where you'd like to go?
+Customer: nope. just keep it under 2700 dollars
+Customer Service Agent (CSA): We have one availability to Kyoto from the 25th to 28th at a 3 star hotel.
+Customer: sounds appropriate. what amenities?
+Customer Service Agent (CSA): Free breakfast and wifi, it is also located near a museum.
+Customer: and that’s the only thing within our budget? what if I increased the budget to 2900?
+Customer Service Agent (CSA): This is still the only result
+Customer: ok fine’book that then i suppose
+Customer Service Agent (CSA): Done! Have a great day!
+Customer: thanks a bunch!
+

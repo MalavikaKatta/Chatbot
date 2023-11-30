@@ -1,0 +1,25 @@
+Customer: Hi
+Customer Service Agent (CSA): Hello! How can I help you today?
+Customer: I just need to dream a bit... I have 4500 dollars but no vacation days. I'm wondering what a hypothetical trip to Manaus would be like
+Customer Service Agent (CSA): I can help with that, where are you departing from?
+Customer: I'm in Tijuana, not departing any time soon unfortunately though
+Customer Service Agent (CSA): Not a problem - how many would you be traveling with?
+Customer: Just me
+Customer Service Agent (CSA): I'm sorry, but we unfortunately do not have any results for these flights? Would you like to try a different destination?
+Customer: That's fine, what about Curitiba/
+Customer Service Agent (CSA): That I do have! Would you be satisfied with a 3.5 star hotel?
+Customer: As of now I'm be satisfied with a tent and a backpack. What are the hotel details?
+Customer Service Agent (CSA): The hotel is situated near a park, and comes with free parking, wifi, and breakfast! Does this sound good to you?
+Customer: Sounds quite nice, what about the guest rating?
+Customer Service Agent (CSA): The guest rating is impressive: 8.86/10.
+Customer: Impressive indeed
+Sounds like a great package. What about in Kyoto? I would like to hear about the options there as well
+Customer Service Agent (CSA): Definitely! In Kyoto, I can get you a 9 day stay in a hotel near the heart of the city, and a museum. How does that sound?
+Customer: That sounds like a stimulating trip. Could you remind me how long the stay in Curitiba would be?
+Customer Service Agent (CSA): It would be entirely up to you! Choices are 8, 13, and 14 days.
+Customer: What is the rating of the Kyoto hotel?
+Customer Service Agent (CSA): That would be 3 stars,
+Customer: And the guest rating?
+Customer Service Agent (CSA): A respectable 6.61/10
+Customer: Neato! Well if I had the time off available I would definitely book Curitiba
+

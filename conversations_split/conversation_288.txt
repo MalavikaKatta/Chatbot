@@ -1,0 +1,13 @@
+Customer: Please check if there is a flight to Naples from Fort Lauderdale leaving August 31
+Customer Service Agent (CSA): Would August 30th be ok? It is the closest available date I have available right now.
+Customer: No to August 30th but what about August 27?
+Customer Service Agent (CSA): Would August 24th be ok? It is the closest available data I have available right now.
+Customer: No that won't work for me. Can you please check Fort Lauderdale to Punta Cana leaving on August 31
+Customer Service Agent (CSA): I can book you 5 days in Naples if you leave from Fort Lauderdale on August 31st.
+Customer: Oh good, how much would that cost
+Customer Service Agent (CSA): 2449.21USD at a 3.0 star hotel.
+Customer: Do you have a five star hotel available?
+Customer Service Agent (CSA): I have a 4 star available for 3158.9USD
+Customer: Done. Book it.
+Customer Service Agent (CSA): IT is booked!
+

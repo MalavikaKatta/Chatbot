@@ -1,0 +1,26 @@
+Customer: I gotta get outta Phoenix
+Customer Service Agent (CSA): Okay, where would you like to go?
+Customer: I heard Brasilia has some nice casinos
+Customer Service Agent (CSA): How many people will be travelling from Brasilia to Phoenix?
+Customer: No! You misunderstood me! from Phoenix TO Brasilia. 
+Customer Service Agent (CSA): I apologize. From Phoenix to Brasilia. Number of people?
+Customer: just me, gotta keep under the radar for a bit till the loan sharks get off my back
+Customer Service Agent (CSA): Do you have a budget for this trip?
+Customer: 3100
+Customer Service Agent (CSA): The Sublime Tower in Brasilia has 7 and 10 day packages available. When would you like to leave?
+Customer: September 14th
+Customer Service Agent (CSA): I have no Sept 14 departures available to Brasilia. For the Sublime Tower I have Sept 8 and Sept 10th departures and I have 7 day packages available at the Atlantic Gem  with a Sept 26 departure.
+Customer: What if I leave from Campinas instead?
+Customer Service Agent (CSA): From Campinas, the earliest departure after the 14th is also on Sept 26th
+Customer: Is there anything to Curitiba?
+Customer Service Agent (CSA): From Phoenix or Campinas?
+Customer: Phoenix
+Customer Service Agent (CSA): I have a departure from Phoenix to Curitiba exactly on the 14th of September for a 14 day package at the 3 star Dual Basin Residence located on the beach near the shopping, market and mall. This package included free parking, wifi and breakfast.
+Customer: Sign me up! How much?
+Customer Service Agent (CSA): Would you prefer to fly via economy or business class?
+Customer: business if i can afford it. How much would it be for business?
+Customer Service Agent (CSA): A business class flight is still well below  your budget of 3100USD at  2011.70USD
+Customer: Wow! Yeah, put me down for 1
+Customer Service Agent (CSA): Perfect, I will proceed with the booking at the Dual Basin Residence from September 14th to September 27th via business class for 1 week. Thank you for your booking and safe travel.
+Customer: Thanks, you basically saved my life.
+

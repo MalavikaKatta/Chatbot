@@ -1,0 +1,10 @@
+Customer: Hi! Can you get me a trip from FOrtaleza to Puebla?
+Customer Service Agent (CSA): Do you have a budget?
+Customer: 2600 for 1 adult
+Customer Service Agent (CSA): When would you like to travel?
+Customer: Sept 2 to 11 please!!!
+Customer Service Agent (CSA): There is nothing to Puebla from FOrtaleza
+Customer: What!!! What if Increased budget to 2900
+Customer Service Agent (CSA): There are still no results. Is there a different destination you'd like to try?
+Customer: Thats all i had my heart set on!!
+

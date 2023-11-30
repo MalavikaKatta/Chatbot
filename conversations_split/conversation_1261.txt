@@ -1,0 +1,14 @@
+Customer: I have 4 kids i want to take on a trip to see their mom in Santa Cruz
+Customer Service Agent (CSA): Where would you leave from?
+Customer: Belo Horizonte
+Customer Service Agent (CSA): I have no travel packages available out of Belo Horizonte to Santa Cruz.
+Customer: Anything to Punta Cana?
+Customer Service Agent (CSA): Yes. Just to confirm, this will be for 1 adult and 4 children, correct?
+Customer: ya
+Customer Service Agent (CSA): Do you have any dates in mind and a possible length of stay?
+Customer: no whenever
+Customer Service Agent (CSA): I only have one option for you in Punta Cana that can accommodate you and that would be a 17 day stay at the Scarlet Peaks Hotel, a 3 star property  near the cathedral that includes your breakfast and wifi. Total price: 6346.47USD based on economy flights
+Customer: Okay that’s fine. We’ll take it.
+Customer Service Agent (CSA): I have made the reservation, have a pleasant trip.
+Customer: thanks!
+

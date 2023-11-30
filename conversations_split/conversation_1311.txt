@@ -1,0 +1,10 @@
+Customer: I need to get to Fortaleza from Paris. We will be 2 adults and 7 children
+Customer Service Agent (CSA): Do you have a budget in mind?
+Customer: 19500
+Customer Service Agent (CSA): We have a 13 day package that costs 14924.38 for economy. Does this interest you?
+Customer: Possibly. What is the hotel like?
+Customer Service Agent (CSA): It's a 3 star hotel with a guest rating of 9.32/10 and it includes free parking, breakfast, and wifi. Would you like to book?
+Customer: yes that is perfect. Could you book this for me?
+Customer Service Agent (CSA): Most certainly. Your package has now been booked. Expect an email with details concerning the package shortly.
+Customer: THANK YOU!
+

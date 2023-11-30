@@ -1,0 +1,12 @@
+Customer: from Punta Cana. To indianapolis
+Customer Service Agent (CSA): How many people will be traveling?
+Customer: just me
+Customer Service Agent (CSA): Do you have set dates or budgets?
+Customer: 2900 and no set dates
+Customer Service Agent (CSA): Okay, we have a 3.0 star hotel with 7.15/10 rating and a 2.5 star hotel with 6.37/10 rating. Would you like to hear more about these two options?
+Customer: yeah just tell me about the 3 star
+Customer Service Agent (CSA): It is has great location! Close to the park, beach, airport, and university. It also offers free parking, free breakfast, and free wifi. We offer business or economy packages for 5 days.
+Customer: Sounds good. Book it for me pls. If the business package fits my budget book that one
+Customer Service Agent (CSA): Done! The business package is booked for you for 2437.55!
+Customer: thanks
+

@@ -1,0 +1,40 @@
+Customer: Hey there. I've got 6 days of free time and I want to make the most of it.
+Customer Service Agent (CSA): Ok! Do you want to book a vacation?
+Customer: Yes please. I'll be leaving from Ciudad Juarez.
+Customer Service Agent (CSA): And going where?
+Customer: I was hoping you could help me with that.
+Customer Service Agent (CSA): Do you have a budget?
+Customer: Yeah, 5400 is my budget.
+Customer Service Agent (CSA): What dates are you able to travel?
+Customer: anytime in the near future is good
+Customer Service Agent (CSA): And you will be travelling alone?
+Customer: Yeah. I feel like being alone right now.
+Customer Service Agent (CSA): How about 6 days in Kingston at a 4 star hotel?
+Customer: Kingston...Canada?
+Customer Service Agent (CSA): yes
+Customer: Oh. How much would that cost?
+Customer Service Agent (CSA): 2146.59USD
+Customer: That's not bad. But do you have any other destinations?
+Customer Service Agent (CSA): Of course! I have Denver and Punta Cana as well.
+Customer: What's the Denver package like?
+Customer Service Agent (CSA): There are 3 packages available in Denver.
+Customer: Are they all 6 days?
+Customer Service Agent (CSA): Yes
+Customer: What's the best one?
+Customer Service Agent (CSA): What do you want from your hotel?
+Customer: In the heart of the city?
+Customer Service Agent (CSA): I have no hotels in Denver in the heart of the city. I have one hotel near a park and another near a museum and a university.
+Customer: museum and university sounds good. how much would that cost?
+Customer Service Agent (CSA): 1085.38USD for economy class flights and a 6 day stay.
+Customer: how many stars does this hotel have?
+Customer Service Agent (CSA): 3
+Customer: Not bad. What can you offer for Punta Cana?
+Customer Service Agent (CSA): I have an unrated hotel in Punta Cana for just under 1250 dollars
+Customer: No stars or guest ratings whatsoever?
+Customer Service Agent (CSA): The hotel is unrated
+Customer: That sounds sketchy.
+Customer Service Agent (CSA): It is near a palace.
+Customer: Please book that 6 day trip in Denver for me near the university.
+Customer Service Agent (CSA): Ok, done. Enjoy your stay.
+Customer: Thanks!
+

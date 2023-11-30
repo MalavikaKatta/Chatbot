@@ -1,0 +1,23 @@
+Customer: Hey! So me and my girlfriends are in the search for a perfect spring break trip!
+Customer Service Agent (CSA): Okay! How many people altogether?
+Customer: There'll be the 4 of us!
+Customer Service Agent (CSA): Where are you leaving from?
+Customer: We're all studying in Frankfurt.
+Customer Service Agent (CSA): Where would you like to go?
+Customer: Campinas is one of our top choices. It'll be AWESOME to go there!
+Customer Service Agent (CSA): Do you have a budget?
+Customer: We're willing to spend 8300 for our dream spring break :slightly_smiling_face:
+Customer Service Agent (CSA): When would you like to travel?
+Customer: Our spring break is from Aug 30 to Sep 14.
+Customer Service Agent (CSA): There are no results within your budget.
+Customer: Darn it. I guess we can also go to Essen if that works better.
+Customer Service Agent (CSA): There is a 3 star hotel near a palace, 6.61/10 guest rating, free breakfast and wifi, from August 30th to September 5th, business cost is 2333.61, economy cost is 2075.23. There is also a 2 star hotel, 4.93/10 guest rating, free parking and wifi, from August 31st to September 7th, business cost is 1260.72, economy cost is 1108.72.
+Customer: Are those the only two options?
+Customer Service Agent (CSA): Yes.
+Customer: Okay.. can you tell me a little bit more about these two options? How are their locations?
+Customer Service Agent (CSA): I don't have any more information on these hotels aside from what I already gave.
+Customer: Alrighty then, the 3 star hotel sounds good to us! We'll take the business package since it's within our budget
+Can you process the booking?
+Customer Service Agent (CSA): Great! This package is booked for your spring break getaway! Have a great day!
+Customer: Yay!
+

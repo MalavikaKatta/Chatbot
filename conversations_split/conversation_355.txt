@@ -1,0 +1,21 @@
+Customer: I dream of a better life and I want to go to Sendai
+Customer Service Agent (CSA): Where are you leaving from?
+Customer: belo horizonte
+Customer Service Agent (CSA): Do you have a budget?
+Customer: $1,200
+Customer Service Agent (CSA): Are you going to be travelling alone?
+Customer: ya unfortunately...
+Customer Service Agent (CSA): When would you like to leave for your travels/
+Customer: as soon as possible.
+Customer Service Agent (CSA): There are no results within your budget.
+Customer: belem?
+Customer Service Agent (CSA): Our best packages for Belem are at a 4 star hotel on the beach near the airport. The economy seats cost 791.57 and the business seats cost 871.30.
+Customer: ok what about calgary
+Customer Service Agent (CSA): There is nothing within your budget for flights to Calgary.
+Customer: ok i will take the belem flights
+Customer Service Agent (CSA): Would you like the business class seats or the economy seats?
+Customer: business class
+Customer Service Agent (CSA): Great! It is done! This trip is from August 27th to September 2nd! Have a good vacation
+Customer: awwwwsome can i also inquire for goiania
+Customer Service Agent (CSA): Goiania has a 3.5 star hotel from August 27th to September 8th. The price for economy class is 914.20 and the price for the business class is 1091.50.
+

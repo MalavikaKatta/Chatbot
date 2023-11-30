@@ -1,0 +1,24 @@
+Customer: I am leaving from Beijing and want to go to Curitiba
+Customer Service Agent (CSA): Unfortunately we do not offer any flights out of Beijing as of right now.
+Customer: oh okay. I can leave from Madrid then
+Customer Service Agent (CSA): That works! When do you want to travel?
+Customer: on or after septembr 11
+Customer Service Agent (CSA): Do you have a specific budget I should work with?
+Customer: 3600 for 2 adults
+Customer Service Agent (CSA): How about a 15 day stay at a 3 star beachside hotel?
+Customer: not bad at all. Is that the only option?
+Customer Service Agent (CSA): Nope, we also have another 3 star hotel near the museum and market. Here we offer 16 day or 10 day trips.
+Customer: Yas, what else can you tell me about the hotel?
+Customer Service Agent (CSA): It has 6.61/10 guest ratings, free parking, free breakfast, and free wifi.
+Customer: What about the other hotel?
+Customer Service Agent (CSA): The other one has 8.22/10 guest ratings, and also free parking, free breakfast, and free wifi.
+Customer: That one is way better. What are the dates for this package?
+Customer Service Agent (CSA): It's from Sep 14-18.
+Customer: I thought you said it was 15 days?
+Customer Service Agent (CSA): You are correct! It is actually from Sep 14-28.
+Customer: thats better lol, okay so how much is it?
+Customer Service Agent (CSA): It's 2450.26 for economy and 3120.26 for business.
+Customer: put us down for business
+Customer Service Agent (CSA): Done! The two of you are headed to Curitiba!
+Customer: thnx
+

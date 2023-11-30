@@ -1,0 +1,18 @@
+Customer: Hi! Can you take me to Hiroshima from Calgary?
+Customer Service Agent (CSA): We sure can. When do you need to go to Calgary?
+Customer: I'd like to go from August 26 to September 5 if possible!
+Customer Service Agent (CSA): I have the Amusement available from August 27 and September 2nd, we can send you via economy or business class, what would you prefer?
+Customer: How much is the business class?
+Customer Service Agent (CSA): 4719.75USD for your 8 day stay at this world class 4 star hotel located near the University
+Customer: Oh my this sounds very nice. Can we look at packages to Naples from Calgary.
+Customer Service Agent (CSA): For which dates?
+Customer: The same dates, August 26th to September 5th.
+Customer Service Agent (CSA): I have the Courtyard Resort available for  5 days during those dates. It is a 3 star property located near the museum.
+Customer: 5 days. To Ulsan please,
+Customer Service Agent (CSA): What kind of hotel are you looking for?  I have hotels available from 2.5 stars to 5 stars.
+Customer: Can you give me a quote for a 5 star package?
+Customer Service Agent (CSA): I have 2 5-star hotel packages available, the Escape Cave and the Sapphire Time. Both are available form August 27 to August 30th, both are located near a park but the Escape is closer to a shopping mall and the Sapphire Time is closer to the theatre and the market.
+Customer: Sapphire Time it is! Can you book this one for me please?
+Customer Service Agent (CSA): Confirmed, I will proceed with that booking immediately.
+Customer: Thank you!
+

@@ -1,0 +1,24 @@
+Customer: I'm looking to book a trip from Hamburg starting August 15th. I have a 14 day vacation. What packages can you recommend?
+Customer Service Agent (CSA): Hi there! From where will you be leaving?
+Customer: Hamburg
+Customer Service Agent (CSA): Will you be travelling with a companion, and is there a budget for this trip?
+Customer: No and no.
+Customer Service Agent (CSA): I have packages available to Manaus, Denver, Ciudad Juarez and South Korea. Do any of these places interest you?
+Customer: Can I get more information for Manaus?
+Customer Service Agent (CSA): The package includes a 10 day stay in a 2.5 star hotel and economy flights with a departure on August 19th.
+Customer: Do you have information for Denver?
+Customer Service Agent (CSA): The Denver package has a 9 day stay in a 3 star hotel with business class flights and a departure on August 15th.
+Customer: How about Ciudad Juarez?
+Customer Service Agent (CSA): You would stay at a 2.5 star hotel and depart on August 15th in economy class.
+Customer: Do you have information for the trip to Korea?
+Customer Service Agent (CSA): Certainly! This package includes an 8 day stay at a 5 star hotel with economy flights. Departure is on August 17th. I also have a package to Japan leaving August 17th.
+Customer: Are there any other hotel options for the Denver trip?
+Customer Service Agent (CSA): Yes, there are two, but departure flights are on August 26th and 27th.
+Customer: Is there a trip to Denver that leaves on the 15th?
+Customer Service Agent (CSA): Yes, but they are also all 3 stars. Solar Inn is a 3 star hotel and would be the least expensive at 1881.10 USD for 9 days. Would you like me to list others?
+Customer: No, I think I will book this trip to Denver!
+Customer Service Agent (CSA): Great! Shall I book it now?
+Customer: Sure!
+Customer Service Agent (CSA): The reservation is complete! Have a nice day!
+Customer: Thank you!
+

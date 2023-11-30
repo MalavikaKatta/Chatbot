@@ -1,0 +1,20 @@
+Customer: Working long hours in Mexico City. Can you look for trips to Kobe
+Customer Service Agent (CSA): I have a 4.5 star hotel at 5035.97USD for 7 days. Leaving next Tuesday !
+Customer: Would I theoretically be able to go to Vancouver?
+Customer Service Agent (CSA): Yes, 13 days, 10 days or 7 days in Vancouver?
+Customer: For the sake of discussion, lets say 13
+Customer Service Agent (CSA): ok.1486.49USD at 4 star hotel in economy class
+Customer: Terrific
+Customer Service Agent (CSA): or 1819.43USD in business class.
+Customer: Amenities?
+Customer Service Agent (CSA): free parking, free breakfast, free wifi
+Customer: Draw up a Ciudad Juarez trip while you're at it
+Customer Service Agent (CSA): Ok from Mexico City?
+Customer: Yes
+Customer Service Agent (CSA): 6, 10 or 12 days?
+Customer: 12
+Customer Service Agent (CSA): 12 days is at 2.5 star hotel, 10 at 3.5 star and 6 at 3.0 star hotel.
+Customer: ok tell me about the 3.5 star hotel
+Customer Service Agent (CSA): 1126.89USD for 10 days in economy class or 1392.0USD in business class, near palace
+Customer: Ok cool Like I told you I can't book
+

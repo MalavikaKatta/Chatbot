@@ -1,0 +1,26 @@
+Customer: Hi, I need be at Athens for a few days between Aug 27 and Sep 12. Do you know how much it will be?
+Customer Service Agent (CSA): Where are you leaving from?
+Customer: Sendai
+Customer Service Agent (CSA): Do you have a budget?
+Customer: The maximum I can spend is 4900
+Customer Service Agent (CSA): Travelling alone?
+Customer: Yup
+Customer Service Agent (CSA): We have one package. It is a 3 star hotel near the mall and free parking and wifi. The flight departs August 30th and returns September 8th. The business package cost is 4386.50 and the economy package cost is 3288.82.
+Customer: Is this the only option you have?
+Customer Service Agent (CSA): Yes.
+Customer: Can you also check options for Chicago then? Same criteria
+Customer Service Agent (CSA): We have one results at a 2 star hotel near the airport and a park. The hotel has a 7.06/10 guest rating and offers free parking, breakfast, and wifi. This trip is from August 30th to September 11th and costs 3840.25.
+Customer: Is that flying business?
+Customer Service Agent (CSA): Economy.
+Customer: Lastly, can you help me check for Vancouver?
+Customer Service Agent (CSA): We have a 4 star hotel, 10/10 guest rating, near a park and museum, and offers free parking, breakfast, and wifi. This package is from September 2nd to 6th and is a business flight. The total cost is 4390.96.
+Customer: And that's the only option for Vancouver?
+Customer Service Agent (CSA): No, there are others. What are you looking for specifically?
+Customer: I would prefer cheaper options
+Customer Service Agent (CSA): Our cheapest package is a 4 star hotel near a park, museum, and cathedral, 8.8/10 guest rating, free breakfast, wifi, and parking. This is from August 27th to 31st, economy flight, and the cost is 2866.11.
+Customer: Nice! Did you also have a cheaper option for Chicago other than the one you already sent me?
+Customer Service Agent (CSA): No, sorry, that was the only result.
+Customer: No worries, I will take the Vancouver one that's $2866.11!
+Customer Service Agent (CSA): Great! Your package is booked! Have a great day and safe travels!
+Customer: Thanks!
+

@@ -1,0 +1,8 @@
+Customer: I'd like to find a vacation between tomorrow and September 14th from Santos to Leon
+Customer Service Agent (CSA): I have the Serene Palms Resort - a 5 star beachside resort near a palace with free wifi available from September 1-9. The package for one adult with economy flights would cost $2881
+Customer: How much for business?
+Customer Service Agent (CSA): 3699.41USD
+Customer: great, this package sounds good to me. lets book it
+Customer Service Agent (CSA): You bet! Enjoy your stay.
+Customer: Thank you... friend
+

@@ -1,0 +1,6 @@
+Customer: Yes! I'm booking for 20 of us! Heard Recife is a sweet destination
+Customer Service Agent (CSA): Wow, all 20 of you! Is there a budget in mind? And where will you all be coming from?
+Customer: Open budget! We're based in Tofino.
+Customer Service Agent (CSA): I'm afraid we do not have any flights that depart from Tofino. Would you like to choose another city of departure?
+Customer: What??? :disappointed:
+

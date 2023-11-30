@@ -1,0 +1,12 @@
+Customer: hello. please find me a vacation from Fort Lauderdale to Rome!!!
+Customer Service Agent (CSA): Do you have a budget?
+Customer: noooo
+Customer Service Agent (CSA): Yes, it's great! Are you travelling with anyone?
+Customer: I LOVE travelling alone without having to worry about any budgets!!
+Customer Service Agent (CSA): When would you like to leave?
+Customer: oh ok like, tommorow?!
+Customer Service Agent (CSA): Unfortunately there are no results in my database for flights from Fort Lauderdale to Rome.
+Customer: Okay, send me to Birmingham
+Customer Service Agent (CSA): I'm sorry but I can't get you there out of Fort Lauderdale.
+Customer: omg. Alright, I can leave from anywhere!
+

@@ -1,0 +1,7 @@
+Customer: I'm so excited, I get to take my entire team anywhere I want! Money is no object. Just gotta make it fit into out busy schedule. We can only go between August 31 and September 3rd.
+Customer Service Agent (CSA): Where are you leaving from?
+Customer: Tofino will be our point of departure
+Customer Service Agent (CSA): Sorry, we do not offer flights from Tofino.
+Customer: I'll try someone else, sayonara
+Customer Service Agent (CSA): Goodbye
+

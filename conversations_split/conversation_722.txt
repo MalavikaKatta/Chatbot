@@ -1,0 +1,12 @@
+Customer: Hello! I'm booking for a honeymoon right after our wedding in Monterrey.
+We can leave any day after September 6.
+Customer Service Agent (CSA): Where do you want to go?
+Customer: Ideally Ulsan for 5 days.
+Customer Service Agent (CSA): Do you have a budget?
+Customer: 4400 tops... spent too much on the wedding already :disappointed:
+Customer Service Agent (CSA): There is nothing available within your budget
+Customer: Nothing?? That's unfortunate. I guess we can also settle for Rome.
+Customer Service Agent (CSA): There is still nothing available.
+Customer: Oh man.. that really sucks.
+Customer Service Agent (CSA): Okay. Have a nice day!
+

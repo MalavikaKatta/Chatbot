@@ -1,0 +1,20 @@
+Customer: I want to go to Hamburg from Washington. no more than 1000.
+Customer Service Agent (CSA): Sorry, we don't have anything under your budget. Would you be able to make your budget flexible?
+Customer: No. do you have anything from Washington to San Antonio?
+Customer Service Agent (CSA): Yup I do! When can you be there?
+Customer: Anytime
+Customer Service Agent (CSA): Great, I can offer you a 13 day stay at a 2.0 star hotel in San Antonio. It has a guest rating of 7.15/10.
+Customer: Nice. Do you have anything from St. Petersburg to Hamburg?
+Customer Service Agent (CSA): Nothing under your budget unfortunately.
+Customer: St. Petersburg to San Antonio?
+Customer Service Agent (CSA): I have a 13 day package the same hotel in San Antonio.
+Customer: What’s the difference between this 13day package and the other 13day package?
+Customer Service Agent (CSA): This one is from the 14th to the 26th and costs 464.36. The other is from the 12th to the 24th and costs 676.52.
+Customer: Are those both economy?
+Customer Service Agent (CSA): Yes they are.
+Customer: Okay so I’m assuming I cant afford business then?
+Customer Service Agent (CSA): You can actually. The 13 day business package from St. Petersburg costs 519.59 and business from Washington costs 758.76.
+Customer: I’ll do the one from St. Petersburg then. Business class.
+Customer Service Agent (CSA): Sure, I will confirm the booking for you!
+Customer: Thanks
+

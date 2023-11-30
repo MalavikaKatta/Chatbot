@@ -1,0 +1,22 @@
+Customer: can you get me a trip to pittsburgh, from barcelona? between sep 3 and 18
+Customer Service Agent (CSA): How many people are you travelling with?
+Customer: i’m bringing my nephew, so 1 adult 1 child
+Customer Service Agent (CSA): we have 12 days, 8 days and 11 days stay
+Customer: which one gets us the best hotel?
+Customer Service Agent (CSA): 12 days at 3.5 stars hotel at 3631.49USD for ECONOMY class and 4616.12USD for BUSINESS class
+Customer: i want to ask about cancun too you got any trips there?
+Customer Service Agent (CSA): Yes for 11 or 12 days at 3 or 3.5 star hotels is what we have available
+Customer: what about brasilia
+Customer Service Agent (CSA): 3.5 stars for 7 or 10 days
+Customer: how much does that trip cost if we go for 10 days?
+Customer Service Agent (CSA): 5764.32USD in business and 4525.6USD in economy class
+Customer: wow alright. also gotta ask about san jose
+last city i promise
+Customer Service Agent (CSA): I got a 4 star hotel for 11 or 9 days
+Customer: 11
+Customer Service Agent (CSA): 6812.27USD in business class and 5306.48USD in economy class
+Customer: is this hotel near anything nice?
+Customer Service Agent (CSA): near beach and museum
+Customer: ok fine lets do it, business class please
+Customer Service Agent (CSA): ok I will have it booked and send you confirmation email
+

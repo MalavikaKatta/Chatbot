@@ -1,0 +1,4 @@
+Customer: Hi there, do you have any flights out of Tofino?
+Customer Service Agent (CSA): Unfortunately we do not have any flights out of Tofino.
+Customer: Thats a bummer
+

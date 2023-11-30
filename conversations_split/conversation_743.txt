@@ -1,0 +1,16 @@
+Customer: Hello
+Customer Service Agent (CSA): hello there
+Customer: Could you book me a flight from Belem to Punta Cana?
+Customer Service Agent (CSA): One adult?
+Customer: 2 adults
+Customer Service Agent (CSA): Do you have a set date of departure?
+Customer: No date of departure for this trip, but I would prefer earlier if possible
+Customer Service Agent (CSA): The earliest I have is Sept 2nd, how does that sound? That package would put you in Punta Cana for 16 days. Do you have a cap on how much you want to spend?
+Customer: That should work. I actually don’t for this trip. But can you keep it to something reasonable, like under 6100?
+Customer Service Agent (CSA): This particular package on economy class flights is 4289.9USD. Do you want more details on the hotel?
+Customer: is it near the airport?
+Customer Service Agent (CSA): It is near the cathedral and the palace. In Punta Cana, I have nothing near the airport available.
+Customer: Thats fine, lets just go with that
+Customer Service Agent (CSA): Okay your stay will be at the Sunrise Elephant Hotel and you will depart on Sept 2 and return on Sept 17. We appreciate your booking
+Customer: Thanks!
+

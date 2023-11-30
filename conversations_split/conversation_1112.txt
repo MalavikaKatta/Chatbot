@@ -1,0 +1,13 @@
+Customer: i wana go 2 boston from hiroshima
+Customer Service Agent (CSA): When?
+Customer: betweens sep 20 and oct 4
+Customer Service Agent (CSA): Did you happen to have a budget in mind?
+Customer: no
+Customer Service Agent (CSA): "Alrighty then", I have a 10 day trip at a 3.0 star hotel in Boston with free parking, free breakfast, and free wifi.
+Customer: cool. lets check kyoto
+Customer Service Agent (CSA): In Kyoto I've got a few 3.0 star hotels, and we have trips for 9, 7, or 5 days.
+Customer: ok. whats in Seoul?
+Customer Service Agent (CSA): In Seoul I have a 3.0 star hotel next to a park with 5 or 9 day vacation packages.
+Customer: coolio. now Recife.
+Customer Service Agent (CSA): Nothing for Recife unfortunately.
+

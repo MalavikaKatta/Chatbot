@@ -1,0 +1,18 @@
+Customer: I need to maybe go to to Ciudad Juarez
+Customer Service Agent (CSA): Where from?
+Customer: Anywhere it's cheap
+Customer Service Agent (CSA): What is your budget?
+Customer: 1600 dolaritos
+Customer Service Agent (CSA): Are you looking for a long trip or a shorter trip?
+Customer: 4 days
+Customer Service Agent (CSA): We have a 4 day package from the 8th to 11th of September at a 3.5 star hotel. Does this interest you?
+Customer: How much $$$ and is it near a park?
+Customer Service Agent (CSA): 1564.89 and it is near a palace.
+Customer: k no I need something near a park
+Customer Service Agent (CSA): There are no hotels hear near any parks.
+Customer: How about in San Diego then?
+Customer Service Agent (CSA): There are no results.
+Customer: Anything in La Paz?
+Customer Service Agent (CSA): Nothing near a park.
+Customer: Do you think they will let me use the palace grounds in Ciudad Juarez?
+

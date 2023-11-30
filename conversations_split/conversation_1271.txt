@@ -1,0 +1,12 @@
+Customer: I need to book a trip for me and Madonna to Birmingham from Milan.
+Customer Service Agent (CSA): How many passengers?
+Customer: 2
+Customer Service Agent (CSA): Desired dates for travel please
+Customer: anytime but i should be back by the 25th or 27th
+Customer Service Agent (CSA): I have the  4 star The Emerald right by the museum from Sept 17 to the 27th
+Customer: Do you have anything in Las Vegas for 5 stars?
+Customer Service Agent (CSA): Only 3 star hotels available in Las Vegas
+Customer: ok well i think we will go with the 4 star then. Can you tell me some more about the hotel?
+Customer Service Agent (CSA): 4 star hotel with a 8.86/10 guest rating, includes free wifi. A 12 day package via business class is 6467.39USD
+Customer: sign us up. business class for sure
+

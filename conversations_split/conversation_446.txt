@@ -1,0 +1,22 @@
+Customer: I'd like to go to Melbourne from Manaus
+Customer Service Agent (CSA): How many people in your party - adults and children?
+Customer: just me
+Customer Service Agent (CSA): do you have date preferences?
+Customer: no
+Customer Service Agent (CSA): length of your stay please?
+Customer: doesn't matter
+Customer Service Agent (CSA): and lastly do you have a budget in mind?
+Customer: $7,500
+Customer Service Agent (CSA): Unfortunately, we do not have flights to Melbourne from Rio de Janeiro at the moment. May I check other destinations for you?
+Customer: I'm leaving from Manaus
+Customer Service Agent (CSA): I apologize.  I meant from  Manaus.  No flights from Manaus to Melbourne.
+Customer: okay well how about to Rome
+Customer Service Agent (CSA): I have 6, 7 and 12 day stays in Rome departing from Manaus. Anything special you are looking for in a hotel?
+Customer: Nothing in particular but what are the best packages you can offer?
+Customer Service Agent (CSA): do you prefer to fly economy or business?
+Customer: i prefer business
+Customer Service Agent (CSA): May I suggest the 6 day package at Hotel Grand Residence, a 4 star property located near shopping and the cathedral in Rome. This package includes free wifi and breakfast for 3770.52USD. As requested, flights are in business class seating departing Sept 2nd and returning Sept 6th. Would you like to proceed with booking?
+Customer: Heck yes! That sounds like a great deal! Hook me up!
+Customer Service Agent (CSA): :+1: I will book that for you right away.
+Customer: Thank you!
+

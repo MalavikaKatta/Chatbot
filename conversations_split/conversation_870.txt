@@ -1,0 +1,19 @@
+Customer: hi there. berlin to atlanta please
+sometime between september 8 and 25
+Customer Service Agent (CSA): How big is your group?
+Customer: we are 7 in all
+Customer Service Agent (CSA): Splendid. We have a few 3.0 star hotels and 3.5 star hotels. Do you have a specific allowance for this trip?
+Customer: we’d like to keep the spending to a minimum how long can we stay at the 3 star hotel?
+Customer Service Agent (CSA): We have 8 day and 5 day packages.
+Customer: how much for 8. economy flights
+Customer Service Agent (CSA): That would be 22218.95 total.
+Customer: Yikes. How much to go to Pittsburgh?
+Customer Service Agent (CSA): We have two 2.5 star hotels in Pittsburgh, and we have 10, 13, and 14 day packages. If you have a more precise idea of how much you are hoping to spend, I can help you narrow down your options.
+Customer: we are just looking for the best value for length of stay. so how much is 14 days
+Customer Service Agent (CSA): That sounds fair. The 14 day economy package is 18789.55. Business is 24096.66.
+Customer: sounds like an improvement. ok lets just go ahead with that one then
+Customer Service Agent (CSA): The economy package?
+Customer: yes please
+Customer Service Agent (CSA): Booked! Anything else I can do for you today?
+Customer: you’ve done all we could ever ask of you, thanks!
+

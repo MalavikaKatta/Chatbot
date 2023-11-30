@@ -1,0 +1,13 @@
+Customer: Burlington to Busan. Aug 30 to Sept 10. Got a flight dude?
+Customer Service Agent (CSA): I do! I have 6 or 7 day stays at the Lethargy Hotel.
+Customer: Not bad, how much it cost?
+Customer Service Agent (CSA): Would you prefer flight seats in economy or in business class?
+Customer: Can I get business class for less than 5000?
+Customer Service Agent (CSA): Yes! With business class the 7 day package is 3781.35USD and the 6 day one is 4461.76USD.
+Customer: Is the six day package at a better hotel?
+Customer Service Agent (CSA): They are at the same hotel.
+Customer: Ok then as long as it fits in my dates then I’m ok with the 7 day package
+Customer Service Agent (CSA): The dates for that one are September 1st to 6th. Can I book it for you?
+Customer: yeah why not
+Customer Service Agent (CSA): Excellent, you will receive a confirmation shortly.
+

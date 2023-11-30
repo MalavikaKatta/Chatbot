@@ -1,0 +1,18 @@
+Customer: Hi! I would like to go to Naples from London. I have 1200 and can go whenever.
+Customer Service Agent (CSA): London to Naples, we have no packages.
+Customer: How about London to Pittsburgh?
+Customer Service Agent (CSA): Actually, if you can increase your budget to  1772.87USD, I do have one something in Naples for you. London to Pittsburgh, I have the 2.5 star Majestic Mountain Inn at  646.43USD for an 11 day stay
+Customer: I can't increase my budget at all unfortunately.
+Customer Service Agent (CSA): Majestic Mountain Inn is available in Pittsburgh as well as the Olive Bazaar Inn & Suites. also a 2.5 star for a 10 day stay
+Customer: Okay. Do you have anything from Phoenix to Naples?
+Customer Service Agent (CSA): No I don't
+Customer: Anything from Phoenix to Pittsburgh?
+Customer Service Agent (CSA): Yes the same hotels as from London to Pittsburgh
+Customer: Okay Pittsburgh it is! What do you have available for my budget?
+Customer Service Agent (CSA): Majestic Mountain Inn - 12 days $847.80USD
+Customer: Okay, What else can you tell me about the hotel?
+Customer Service Agent (CSA): It is a 2.5 star hotel located near a park. It has a guest rating of 6.91/10. Parking, wifi and breakfast are included in the price. Your departure date from Phoenix is Sept 12 and your return date is the 23rd. The price I quoted you is the price for a business class package.
+Customer: Okay thanks!  I'd like to book this one please
+Customer Service Agent (CSA): The  Majestic Mountain Inn has been reserved for you for 12 days.
+Customer: Thanks!
+

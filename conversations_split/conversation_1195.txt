@@ -1,0 +1,13 @@
+Customer: Need to book a luxury getaway for myself and 7 clients. Leaving from Vancouver after September 14th
+What've you got availble in Naples?
+Customer Service Agent (CSA): Our best in Naples is a 8 days vacation package at a 4.0 star hotel with 8.86/10 guest ratings.
+Customer: Noted. What about in Guadalajara?
+Customer Service Agent (CSA): Unfortunately we've got nothing to Guadalajara from Vancouver.
+Customer: Ah, ok.. Nagoya then
+Customer Service Agent (CSA): Nothing for Nagoya either.
+Customer: I guesss we're going to Naples.. Can you tell me more about that hotel first?
+Customer Service Agent (CSA): Sure, the hotel offers free breakfast and free wifi. You will stay there from Sept 16-22.
+Customer: Good stuff - should be fine. Book 8 for business class please.
+Customer Service Agent (CSA): Okay I will confirm the trip for you! The total comes to 24044.47. Anything else I can do for you today?
+Customer: Nope - thanks
+

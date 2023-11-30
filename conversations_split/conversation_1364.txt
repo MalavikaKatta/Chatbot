@@ -1,0 +1,18 @@
+Customer: I have a CRUCIAL meeting with my investors in Santa Cruz, you MUST get me there
+Customer Service Agent (CSA): Okay! Where will you leave from?
+Customer: Santiago
+Customer Service Agent (CSA): Do you have a budget?
+Customer: Not for Santa Cruz
+Customer Service Agent (CSA): Ok. Are you traveling alone?
+Customer: To Santa Cruz, yes
+Customer Service Agent (CSA): When would you like to leave?
+Customer: Anytime, I'll schedule the meeting once I get my flights confirmed
+Customer Service Agent (CSA): We have no flights from Santiago to Santa Cruz
+Customer: Okay I thought that may be the case so I have a back-up plan. Fly me to Washington from Santiago with my 5 colleagues then. No more than 2600 though.
+Customer Service Agent (CSA): There are still no results.
+Customer: Can you try Tofino then? For 12 of us?
+Customer Service Agent (CSA): Budget?
+Customer: 2000
+Customer Service Agent (CSA): Nothing.
+Customer: Ridiculous
+

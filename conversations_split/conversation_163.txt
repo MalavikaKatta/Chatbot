@@ -1,0 +1,22 @@
+Customer: I need to get away from work, how about Paris?
+Customer Service Agent (CSA): Where is it that you will be leaving from?
+Customer: I'm in naples
+Customer Service Agent (CSA): Great! Will you be travelling alone?
+Customer: Just me this time
+Customer Service Agent (CSA): Do you have a budget?
+Customer: I'll spend whatever I need to
+Customer Service Agent (CSA): Are there specific dates you have in mind?
+Customer: It's gotta be between August 27 and September 9
+Customer Service Agent (CSA): Are your dates flexible?
+Customer: No, my boss wouldn't have it
+Customer Service Agent (CSA): We have a 6 day stay at the Autumn Treasure Hotel starting on August 27th. This is a 4 star hotel and offers free breakfast and wifi. The cost is 1071.36. Does this interest you?
+Customer: Hmm, what can you offer me in Cleveland?
+Customer Service Agent (CSA): We have a 6 day stay at a 3 star hotel. They offer free breakfast, wifi and parking. This flight leaves at 8:00 am, August 30th.
+Customer: How much would this cost me?
+Customer Service Agent (CSA): This would cost 3174.47.
+Customer: Guess I'll take the Autumn Treasure Hotel stay then. Could you upgrade my flight to business class? How much would that cost?
+Customer Service Agent (CSA): This cost is 1291.31 and the flight leaves at 9:00 am. Would you like me to book this for you?
+Customer: Sounds good
+Customer Service Agent (CSA): Great! You're flight is booked! Have a great day and enjoy your vacation!
+Customer: Thanks!
+

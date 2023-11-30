@@ -1,0 +1,17 @@
+Customer: I need to get to Boston please, it's an emergency.
+Customer Service Agent (CSA): Where are you currently?
+Customer: I'm in Belo Horizonte. I need to leave on Sunday September 18 or later.
+Customer Service Agent (CSA): Is it just you? Do you have a budget?
+Customer: Yeah just me. I've just spent all this money backpacking around South America, so I've only got 2800 left. Can you find something with that?
+Customer Service Agent (CSA): Yes! We have a 12 day trip leaving on the 19th at a 2.5 star hotel close to the mall. Does this interest you at all?
+Customer: Yeah, how much does that cost?
+Customer Service Agent (CSA): It'll be 2417.77 with economy flights.
+Customer: It sounds good, do you have any other good packages though?
+Customer Service Agent (CSA): We have another 12 day trip to a 2.5 star hotel with a slightly better guest rating for 2670.57.  Otherwise, we have a 7 day package at a 3 star hotel for 2679.33.
+Customer: Oh no. The first option sounds the best. But when does it leave?
+Customer Service Agent (CSA): It leaves on the 19th and returns on the 29th.
+Customer: Okay that sounds really good. I'll take it!
+Customer Service Agent (CSA): Perfect! It is all booked for you!
+Customer: Awesome, thanks!
+Customer Service Agent (CSA): Happy to help :slightly_smiling_face:
+

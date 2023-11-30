@@ -1,0 +1,24 @@
+Customer: hello, I’m looking for an impressive package to Minneapolis
+from Sao Paulo
+for 6 adults
+Customer Service Agent (CSA): Do you have a budget?
+Customer: no. I’m spending to impress here
+so spare no expense
+Customer Service Agent (CSA): When would you like to leave Sao Paulo?
+Customer: any time after today
+Customer Service Agent (CSA): All we have in Minneapolis is a 2.5 star hotel.
+Customer: yuck, ok try Atlanta please
+Customer Service Agent (CSA): Our best here is a 3.5 star, is this okay?
+Customer: not really... anything better in Goiania?
+Customer Service Agent (CSA): Results include 2.5 and 3.5 star hotels in Goiania.
+Customer: brutal. what are the guest ratings for the 3.5 star
+Customer Service Agent (CSA): 7.15/10 and 8.69/10
+Customer: where is the 8.69 one?
+Customer Service Agent (CSA): Goiania has the 7.15 and 8.69 guest ratings. Atlanta has a 8.8/10 guest rating though.
+Customer: oh ok, so there are two in Goiania... what amenities are included for the 8.69 in Goian?
+Customer Service Agent (CSA): Free parking, breakfast, and wifi. The hotel is also located near the airport, shopping, and a museum!
+Customer: not bad I guess... and the 8.8 guest rating in Atlanta, what is that hotel located near?
+Customer Service Agent (CSA): It is near a beach and offers free wifi and parking.
+Customer: ok. I am going to shop around before I rush into anything
+thanks though
+

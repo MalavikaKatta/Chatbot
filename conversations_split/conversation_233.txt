@@ -1,0 +1,21 @@
+Customer: I'm a fashion designer and I'm going to be doing an internship with a VERY  famous fashion designer. Do you have any flight and hotel packages to Rome?
+Customer Service Agent (CSA): Sure thing! Leaving from where?
+Customer: Busan
+Customer Service Agent (CSA): Unfortunately I don’t have anything available from Busan to Rome
+Customer: Okay....how about to San Antonio? :unamused:
+Customer Service Agent (CSA): Would you like to travel to San Antonio or leave from there?
+Customer: To San Antonio from Busan. I live in Busan.
+Customer Service Agent (CSA): Ok! How about the Winter Hill Inn? It’s available from August 25-September 1st.
+Customer: I cannot leave before the 27th.
+Customer Service Agent (CSA): In that case I can book you September 1-8 at the same hotel.
+Customer: Can you give me flight details please?
+Customer Service Agent (CSA): You will leave Busan at 11 am on Thursday September first and arrive at 11:24 pm in San Antonio. You will depart from San Antonio at 1 am September eighth and return home at 1:24 pm.
+Customer: How about some details on the Winter Hill Inn? I really want to be near a park.
+Customer Service Agent (CSA): It is near a park, movie theatre and a mall! The hotel is 2.0 stars with a guest rating of 4.74 and features free parking, wifi, and free breakfast
+Customer: 2 star hotels are usually dumps. Do you have anything better?
+Customer Service Agent (CSA): There is another 2 star available in San Antonio but the guest rating is 7.15/10. 
+Customer: Hate to sound like a princess but over my dead body I will stay in a 2 star hotel, specially in San Antonio. I am a fashion designer. Plus I'm travelling alone! You got anything in Barcelona instead? We have a house of design there too.
+Customer Service Agent (CSA): Ok! I have a couple of 3.0 star hotels available in Barcelona. Would this be ok?
+Customer: No that won't do either. I need a five star for under $3900.
+Customer Service Agent (CSA): I’m sorry but I have nothing meeting your requirements for the destinations you have given me.
+

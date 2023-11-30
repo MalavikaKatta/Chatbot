@@ -1,0 +1,24 @@
+Customer: Hi there, I'd like to book a trip!
+Customer Service Agent (CSA): Hi! I'd be happy to help with that. Where are you coming from and where would you like to go?
+Customer: I haven't really decided a destination yet. We're leaving from Buenos Aires and we're looking for a nice family vacation.
+Customer Service Agent (CSA): I see! How many will you be? And when would you be available to travel?
+Customer: Oh it's going to be a huge family vacation, so we'll be 5 adults and 7 children! We're looking for something between Monday September 12 and Monday September 19.
+Customer Service Agent (CSA): That sounds very nice! Do you want me to stay under a certain budget?
+Customer: Yes please! That would be great. I don't want to spend any more than $29, 400 total
+Customer Service Agent (CSA): That's reasonable. Alrighty, since there are a lot of options, I will throw a few cities at you. Let me know if any of these catches your eye: Pittsburgh, Santos, Denver, San Diego, La Paz, Boston, and Sao Paulo.
+Customer: Oh wow they all sound so good. Which ones are the most affordable?
+Customer Service Agent (CSA): The options I have previously presented are the longest and best trips that make the most of your budget. However, shorter trips would be more affordable. Would you like me to find the most affordable trips for you instead?
+Customer: Oh I'll see what the longest and best trips are! Please tell me about them. Let's start with San Diego!
+Customer Service Agent (CSA): Maybe Santos, La Paz, or Sao Paulo might interest you. Of course I can run searches for shorter trips and perhaps get a few more available cities if you would like.
+Customer: Let's try La Paz!
+Customer Service Agent (CSA): Nice choice! In La Paz we can offer you an 8 day stay at a fantastic 4.0 star hotel with free parking, free breakfast, and free wifi.
+Customer: Ooh sounds nice! How much would that cost in the end?
+Customer Service Agent (CSA): It would be 22481.6 for economy seats and 28631.92 for business.
+Customer: Wow that sounds really good! What are the departure and return dates of this trip?
+Customer Service Agent (CSA): This trip runs from Sept 13-19.
+Customer: That's perfect. Could you please book that for me for economy?
+Customer Service Agent (CSA): Sure thing! It is all booked for you. Stay in tune for an email confirmation with all the details.
+Customer: Thank you so much!
+Customer Service Agent (CSA): It's my absolute pleasure! Anything else I can do for you today?
+Customer: Nope, it's all good. Have a nice day!
+

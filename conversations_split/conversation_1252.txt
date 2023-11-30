@@ -1,0 +1,13 @@
+Customer: Hi
+Customer Service Agent (CSA): What can I do for you?
+Customer: I need to leave Beijing, I’d like to go to Munich with 10 adults and 3300 between us
+Customer Service Agent (CSA): We do not fly from Beijing to Munich
+Customer: How bout Kabul to Munich?
+Customer Service Agent (CSA): We have no flights out of Kabul either
+Customer: Any flights to New York for 2300 and 4 adults?
+Customer Service Agent (CSA): To New York out of what city?
+Customer: Kabul
+Customer Service Agent (CSA): We do not fly anywhere out of Kabul
+Customer: Ok then leave from Beijing
+Customer Service Agent (CSA): I regret to inform you that Beijing - New York is also unavailable
+

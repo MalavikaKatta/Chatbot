@@ -1,0 +1,14 @@
+Customer: Hi there, I live in Dublin but I've always wanted to see what's good in Goiania. Do you think that if I forked over $1800, you can get me there?
+Customer Service Agent (CSA): I’m sorry, but I cannot find you any trips on that budget.. The closest I can offer is an 11 day package at the Scarlet Palms Resort for just over 2000 dollars.
+Customer: How about Atlanta, can you get me flights there for my budget
+Customer Service Agent (CSA): Maybe we could explore another destination?
+Customer: Yes please, Atlanta
+Customer Service Agent (CSA): Ok! Well I have two packages in Atlanta at the Summer Covert Club. Would you prefer to leave on September 8 or August 24?
+Customer: It doesn't matter, which one is cheaper?
+Customer Service Agent (CSA): 880.84USD would be the price for the former.
+Customer: Do customers like the hotel?
+Customer Service Agent (CSA): I do not know, there have been no customer reviews.
+Customer: This is some risky business...but beggars can't be choosers right? Okay one last thing - can you tell me the departure and return date so that I can update my parole officer?
+Customer Service Agent (CSA): September 8-13
+Customer: Lets do it!
+

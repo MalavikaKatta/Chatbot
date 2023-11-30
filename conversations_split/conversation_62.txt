@@ -1,0 +1,16 @@
+Customer: Hi we're from Miami and we want to go to paris, can you help out?
+Customer Service Agent (CSA): Fore sure, how many people will you be traveling with?
+Customer: 7 kids and 5 adults in this party
+Customer Service Agent (CSA): I have several options available, do you have a budget?
+Customer: $27500 is my budget
+Customer Service Agent (CSA): I have several 8-day packages available to you. I can offer you a choice between 3 hotels: The Queen's Jungle Hotel, a 4-star hotel with a 8.69/10 guest rating; The Hotel Regal Universe, a 4.0-star hotel with a 9.16/10 guest rating; or the Autumn Treasure Hotel, a 4.0-star hotel with a 8.49/10 guest rating. All hotels offer free wifi and free breakfast.
+Customer: what type of options do these hotels offer/
+Customer Service Agent (CSA): The Jungle has vacancies from August 17th-24th and from August 30th-September 6th. The Hotel Regal Universe has vacancies from August 18th-25th, August 25th- September 1st, and from September 1st-8th. The Autumn Treasure Hotel has a vacancy from the 19th-25th of August.
+Customer: how much would it be for the two best rated ones?
+Customer Service Agent (CSA):  I can offer the Jungle from the 17th-24th of August for 14,186.99USD. If you choose to upgrade to business from economy your total comes to 18,178.51USD. If you choose to stay at the Hotel Regal Universe your total cost will be 21,809.70USD, with flights for all dates being business class.
+Customer: the most expensive one is still in my budget. can we book it?
+Customer Service Agent (CSA): Which dates would you like for your vacation: August 18th-25th, August 25th- September 1st, or September 1st-8th?
+Customer: the one in August please
+Customer Service Agent (CSA): Your trip has successfully been booked!
+Customer: thank you!
+

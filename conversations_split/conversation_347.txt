@@ -1,0 +1,16 @@
+Customer: I want to go to Paris from Maceio with 6200$.
+Customer Service Agent (CSA): We have two 4 star hotels. 
+Customer: what about from Maceio to Detrut
+Customer Service Agent (CSA): There are no results from Maceio to Detrut.
+Customer: from maceio to Paris?
+Customer Service Agent (CSA): I have packages to paris
+Customer: what about to Minneapolis?
+Customer Service Agent (CSA): How about a 2.5 star for 3422.75?
+Customer: 3422.75. looks good to me
+Customer Service Agent (CSA): This package has a museum, park, and mall, plus free wifi, breakfast, and parking. This trip is from August 27th to September 4th.
+Customer: ok
+Customer Service Agent (CSA): Would you like me to book this package for you?
+Customer: yes please
+Customer Service Agent (CSA): Your flight is booked!
+Customer: thak you
+

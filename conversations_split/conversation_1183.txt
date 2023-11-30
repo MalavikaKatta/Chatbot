@@ -1,0 +1,9 @@
+Customer: I have 2500 to spend
+Customer Service Agent (CSA): Hello!
+Customer: Hello, old friend.
+Customer Service Agent (CSA): Where would you like to go?
+Customer: I have 2500 to spend. Tel Aviv to Rio de Janeiro
+Customer Service Agent (CSA): We do not accommodate flights to or from Tel Aviv, sorry!
+Customer: Welllll that is just fine I will try another agency
+Customer Service Agent (CSA): Okay, sorry I could not have been more helpful!
+

@@ -1,0 +1,21 @@
+Customer: Hello, I need your help...my wife is super strict and she's put me in charge of the family vacation. We have $4000 to spend. Find me something good!
+Customer Service Agent (CSA): How many people will be traveling?
+Customer: 2 adults and one child
+Customer Service Agent (CSA): Where would you like to go?
+Customer: Let's look at Hiroshima first
+Customer Service Agent (CSA): Okay. where will you be leaving from?
+Customer: Minneapolis
+Customer Service Agent (CSA): Do you have dates of travel in mind?
+Customer: Sept 20 to Oct4
+Customer Service Agent (CSA): Unfortunately there are no results within your budget.
+Customer: what of we add 1000?
+Customer Service Agent (CSA): That doesn't help, sorry.
+Customer: Okay let's look at Belem for under 4000?
+Customer Service Agent (CSA): There are no results for this either.
+Customer: :pray: St. Petersburg?!?
+Customer Service Agent (CSA): Nothing available.
+Customer: Seriously?!
+Customer Service Agent (CSA): Yes. I am sorry I am not more helpful.
+Customer: I will go somewhere else, thanks anyway
+Customer Service Agent (CSA): Okay. Sorry! Good luck!
+

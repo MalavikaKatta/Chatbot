@@ -1,0 +1,9 @@
+Customer: Hello. i want to go to buenos aires
+i live in puebla
+Customer Service Agent (CSA): Great! I can book you 12 days in the Resort Pleasant Shield starting August 27. Your flight will leave from Rosario.
+Customer: can i get something leaving from puebla??
+Customer Service Agent (CSA): If you would like to leave from Puebla, I can book you 12 days at the Olive Market Hotel from the 24th of August to the 3rd of September. The total cost of this package would be 2052.70USD.
+Customer: great! i will go ahead and book that
+Customer Service Agent (CSA): Done! Your trip has been booked. Enjoy your stay!
+Customer: thank you :smile:
+

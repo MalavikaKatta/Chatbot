@@ -1,0 +1,14 @@
+Customer: Hi there looking to go from SL to Kochi today
+i've got 2000 budget, hoping to squeeze in a trip
+Customer Service Agent (CSA): Do you have a budget?
+Customer: 2000
+Customer Service Agent (CSA): Are you bringing anyone along?
+Customer: nope
+Customer Service Agent (CSA): When would you like to travel?
+Customer: whenever really
+Customer Service Agent (CSA): Unfortunately there are no trips available within your budget.
+Customer: would it be possible to get from los angeles to kochi on 2000 bucks then?
+Customer Service Agent (CSA): Not from Los Angeles, sorry.
+Customer: ok what if i added 400 to my budget, can i do SL to kochi?
+Customer Service Agent (CSA): No, sorry!
+

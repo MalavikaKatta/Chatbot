@@ -1,0 +1,6 @@
+Customer: Hi there, my friends and I would like to go to Belo Horizonte from Tofino for a couple days please.
+Customer Service Agent (CSA): I can’t offer anything out of Tofino unfortunately. Is there an alternate departure city I could try for you?
+Customer: But all 9 of us will be coming from there!
+Customer Service Agent (CSA): Can I look into something else for you?
+Customer: No thank you.
+

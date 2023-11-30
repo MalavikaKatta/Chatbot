@@ -1,0 +1,4 @@
+Customer: Hi there. I am writing to inquire if you do departures out of Beijing?
+Customer Service Agent (CSA): We do not
+Customer: Thank you for the information
+

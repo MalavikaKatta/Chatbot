@@ -1,0 +1,25 @@
+Customer: Hi, I'd like to go to Burlington with my fiance.
+Customer Service Agent (CSA): Where will you two be coming from?
+Customer: We'll be coming from Tel Aviv.
+Customer Service Agent (CSA): Sorry, but we do not have the capacity to serve flights out of Tel Aviv. Do you have an alternative city of departure?
+Customer: Okay then. We can also leave from Montreal, if you can find a flight to Burlington from there?
+Customer Service Agent (CSA): I can help with that! When would you like to take this trip?
+Customer: Either on or after Tuesday September 13 please.
+Customer Service Agent (CSA): Do you have a set budget in mind?
+Customer: Yes! 3100 is the most I would like to spend so anything under that would be great.
+Customer Service Agent (CSA): Sure, I'd recommend a 4 day stay at a 3.0 star hotel near a park. 6.51It has 3.4/10 guest ratings and offers free wifi.
+Customer: How much would that cost?
+Customer Service Agent (CSA): It would be 2037.8.
+Customer: Okay! Just curious, do you have anything closer to 3100 for a longer stay, or a better hotel?
+Customer Service Agent (CSA): I can get you on business flights with the same package for 2536.77. Or I can offer you a 5 day stay at a 2.5 star hotel in the heart of the city for 2546.97.
+Customer: Does this 2.5 star hotel have a decent guest rating?
+Customer Service Agent (CSA): It seems reasonably rated at 6.77/10.
+Customer: Is the 3 star hotel also in the heart of the city by any chance?
+Customer Service Agent (CSA): That is correct! It also offers free parking and free wifi!
+Customer: You know what actually? I think I'll take the 4 day stay in the end.
+Customer Service Agent (CSA): That's not a problem! Would you prefer business or economy class flights?
+Customer: Oh economy!
+Customer Service Agent (CSA): Great! I have processed the reservation and you will be billed a total of 2037.8.
+Customer: Great, thanks!
+Customer Service Agent (CSA): My pleasure!
+

@@ -1,0 +1,13 @@
+Customer: Hi, I'm a very interesting person from Stuttgart and I need to get myself to Sapporo. I am traveling with a friend.
+Customer Service Agent (CSA): And where would you be leaving from?
+Customer: I am leaving from Stuttgart
+Customer Service Agent (CSA): What is your budget? do you have any dates in mind?
+Customer: I own 2100 dollars and we can leave august 26
+Customer Service Agent (CSA): I'm not getting any results for you. Would you like to try different dates?
+Customer: I am a man of many dates, and so my dates are flexible
+Customer Service Agent (CSA): I can offer you the Hotel Prism, It is, however, a little above your budget
+Customer: I could add 500 dollars to my budget
+Customer Service Agent (CSA): This hotel has 3 stars and costs $5315. If you're interested, we can look for hotels somewhere else
+Customer: Well, I reckon I'll just book this one.
+Customer Service Agent (CSA): I will book this
+

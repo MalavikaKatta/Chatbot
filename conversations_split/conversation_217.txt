@@ -1,0 +1,24 @@
+Customer: Hi I only have 4000 dollars
+Customer Service Agent (CSA): Where would you like to go and where will you be leaving from?
+Customer: I dunno
+Customer Service Agent (CSA): Are you travelling with other people?
+Customer: meh haven't thought about it yet
+Customer Service Agent (CSA): Do you know when you want to travel?
+Customer: between august 26 and September 2 I think
+Customer Service Agent (CSA): Great! Have you given any more thought to where you want to go?
+Customer: New York could be fun
+Customer Service Agent (CSA): Where will you be leaving from?
+Customer: Baltimore
+Customer Service Agent (CSA): Are your dates flexible?
+Customer: yeahhhhhhh sorta
+Customer Service Agent (CSA): I can offer you a 2.5 star hotel, this includes free breakfast, wifi, and parking. The dates are from August 24th to September 5th. The cost is 1066.66. Does this package interest you?
+Customer: yaaaa maybe... what about Kobe?
+Customer Service Agent (CSA): There is a 3 star hotel from August 27th to September 1st. This package includes free breakfast and wifi and costs 2793.63.
+Customer: What about atlanta
+Customer Service Agent (CSA): Unfortunately there are no flights to Atlanta.
+Customer: Well then I'm thinking the Kobe package would be the best...
+Customer Service Agent (CSA): Great! Would you like me to book it for you?
+Customer: yepppppp
+Customer Service Agent (CSA): Your trip is booked! Have a great vacation!
+Customer: Thank you!
+

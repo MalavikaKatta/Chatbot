@@ -1,0 +1,14 @@
+Customer: I need to get a pic of Madonna and her pal, they are going to be in Kobe and I want to leave from Queenstown
+Customer Service Agent (CSA): So that will be 2 adults travelling together?
+Customer: no just 1
+Customer Service Agent (CSA): is there a required date of travel?
+Customer: September 6th.
+Customer Service Agent (CSA): I have two packages available in Kobe with a departure date of Sept 6. Do you have any parameters on what you require?
+Customer: no but I have a budget of 4100
+Customer Service Agent (CSA): The Royal Island Inn is available on Sept 6  for 3522.63USD. You would be on a business class flight.
+Customer: what rate is the hotel
+Customer Service Agent (CSA): It a 3 star hotel located near the palace which is now used for concerts.
+Customer: that sounds like a place Madonna would want to go to..... I'll take this one
+Customer Service Agent (CSA): I will proceed with the booking. Have a nice day.
+Customer: Thanks
+

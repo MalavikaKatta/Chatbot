@@ -1,0 +1,19 @@
+Customer: Hi there. Do you have flights out of Resife?
+Customer Service Agent (CSA): I am not sure if I understand. Do you mean Recife?
+Customer: Yes, sorry
+Customer Service Agent (CSA): It's okay, we do have many flights out of Recife. Where is your destination?
+Customer: I’m not sure. But i have 13800 to spend
+5 adults 4 kids
+Customer Service Agent (CSA): When do you want to leave and return?
+Customer: Sept 8 to 22 is what i’m looking for
+Customer Service Agent (CSA): Okay, I have quite a few options for you. Would you like to know about the longest ones that fit within your budget?
+Customer: Yes please. Longest and priority for good hotels
+Customer Service Agent (CSA): These are the longest we have: 15 days at a 3.5 star hotel in Buenos Aires, 14 days at a 4 star hotel in Santo Domingo, 13 days at a 3 star hotel in Manaus, and 12 days at a 4 star hotel in Buenos Aires.
+Customer: Oh wow Santo Domingo sounds so good! Is it on the beach?
+Customer Service Agent (CSA): It is indeed! Also close to shopping.
+Customer: How much is the exact cost?
+Customer Service Agent (CSA): 13100.0 for business flights or 10377.25 for economy flights.
+Customer: Its cool that I can actually afford business class. Lets try it
+Customer Service Agent (CSA): Great! I will book the business package for your group! Anything else you need me to do?
+Customer: Thats it, thank you!
+

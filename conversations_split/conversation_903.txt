@@ -1,0 +1,13 @@
+Customer: Hi! I'm well. I'm looking at this website. Its got this picture of a pastry. I've never seen anything like it and I need to go see it for myself
+Customer Service Agent (CSA): Okay! Where would you like to go?
+Customer: Guadalajara. Leaving from Salvador
+Can you get 3 adults and 3 kids there on 15000
+Customer Service Agent (CSA): I can try! When would you like to leave?
+Customer: Anytime, not picky!
+Customer Service Agent (CSA): We have a 3 star hotel near the airport and a park. This hotel has a 8.37/10 guest rating and offers free parking, wifi, and complimentary breakfast also. This package is from September 7th to 22nd. The business package costs 12934.27 and the economy package costs 10036.12.
+Customer: Is that the only choice in that city?
+Customer Service Agent (CSA): No but it is our best package. We also have a 2.5 star hotel from September 8th to 19th, a different 3 star hotel from September 11th to 22nd, and another package from September 6th to 17th at the original 3 star hotel.
+Customer: True I agree with that assessment. Lets do business class flights then
+Customer Service Agent (CSA): Alright! Is there anything else?
+Customer: Thats it! Thank you
+

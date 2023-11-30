@@ -1,0 +1,20 @@
+Customer: Hey! I'm looking to book a trip to Naples
+Customer Service Agent (CSA): Great! Where are you departing from?
+Customer: San Francisco
+Customer Service Agent (CSA): Do you have a budget?
+Customer: Maximum $5200 for 18 days
+Customer Service Agent (CSA): When would you like to leave?
+Customer: It doesn't really matter
+Customer Service Agent (CSA): Do you have a day you would like to return by?
+Customer: I would just to like to stay there for 18 days.
+Customer Service Agent (CSA): Are you travelling by yourself?
+Customer: With my wife and son
+Customer Service Agent (CSA): There are no results for your request but is there a different destination you might want to go to?
+Customer: Can you try Santo Domingo?
+Customer Service Agent (CSA): There are no results for this either. Maybe you could leave from somewhere else. Is that possible?
+Customer: Is Columbus the second closest city?
+Customer Service Agent (CSA): I do not have this information in my database.
+Customer: It's okay that's fine. I will try something else! Thanks!
+Customer Service Agent (CSA): Okay! Sorry I couldn't have been more help! Have a nice day!
+Customer: No worries! Bye!
+

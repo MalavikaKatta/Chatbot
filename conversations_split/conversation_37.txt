@@ -1,0 +1,24 @@
+Customer: Good afternoon. I'd like to book a business trip to New York from Mannheim. What can you offer?
+Customer Service Agent (CSA): Certainly. What date do you have business in Mannheim so that I can accommodate your schedule?
+Customer: Dates are flexible, but I have a company budget of 3100 USD. I'd like to go either in August or September.
+Customer Service Agent (CSA): Great. I have a 5 star hotel available for 2097.76USD.
+Customer: how much will it cost?
+Customer Service Agent (CSA): The above price leaves August 17th and returns August 27th. To leave August 27th and return on September 6th, the price would be 2582.47USD.
+Customer: What about leaving around September 13th?
+Customer Service Agent (CSA): You could leave September 16th and return September 26th for 2753.45USD.
+Customer: I prefer the one leaving on August 17th. Is there free wifi?
+Customer Service Agent (CSA): The Regal Resort has free wifi as well as a spa to relax at after your business meetings!
+Customer: That sounds very nice. Does the package include a business class flight?
+Customer Service Agent (CSA): 2097.76USD is the cost for Economy flights. To upgrade to Business class would cost 2674.43USD. Would you like to book this trip with Business class flights?
+Customer: Yes I would!
+Customer Service Agent (CSA): Perfect. You will depart from New York at 2:00 pm - Wednesday, August 17th 2016.
+Customer: What is the time of arrival?
+Customer Service Agent (CSA): You will arrive in Mannheim at 10:16 pm - Wednesday, August 17th 2016.
+Customer: Great! And the time at which I will be departing from Mannheim to return to nyc?
+Customer Service Agent (CSA): You will leave Mannheim at 8:00 am - Saturday, August 27th 2016 and arrive in New York at 4:16 pm - Saturday, August 27th 2016
+Customer: Excellent. There is a possibility that I may need to bring a co-worker with me. How much would the trip cost for 2 people?
+Customer Service Agent (CSA): To include a second person on this trip, with both of you flying business class, the cost would be 5348.87USD
+Customer: I see. In that case I will book this trip only for myself today.
+Customer Service Agent (CSA): Ok. Have a good day
+Customer: It was a pleasure! Thank you.
+

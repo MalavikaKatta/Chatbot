@@ -1,0 +1,19 @@
+Customer: Hello. Here is what my perfect trip would be: A trip for one adult (me) and two children from St. Petersburg to Melbourne.
+Customer Service Agent (CSA): Unfortunately nothing is currently available. Can I help you find another perfect trip?
+Customer: Hmm. How about Ulsan
+Customer Service Agent (CSA): Now this we do have! Which dates would you like to travel?
+Customer: Anytime!
+Customer Service Agent (CSA): Would you like me to stay under a certain budget?
+Customer: no budget!
+Customer Service Agent (CSA): Sounds good. The best package we have for you is a 11 day vacation at a 5 star hotel with 8.98/10 guest rating.
+Customer: Lets do it!
+Customer Service Agent (CSA): I have the business package for 11450.32 and the economy package for 8871.58. Which one would you like to go with?
+Customer: Can I just get a double check on the dates please?
+Customer Service Agent (CSA): Yup, it's from September 3-12.
+Customer: Lets do it!
+Customer Service Agent (CSA): Do you want to go with the business package or the economy package?
+Customer: Economy please!
+Customer Service Agent (CSA): Perfect! I have booked it for you. Reservation details will be emailed to you. Have a nice trip!
+Customer: Thanks!!
+Customer Service Agent (CSA): You are most welcome!
+

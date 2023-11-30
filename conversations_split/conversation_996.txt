@@ -1,0 +1,14 @@
+Customer: 6 adults to Rosario from Toluca it needs to be impressive
+Customer Service Agent (CSA): We have a 4.0 star hotel near shopping with a guest rating of 8.86/10, free wifi, and free breakfast. How does that sound?
+Customer: When does it leave
+Customer Service Agent (CSA): It's 18 days from September 4-21.
+Customer: Can’t leave until 16 of September
+Customer Service Agent (CSA): I have nothing available in that case then. Is there anther city you can go to?
+Customer: Check Porto Alegre
+Customer Service Agent (CSA): In Porto I've got a 3.5 star hotel next to shopping, a university, and a mall. It's got 9.16/10 guest rating, free breakfast and wifi.
+Customer: Check Tijuana first
+Customer Service Agent (CSA): Not really. The best we have in Tijuana is a 3 star hotel with 7.15/10 rating.
+Customer: Ok go with Porto. So that’s 6 adults, business class.
+Customer Service Agent (CSA): Sure! You are booked for 8 days from the 21st to the 28th on business flights for 12306.59.
+Customer: Done. Thanks
+

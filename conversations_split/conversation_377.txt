@@ -1,0 +1,27 @@
+Customer: Hi I'm from Minneapolis and I am looking for a 5 day get away for the upcoming long weekend
+Customer Service Agent (CSA): Is this a trip for one adult?
+Customer: yes just lonely ole me
+Customer Service Agent (CSA): Can you please give me the dates you will be free to travel?
+Customer: I have to leave on Friday Sept 2nd and I have 5 days off
+Customer Service Agent (CSA): I can offer you 4 day vacations to Calgary or Burlington. Which one would you like to hear about first?
+Customer: 4 days works fine for me.  Burlington is supposed to have amazing museums and quite the night life.  What do you have close to a museum?
+Customer Service Agent (CSA): For the days you requested, none of the hotels available are close to a museum. However, we do have a 2.5 star hotel in the heart of the city.
+Customer: How much is this place in Burlington?
+Customer Service Agent (CSA): Your stay at Excursion Motel would be 612.32USD. The rating, if you'd like to know, if 2.5
+Customer: And Calgary?
+Customer Service Agent (CSA): The Calgary package is 290.10USD and 4 stars
+Customer: So it's cheaper even though it is a 4 star?
+Customer Service Agent (CSA): Yes it is!
+Customer: what else do you have in Calgary?
+Customer Service Agent (CSA): The 4 star hotel which is the Amusement is the only one available for the weekend. The only option I can offer you would be to upgrade to a business class ticket which would increase the cost to 387.34USD
+Customer: what's it close to?
+Customer Service Agent (CSA): It is close to a university
+Customer: anything else included in the price?
+Customer Service Agent (CSA): This hotel offers free wifi and parking
+Customer: no breakfast?
+Customer Service Agent (CSA): No, there is no breakfast included in the price
+Customer: so you only have the 2.5 star hotel in Burlington and the 4 star hotel available in Calgary. No other choices for the upcoming long weekend of Sept 2nd?
+Customer Service Agent (CSA): Exactly, those are the two packages I can offer you at the moment
+Customer: okay I was looking for a little more variety in options, thanks anyway!
+Customer Service Agent (CSA): I'm sorry we didn't have what you were looking for. Have a good afternoon!
+

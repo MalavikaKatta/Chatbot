@@ -1,0 +1,19 @@
+Customer: We are a large family wanting to travel together to Fortaleza, what can you do for us?
+Customer Service Agent (CSA): How many people?
+Customer: 4 adults and 5 little itty bitty ones
+Customer Service Agent (CSA): Okay. Where are you leaving from/
+Customer: Frankfurt
+Customer Service Agent (CSA): Do you have a budget?
+Customer: Between us we've got 19900 we saved up
+Customer Service Agent (CSA): When would you like to leave?
+Customer: Anytime is good for us!
+Customer Service Agent (CSA): Would you like to go for 10 or 6 days?
+Customer: Can we go to a nice place for 10 days for 19900?
+Customer Service Agent (CSA): It's a 3 star hotel with a 9.32/10 guest rating, and near a park and museum. They also offer free parking, breakfast, and wifi.
+Customer: I like the guest rating on that! Do you know if there's a pool for the little ones?
+Customer Service Agent (CSA): I do not have this information.
+Customer: How much is this one?
+Customer Service Agent (CSA): 15057.55 for economy and 19308.18 for business and this package is from September 21st to 29th.
+Customer: Allrighty we will book the economy and keep the rest for a rainy day! Thank you kindly.
+Customer Service Agent (CSA): Great! It is booked, have a great trip!
+

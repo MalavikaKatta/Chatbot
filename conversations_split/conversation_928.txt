@@ -1,0 +1,22 @@
+Customer: Hi there. San Antonio to Mexico City
+no budget
+Customer Service Agent (CSA): Are you travelling alone?
+Customer: I am!
+Customer Service Agent (CSA): When do you want to leave?
+Customer: I just need the entire trip to be somewhere between September 12 and October 2
+Customer Service Agent (CSA): Business or economy flights?
+Customer: Business I guess
+Customer Service Agent (CSA): Okay would you rather stay at a 6.77/10 or 6.91/10 guest rated hotel?
+Customer: Well obviously the better one
+Customer Service Agent (CSA): Good choice! This hotel is 3 stars near the beach, and shopping mall, they offer free parking and wifi, the package is from September 24th to October 2nd, and the package costs 1618.66.
+Customer: This isn't bad, However it is my prerogative to check some other cities out
+What about Punta Cana?
+Customer Service Agent (CSA): We have a 3.5 star hotel near a cathedral and palace, 8.69/10 guest rating, free parking and wifi, from September 26th to October 2nd, business flight, 1767.47.
+Customer: I'm glad I asked then!. Can you look at San Diego for me?
+Customer Service Agent (CSA): We have a 3 star hotel near the park, 8.86/10 guest rating, free parking, breakfast, and wifi, from September 14th to 24th, business class flights, 778.97.
+Customer: Is it me, or do these packages keep getting better? Ok one last spot to check
+Chicago?
+Customer Service Agent (CSA): We have a 2.5 star hotel near the airport and mall, 6.91/10 guest rating, free parking, breakfast and wifi, from September 18th to 29th, business class, 1057.38.
+Customer: Ok Lets lock in San Diego
+Customer Service Agent (CSA): Great! Your package is booked! Enjoy your stay!
+

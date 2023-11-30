@@ -1,0 +1,13 @@
+Customer: hi there i want 2 search on a trip 2 go………..
+Customer Service Agent (CSA): Where would you like to go and where are you leaving from?
+Customer: i live in  sydney and i am going 2 bring my grandkids on a special vacation…..can we go to curitiba……...
+Customer Service Agent (CSA): How many people are you bringing?
+Customer: my 3 grandchildren….
+Customer Service Agent (CSA): Do you have a budget?
+Customer: 3100 dollars...
+Customer Service Agent (CSA): There are no results.
+Customer: what if we go to maceio…………………..
+Customer Service Agent (CSA): No results for this either.
+Customer: u are breaking this old womans heart………….. can we go 2 vancouver...
+Customer Service Agent (CSA): There are no results for this either. Sorry!
+

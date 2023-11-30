@@ -1,0 +1,26 @@
+Customer: TORONTO PLEASE AND FROM BELO HORIZONTE
+Customer Service Agent (CSA): For 1?
+Customer: YES ONE ADULT MAN
+Customer Service Agent (CSA): Tell me about what your priorities are in a hotel
+Customer: I LIKE EVERYTHING I WANT TO KNOW EVERY LITTLE DETAIL AND I WANT TO COMPARE IT ALL
+Customer Service Agent (CSA): WHOA! Do you have a budget?
+Customer: NO I HAVE UNLIMITED MONEY
+Customer Service Agent (CSA): So you want the best of the best?
+Customer: I DUNNO I GUESS SO
+Customer Service Agent (CSA): I'll start with the Hotel Eric Perrier 4 star hotel, in proximity of the airport and the cathedral 8.8/10 guest rating, free breakfast, free wifi, 3265.54USD business class flights
+Customer: OK THAT IS PRETTY GOOD. ANYTHING BETTER IN CLEVELAND??
+Customer Service Agent (CSA): Pleasant Court Inn is available for 10 days, 3 star hotel in close proximity of the park and theatre, excellent guest rating of 8.98/10, free parking, free breakfast, free wifi 3113.63USD business class flights
+Customer: WHAT ABOUT IN PITTSBURGH
+Customer Service Agent (CSA): Majestic Mountain Inn is available for 12 days 2.5 star hotel in close proximity to the park, 6.91/10 guest rating, free parking, free breakfast, free wifi  3087.40USD business class flights
+Customer: IT IS IN SAN DIEGO??
+Customer Service Agent (CSA): No it is in Pittsburgh, that's just the name of the hotel
+Customer: WELL WHERE CAN I STAY IN MACEIO
+Customer Service Agent (CSA):  Hotel Regal Time is available for 11 days, 3.5 star hotel in close proximity of the park, market and theatre, 8.8/10 guest rating, free breakfast, free wifi, 1634.97USD business class fligths
+Customer: THAT SOUNDS VERY NICE
+Customer Service Agent (CSA): Would you like to book it?
+Customer: HOW LONG IS THE TRIP TO HOTEL ERIC PERRIER
+Customer Service Agent (CSA): 12 days
+Customer: I WANT TO DO HOTEL REGAL IN MACEIO. BOOK PLEASE
+Customer Service Agent (CSA): I will book that now
+Customer: GOOD BYE
+

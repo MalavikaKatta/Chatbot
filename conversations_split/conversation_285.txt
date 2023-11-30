@@ -1,0 +1,25 @@
+Customer: hey. id like to book a trip to philadelphia from vancouver. for 8
+Customer Service Agent (CSA): Will this be 8 adults, 8 kids, or both adults and children?
+Customer: 3 adults and 5 children
+Customer Service Agent (CSA): Do you have a budget in mind?
+Customer: 6500
+Customer Service Agent (CSA): When would you like to travel?
+Customer: what are some packages available
+Customer Service Agent (CSA): We have 3 different packages at the same hotel. Two are the same package except one is the economy flight and one is the business flight and these are from August 31st to September 10th. The 3rd option is an economy flight from August 30th to September 4th.
+Customer: business flight. august 31 - sept 10
+Customer Service Agent (CSA): This package includes free wifi, parking, and breakfast at a 2 star hotel near a museum and park. This costs 5529.83. Would you like me to book this for you?
+Customer: can i have a better rated hotel
+Customer Service Agent (CSA): This is the only hotel available for your request.
+Customer: ok. then economy class. but higher rated hotel
+Customer Service Agent (CSA): All packages for your request are at the same hotel.
+Customer: what about at a later or earlier date
+Customer Service Agent (CSA): Unfortunately, the results I have given are the only options for a trip to Philadelphia from Vancouver.
+Customer: ok. what if i increase my budget
+Customer Service Agent (CSA): I can check. How much would you like to increase your budget?
+Customer: can increase by 1500
+Customer Service Agent (CSA): This gives you one more option for a business class flight to the same hotel for the August 30th to September 4th package.
+Customer: i really need better rated hotel. im travelling with 2 lawyers and 5 children
+Customer Service Agent (CSA): I'm very sorry but there are no other options aside from the ones I gave you.
+Customer: ok. then
+let me ask my associates and come back to you.. thanks
+

@@ -1,0 +1,21 @@
+Customer: london to punta cana
+Customer Service Agent (CSA): How many adults and how many children?
+Customer: 1 man
+Customer Service Agent (CSA): What would be your ideal travel dates?
+Customer: september 12 unitl 28th
+Customer Service Agent (CSA): Are these flexible at all?
+Customer: i could leave 7th of sept
+Customer Service Agent (CSA): Anything in particular you would like me to look for in a hotel?
+Customer: nice
+please
+Customer Service Agent (CSA): Best I have is the El Mar, which is a 2.5 star hotel, located on the beach.
+Customer: how much money
+Customer Service Agent (CSA): Would you prefer to fly economy or business?
+Customer: economy
+Customer Service Agent (CSA): 747.73USD for a 6 day package based on economy class
+Customer: wow great deal. how much for business
+Customer Service Agent (CSA): 998.8USD for a 6 day package based on business class
+Customer: that is great. please book it for me
+Customer Service Agent (CSA): I will go ahead and do that for you!
+Customer: great thanks
+

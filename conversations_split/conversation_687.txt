@@ -1,0 +1,24 @@
+Customer: Hi, I'm looking for a vacation package to Chicago from Brasilia.
+Customer Service Agent (CSA): will you be travelling alone or in a group?
+Customer: It'll be just myself.
+Customer Service Agent (CSA): Do you have any preference as to when you will travel?
+Customer: Yes, I hope to travel between August 29 and September 9.
+Customer Service Agent (CSA): Would you prefer your stay to be 5, 6 or 11 days?
+Customer: Of those 3 options, I would prefer 11 days
+Customer Service Agent (CSA): We have an 11 day package at the Sierra Inn & Suites, 2 star for 1783.36USD. It has a guest rating of 7.06/10.
+Customer: Any other hotel options
+Customer Service Agent (CSA): Only one for an 11 day stay.
+Customer: Can you check if there are other hotel options for September 1 - 20?
+Customer Service Agent (CSA): There sure are. My longest one is at the 2.5 star Quiet Sanctuary for an 8 day stay. It has a guest rating of 8.69 / 10.
+Customer: What are the departure and return dates for this one?
+Customer Service Agent (CSA): Sept 13th through the 19th
+Customer: The dates seem to work.. How much is this one?
+Customer Service Agent (CSA): if you choose to fly by economy, the cost is 2242.60USD and by business it is  2856.24USD. This package also includes a complimentary breakfast and free wifi along with your parking.
+Customer: And the he Sierra Inn & Suites? Does it have the same amenities?
+Customer Service Agent (CSA): Yes all three are included in that package too.
+Customer: In this case I'll actually go back to the 11 day package. Can I still book that one?
+Customer Service Agent (CSA): Of course you can! Do you want  to fly there on economy or business class? If you go by business class, the price is  $2281.83USD.
+Customer: Economy is fine!
+Customer Service Agent (CSA): Your trip has been booked. Have a super day! :+1:
+Customer: Amazing!
+

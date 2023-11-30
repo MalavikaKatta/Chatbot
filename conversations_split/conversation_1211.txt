@@ -1,0 +1,13 @@
+Customer: I need to get to Miami sometimes in the near future
+Customer Service Agent (CSA): Where from?
+Customer: Kyoto
+Customer Service Agent (CSA): Sorry, we currently don't have any trips to Miami available. Can you settle for somewhere else?
+Customer: ahh ok, I could do Tokyo. but if that's the case I wanna keep it under 3400 cause I could drive otherwise
+Customer Service Agent (CSA): Unfortunately we also don't have any trips between these two cities right now.
+Customer: Do you fly to Sacramento?
+Customer Service Agent (CSA): We do that! And to make up for all the disappointments, I'd like to offer you a 5 star hotel in Sacramento with 10/10 guest ratings.
+Customer: That's more like it
+Customer Service Agent (CSA): Is your budget still 3400?
+Customer: Can a colleague and I get there for 4200&gt;
+Customer Service Agent (CSA): Unfortunately that budget won't work for the both of you.
+

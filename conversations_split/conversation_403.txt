@@ -1,0 +1,19 @@
+Customer: Hi I need to go to Kabul on August 23rd
+Customer Service Agent (CSA): Where are you flying from?
+Customer: oh I'm sorry I meant to say I want to leave from Kabul, not to Kabul!
+Customer Service Agent (CSA): And where are you going?
+Customer: to Dublin .
+Customer Service Agent (CSA): We have no flight between Kabul and Dublin.
+Customer: how about if I leave from Beijing?
+Customer Service Agent (CSA): We have no flights between Beijing and Dublin either.
+Customer: okay how about from Beijing to pittsborgh for 8 of us?
+Customer Service Agent (CSA): 8 adults?
+Customer: yes
+Customer Service Agent (CSA): We don't have packages to offer you for so many people between those cities.
+Customer: for less people only?
+Customer Service Agent (CSA): Actually it appears that we do not have flights between Beijing and pittsborgh at all.
+Customer: okay thanks
+Customer Service Agent (CSA): Anything else I can help you with?
+Customer: no thank you
+Customer Service Agent (CSA): Have a nice day!
+

@@ -1,0 +1,5 @@
+Customer: Hello. I need Paris to Barcelonna Sept 18 to 22
+Customer Service Agent (CSA): Do you have a budget?
+Customer: 2900
+Customer Service Agent (CSA): No sorry!
+

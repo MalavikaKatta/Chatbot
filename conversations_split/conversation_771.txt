@@ -1,0 +1,22 @@
+Customer: Hey! I'm in the search for a trip for 2.
+Customer Service Agent (CSA): Where will you be leaving from?
+Customer: Santo Domingo
+Customer Service Agent (CSA): Where do you want to go?
+Customer: Punta Cana is one of the option.
+Customer Service Agent (CSA): Do you have a budget?
+Customer: It'd be sweet to spend less than 3100
+Customer Service Agent (CSA): When would you like to leave?
+Customer: We can leave on or after Sep 2
+Customer Service Agent (CSA): There's a 2.5 star hotel near the beach, the cost is 1661.32 and is from September 10th to 19th with business class flights.
+Customer: Do you know the guest rating of this hotel?
+Customer Service Agent (CSA): 0/10
+Customer: That's not ideal. Do you have any other options for Punta Cana?
+Customer Service Agent (CSA): This is our very best option.
+Customer: I see. Can you check for trips to Phoenix then?
+Customer Service Agent (CSA): We have a 3 star hotel near a museum and university, 6.91 guest rating, free parking, breakfast, and wifi, from September 9th to 19th, business class flights, price is 2967.70.
+Customer: And that is also the best option you have?
+Customer Service Agent (CSA): Yes.
+Customer: Okay that's simple. I'll book the Phoenix trip!
+Customer Service Agent (CSA): Alright! Have a great day!
+Customer: Thanks for your assistance!
+

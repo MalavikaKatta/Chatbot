@@ -1,0 +1,15 @@
+Customer: Hey. I need to get from Goiania to Hamburg
+Budget isn't an issue, can you just give me the best options?
+Customer Service Agent (CSA): Would you be more interested in hotel ratings, length of trip, or amenities?
+Customer: I just want the best
+Customer Service Agent (CSA): I would say our best package, though it is an economy flight, is at a 4.5 star hotel near the airport, has a 9.16/10 guest rating, free parking and wifi, from September 8th to 12th, and the cost is 2684.24.
+Customer: There's no option for business class flights?
+Customer Service Agent (CSA): Not for this package,
+Customer: Hmmm. What else?
+Customer Service Agent (CSA): It is a 4 star hotel in the heart of the city, 8.98/10 guest rating, free breakfast and wifi, from September 1st to 6th, business flights, and the price is 2793.73.
+Customer: I can also go to Rio de Janeiro. What are the best packages?
+Customer Service Agent (CSA): Our best package is a 3 star hotel near a park, museum, and university, 8.22/10 guest rating, free parking, breakfast, and wifi, from September 10th to 19th, business class flights, and the cost is 832.75.
+Customer: Okay, to be honest I'd still prefer the business flight to Hamburg.
+Customer Service Agent (CSA): Okay! I'll go ahead and book this for you, keep an eye out for a confirmation email. Have a great day and safe travels!
+Customer: That was easy! thanks
+

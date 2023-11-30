@@ -1,0 +1,12 @@
+Customer: 5 adults to Cordoba from Goiania, no budget, just luxury
+Customer Service Agent (CSA): The best hotel I can find in Goiania is the Sunset Baron, a 3.5 star hotel. Would you like to book this?
+Customer: Try Cleveland
+Customer Service Agent (CSA): The best hotel I can find in Cleveland is 3 stars, but with a 8.98/10 guest rating. How does that sound?
+Customer: No. Naples
+Customer Service Agent (CSA): The best I've got in Naples is 4-star, sound good?
+Customer: Tell me more about it..
+Customer Service Agent (CSA): You would be staying at the Tower Hotel, whose guests have rated it 8.86 / 10, and it offers free breakfast and wi-fi.
+Customer: Located in the heart of the city?
+Customer Service Agent (CSA): I do not have enough information on that, sorry.
+Customer: I'll look elsewhere
+

@@ -1,0 +1,26 @@
+Customer: My boss gave me 8 days off! Get me out of Kingston on Sept 6, or shortly after
+Customer Service Agent (CSA): Do you have a budget?
+Customer: Not really!! I make good $$
+Customer Service Agent (CSA): Where would you like to go?
+Customer: You tell me!! Open to suggestions!
+Customer Service Agent (CSA): The closest package to your requests is an 8 day stay from September 8th to 15th at The Glee. This is a 4 star hotel near a park, they have 8.22/10 guest ratings, free breakfast and wifi. This business class package costs 2946.55.
+Customer: Thats hard to turn down!! Would you happen to have an Asian destination for me?
+I've never been!
+Customer Service Agent (CSA): No, sorry. We only have flights to Germany, United States, Mexica, and Brazil.
+Customer: Ooh lets hear about what you have in Germany
+Customer Service Agent (CSA): We have one package for Munich, Germany. This is a 5 star hotel near a university, it has a 0/10 guest rating, and free wifi. This package is from September 10th to 17th. The business class package is 2336.16 and the economy class is 1751.69.
+Customer: 5 star with 0/10 guest rating? Forget that! Ok since you offer flights to the US, would you be able to get me to SL?
+Customer Service Agent (CSA): No, just Chicago and San Juan.
+Customer: San Juan might be nice...Whats the hotel like there?
+Customer Service Agent (CSA): Its a 2.5 star hotel, 8.49/10 guest rating, near a museum, free parking, breakfast, and wifi. From September 18th to 25th. Business class is 2705.80 and economy class is 2150.88.
+Customer: Worth considering. Could you get me to Porto??
+Customer Service Agent (CSA): The only flight there is to Recife.
+Customer: Recife is cool. Could I get a hotel near some attractions?
+
+Customer Service Agent (CSA): Recife is an 8 day stay from September 8th to 15th at The Glee. This is a 4 star hotel near a park, they have 8.22/10 guest ratings, free breakfast and wifi. This business class package costs 2946.55.
+Customer: Ok thats all I need to know, I want that one!
+Customer Service Agent (CSA): The trip to Recife?
+Customer: Indeed
+Customer Service Agent (CSA): Great! This flight is booked for you! Safe travels!
+Customer: Thank you
+

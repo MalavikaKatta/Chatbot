@@ -1,0 +1,14 @@
+Customer: Please get me back to Manaus asap!!
+Customer Service Agent (CSA): Ok! Where are you leaving from?
+Customer: Currently in Osaka actually
+Customer Service Agent (CSA): Great! When would you like to leave?
+Customer: ASAP!!!
+Customer Service Agent (CSA): I have Hotel Aquamarine River available starting September 14th until the 22nd if this interests you?
+Customer: Oh I forgot to mention I only have 4300 bucks to spend.. will this work?
+Customer Service Agent (CSA): Actually, yes! This package is right within your budget at a price of 4217.11USD.
+Customer: Okay great! Before I book anything, can you check if there are any trips that leave earlier if I go from Stuttgart?
+Customer Service Agent (CSA): From Stuttgart to Manaus the soonest departure I have is also September 14th.
+Customer: Alright I'll still leave from Osaka! Please finalize this deal for me!
+Customer Service Agent (CSA): Sure thing! You will depart Osaka at 9 AM September 14th.
+Customer: Awesome. Thanks so much!
+

@@ -1,0 +1,11 @@
+Customer: Hello I am looking to bring my 6 kids and I to Portland and leave from Minneapolis. We can travel whenever and have no budgetary constraints.
+Customer Service Agent (CSA): Unfortunately we don't have any available trips to Portland as of right now. Is there another city you can go to?
+Customer: Ahh... Let's check Santos then
+Customer Service Agent (CSA): Okay, our best deal in Santos is a 7 day trip at a 3.5 star hotel near a museum and a palace.
+Customer: Reasonable. Any free wifi for the kids?
+Customer Service Agent (CSA): Yup, plus free breakfast!
+Customer: ok!! Go for it!
+Customer Service Agent (CSA): Okay! It will be from Sept 22-27. Do you want to go for business flights for 14513.87 or economy flights for 11317.39?
+Customer: Economy please!
+Customer Service Agent (CSA): Done! Confirmation will be coming via email. Hope you have a good trip :slightly_smiling_face:
+

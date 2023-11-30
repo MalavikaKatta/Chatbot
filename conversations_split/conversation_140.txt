@@ -1,0 +1,10 @@
+Customer: HEY IM TRYING TO GO ON SPRIIIIING BREEEAAAAKKKK. SAN FRANCISCO IS POPPIN RIGHT? LETS GO THERE
+Customer Service Agent (CSA): How about 5 days at the Twin Canyon Inn? Your vacation would last from the 27th to the 31st of August. Your flight would leave from Columbus. Would you be interested?
+Customer: WE NEED TO LEAVE FROM HOGSMEADE. AND I HAVE TO BE BACK BY AUGUST 19
+Customer Service Agent (CSA): Unfortunately my packages to San Francisco don't end before August 27. Would you like to hear more about these packages? Or would you like to try another destination?
+Customer: OK DENVER THEN
+Customer Service Agent (CSA): Unfortunately the earliest date I can give you for a flight to Denver is the 26th of August. Would you like to hear more about this package? Or would you like to try another destination?
+Customer: NO AUGUST 16-AUGUST 19
+Customer Service Agent (CSA): I can't seem to find trips matching these dates. Would you like to try another destination?
+Customer: NO BYE
+

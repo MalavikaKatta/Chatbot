@@ -1,0 +1,18 @@
+Customer: Hi! I have a $3300 budget and am looking for a vacation
+Customer Service Agent (CSA): I can help you with that! From where would you depart?
+Customer: Im leaving from miami on August 25th
+Customer Service Agent (CSA): How about 8 days in Seattle for 481.66USD?
+Customer: that sound amazing! what type of hotel is that?
+Customer Service Agent (CSA): The hotel is 3.5 stars and only 8 minutes away from Seattle
+Customer: thats amazing! are there any other destinations available?
+Customer Service Agent (CSA): I have lots! Do you have a preference?
+Customer: maybe somewhere warm and somewhere that i could be back by August 29th
+Customer Service Agent (CSA): I have trips to Long Beach for August 25-August 30?
+Customer: how about naples?
+Customer Service Agent (CSA): I haven't got any trips to Naples within your budget. I have something available for 3421.98USD though if you would be interested?
+Customer: i cant. I think the vacation to seattle seems most appropriate
+Customer Service Agent (CSA): Sure! So, 8 days for 481.66? Is that the option you would like to go with?
+Customer: you got it!
+Customer Service Agent (CSA): Perfect! I will go ahead and book that for you.
+Customer: thanks!
+

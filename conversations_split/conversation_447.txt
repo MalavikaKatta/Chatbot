@@ -1,0 +1,27 @@
+Customer: So there are 4 friends I promised I would visit this year and I want to check which one would be the best to visit in the coming weeks based on the deals you can offer me.
+Customer Service Agent (CSA): Where would you be leaving from?
+Customer: From Tijuana and I would be going between August 31st and September 11th
+Customer Service Agent (CSA): Where would you like to go?
+Customer: Let's check Burlington first
+Customer Service Agent (CSA): A 2.5 star hotel in the heart of the city would cost 958.49USD for a 6 day stay and you would have free wifi and free parking. For 6 days at a 3.0 star hotel near a park with free wifi you would be paying 1221.70USD.
+Customer: Those are pretty good deals, are they with economy flights?
+Customer Service Agent (CSA): Yes, they are.
+Customer: ok great, that's something I'm happy to save on
+Customer Service Agent (CSA): Any other destinations to check out?
+Customer: Leon, since I could go to Burlington for about 1000, is there anything in Leon around the same price? And 6 days sounds like a good length
+Customer Service Agent (CSA): The cheapest package to Leon would be 2199.7USD.
+Customer: Wow that would be quite a lot more, why the price difference? Is it a fancier hotel?
+Customer Service Agent (CSA): However, the hotel in Leon is 5 star and located on the beach near a palace.
+Customer: How long is that stay?
+Customer Service Agent (CSA): 8 days
+Customer: Ok thanks. My friend lives in Punta Cana, how much would it cost to get there?
+Customer Service Agent (CSA): 515 dollars for a 5 day stay.
+Customer: What's the hotel like?
+Customer Service Agent (CSA): 2.5 star
+Customer: and...
+Customer Service Agent (CSA): On the beach.
+Customer: that good! what else?
+Customer Service Agent (CSA): I don’t understand. What do you mean?
+Customer: What else can you tell me about this hotel?
+Customer Service Agent (CSA): It is called El Mar.
+

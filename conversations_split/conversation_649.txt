@@ -1,0 +1,28 @@
+Customer: I’m planning a family vacation for my half dozen little rug rats and wife! We’ve got fifteen grand put aside for this trip so spare no expense finding us a great stay! Tijuana is where we live, and we have been talking about going to San Diego.
+Customer Service Agent (CSA): Lovely! How many adults and how many children will be traveling on this trip?
+Customer: 2 adults 6 kids
+Customer Service Agent (CSA): I've found a trip for you! It would be at the Anomaly Inn & Suites, where you would be staying from September 12 to 17. Does this sound good to you?
+Customer: ohh uh I should’ve told you that we are only free to travel from Sept 5-12.. my bad!
+Customer Service Agent (CSA): I can indeed. Does September 6-10 sound good?
+Customer: That would work with our schedule.. what is the hotel like?
+Customer Service Agent (CSA): Its a 2.5 star near the park, but enjoys a 6.91/10 guest rating.
+Customer: What’s available in Ulsan?
+Customer Service Agent (CSA): Unfortunately, nothing.
+Customer: Really? Not even for 16000?
+Customer Service Agent (CSA): Not for any price - we just don't offer flights from Tijuana to Ulsan. Apologies!
+Customer: Ah, ok. Well last place we wanna check is Buenos Aires
+Customer Service Agent (CSA): We've got results in Buenos Aires! Would you prefer flying business or economy?
+Customer: Can we afford both on our budget? I think I’d like to hear about the hotel details first
+Customer Service Agent (CSA): You certainly can afford both! The hotel is the the Olive Market Hotel, a 4 star hotel in the heart of the city, near a park.
+Customer: Great! Amenities ?
+Customer Service Agent (CSA): Free parking, free breakfast, and free wifi!
+Customer: Sounds terrific! What is the price comparison for economy flights compared to business class?
+Customer Service Agent (CSA): Business class costs 14258.97USD, and 11161.51USD for economy.
+Customer: hmm ok, well I think economy class would be better for us. More money to spend on activities
+Customer Service Agent (CSA): Should I go ahead and book this trip for you?
+Customer: What are the dates?
+Customer Service Agent (CSA): September 7 to 12.
+Customer: Ok, let’s book it!
+Customer Service Agent (CSA): Done. Have a wonderful trip!
+Customer: Thanks :smile:
+

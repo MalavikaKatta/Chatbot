@@ -1,0 +1,30 @@
+Customer: hi i have been given access to multiple intership positions
+all abroad
+so I want to plan a trip to which ever one has the best deal to scope it out
+Customer Service Agent (CSA): I can help you out with that! Where are you coming from?
+Customer: i am in Barcelona. and I can travel from sept 6-21
+Customer Service Agent (CSA): What is one of the cities you can go to?
+Customer: kobe also i have 4700 dollars tops for this trip, keep that in mind
+Customer Service Agent (CSA): Okay, our best deal for you is an 11-day long trip with a stay at a 3.5 star hotel for 3895.67.
+Customer: is it downtown?
+Customer Service Agent (CSA): I do not have any information regarding whether it is in the heart of the city.
+Customer: what about amenities?
+Customer Service Agent (CSA): All guests have access to free wifi.
+Customer: ok well
+check Los Angeles ok
+Customer Service Agent (CSA): In Los Angeles we can also offer you an 11 day stay. This time it will be a 3.0 star hotel next to the airport and mall. All for 2475.71.
+Customer: free wifi as well?
+Customer Service Agent (CSA): Not just free wifi, also free parking and free breakfast!
+Customer: ah, great. what are the dates
+Customer Service Agent (CSA): It's from September 8-18.
+Customer: before i book anything can you check San Diego
+Customer Service Agent (CSA): Sure. In San Diego our best is a 9-day trip at a 3.0 star hotel near the park for 1388.27.
+Customer: which has a higher user rating - Los Angeles or San Diego?
+Customer Service Agent (CSA): They are the same: 8.86/10. They also offer the same amenities.
+Customer: oh, wow.. both are good reviews... well Los Angeles is near a mall.. I think that's where the mall of america is
+I want that one
+Customer Service Agent (CSA): Alrighty then! Would you like to go for a business upgrade for 3153.44 or the economy for 2475.71?
+Customer: yes - business
+Customer Service Agent (CSA): Sounds good! This is booked for you. You depart today so better get going!
+Customer: yes, you're right.. thank you
+

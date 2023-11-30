@@ -1,0 +1,18 @@
+Customer: I need to get away from Sendai between Sept 6-17. 3 adults, 6 kids
+Customer Service Agent (CSA): Great, where would you like to go?
+Customer: Anywhere
+Customer Service Agent (CSA): Do you have a budget in mind?
+Customer: 25300 $$
+Customer Service Agent (CSA): How about a 12 day trip to Montreal? From September 6 to 17, you'll be staying at The Illustrious Haven Hotel, a 4 star hotel with a 8.86/10 guest rating.
+Customer: Sounds lovely. What ammenities are included? And how much does that cost.
+Customer Service Agent (CSA): Free parking and wifi come free! Business class flights cost 23813.37USD, while economy class flights are 18607.42USD.
+Customer: Have I got any other options available?
+Customer Service Agent (CSA): Definitely - you could go to Calgary from September 7 to 16, where you'd be staying at the Amusement, another 4 star hotel.
+Customer: Can you list the other possible detinations?
+Customer Service Agent (CSA): How about Punta Cana from September 6 to 15? A 3 star hotel near the palace and theatre is available.
+Customer: Breakfast included?
+Customer Service Agent (CSA): Not only breakfast, but also wifi and parking!
+Customer: Lets book Punta Cana
+Customer Service Agent (CSA): Happy to do so, have a great trip!
+Customer: Thanks!
+

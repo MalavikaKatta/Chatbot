@@ -1,0 +1,20 @@
+Customer: Hi, I want to take my kid to Maceio. Will you be able to help me with this trip?
+Customer Service Agent (CSA): Yes. Where will you be leaving from?
+Customer: Sorry forgot to tell you! We're in Paris.
+Customer Service Agent (CSA): How many people altogether?
+Customer: So myself and my child
+Customer Service Agent (CSA): What is your budget?
+Customer: Nothing specific in mind. Can you show me a few options to help me decide?
+Customer Service Agent (CSA): Sure, when would you like to leave?
+Customer: We don't have a preference. We just want to go for a few days... maybe a week
+Customer Service Agent (CSA): There are no results. Can you leave from a different location?
+Customer: We could also leave from Sao Paulo
+Customer Service Agent (CSA): There are no results for this either.
+Customer: Sorry my bad. I meant we can also go to Sao Paulo instead of Maceio.
+Customer Service Agent (CSA): We have a 3 star hotel in the heart of the city, near a cathedral, and theatre. There is a 6.91/10 guest rating and they offer free breakfast and wifi. This is a business class flight from September 12th to 18th and the price for this package is 5881.15.
+Customer: We could actually do with economy flights
+Customer Service Agent (CSA): Yes, the economy package is 4576.56.
+Customer: That works! Can you book it for me?
+Customer Service Agent (CSA): Sure! It is booked and you will receive a confirmation email soon! Have a great day!
+Customer: Awesome thanks!
+

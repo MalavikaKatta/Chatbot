@@ -1,0 +1,11 @@
+Customer: HEY
+Customer Service Agent (CSA): Hi
+Customer: im tryina get to hamburg
+Customer Service Agent (CSA): where would you like to leave from?
+Customer: im gonna bring 5 lawyers with me and 5 kids. leaving from chicago
+Customer Service Agent (CSA): Any budget in mind
+Customer: 31500
+Customer Service Agent (CSA): Any dates in mind?
+Customer: meh nah
+Customer Service Agent (CSA): Sorry it seems there are no flights available to Hamburg
+

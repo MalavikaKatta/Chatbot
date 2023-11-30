@@ -1,0 +1,24 @@
+Customer: hi
+Customer Service Agent (CSA): Hello
+Customer: looking to leave Rio de Janeiro for a spell
+Customer Service Agent (CSA): From where?
+Customer: between this thursday and september 2. leaving from rio de janeiro, want to know where i can go
+Customer Service Agent (CSA): You can go to Manaus, Salvador, Porto Alegre, Goiania
+Customer: can i get to porto alegre for under 1900?
+Customer Service Agent (CSA): yes, for $637.79
+Customer: but can you tell me if the hotel is any good...do the guests like it?
+Customer Service Agent (CSA): 3.5 star hotel, guest rating 8.8 on 10
+Customer: can you confirm which dates this package will be?
+Customer Service Agent (CSA): from august 30 and september 2nd in economy class. We also have business class at 733.41
+Customer: do you have a longer trip to porto? that only takes up half my vacation
+Customer Service Agent (CSA): Not to Rio, but to Manaus, Brazil, yes, at 8 days for 583.65$, or Salvador at 616.31 for 7 days.
+Customer: that sounds decent, which place has the better hotel?
+Customer Service Agent (CSA): Salvador has 3.5 star hotel
+Customer: and Manas?
+Customer Service Agent (CSA): 2.5 stars
+Customer: ok, and the dates for salvador are?
+Customer Service Agent (CSA): August 27 to September 2nd
+Customer: ok not to be nitpicky but can you tell me a little more about the amenities at salvador, and whether its near anything exciting?
+Customer Service Agent (CSA): near hotel, museum, palace, theatre  vs. hotel, shopping for Manaus
+Customer: brilliant! ok sign me up for the santos package please
+

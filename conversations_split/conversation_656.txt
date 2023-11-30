@@ -1,0 +1,29 @@
+Customer: HI
+Customer Service Agent (CSA): Hi what can I do for you?
+Customer: I NEED TO CHECK MONTREAL FOR MEWTWO!!
+Customer Service Agent (CSA): I understand. You would like to travel to Montreal. Where will you leave from?
+Customer: I AM IN MEXICO CITY 
+Customer Service Agent (CSA): Would that be Mexico City?
+Customer: I AM IN MEXICO CITY
+Customer Service Agent (CSA): How many people in your party?
+Customer: 3 ADULTS
+Customer Service Agent (CSA): Dates please
+Customer: I CAN LEAVE AFTER MONDAY SEPTEMBER 12
+Customer Service Agent (CSA): An do you have a maximum number of days that you would like to remain in Montreal?
+Customer: NO
+Customer Service Agent (CSA): I have a 19 day stay for you for 5812.63USD.  Is that an appropriate length of time for you?
+Customer: YEAH!!!!!!!!'
+Customer Service Agent (CSA): It is a 4 star rated hotel called The Illustrious Haven Hotel, located near the market and the mall. You'll also get free parking and free wifi with your package. We have space between Sept 12 and 30.
+Customer: I NEED TO CHECK OUT PARIS AS WELL THOUGH OK??
+Customer Service Agent (CSA): Mexico City to Paris for 3 adults, same dates?
+Customer: YEA!!!!
+Customer Service Agent (CSA): Do you have a cap on what you would like to spend?
+Customer: I WILL SPEND 10 THOUSAND THREE HUNDRED DOLLARS
+Customer Service Agent (CSA): I have 2 very comparable 4 star hotels, both free wifi and breakfast included, one at 8501.57USD, and the other at 10199.69USD. The main difference is that the second is located near the palace and museum.
+Customer: HOW LONG ARE THOSE STAYS
+Customer Service Agent (CSA): Both 10 days. Would you like more information on either one of these choices?
+Customer: MORE INFO ON THE PALACE
+Customer Service Agent (CSA): That would be the Hotel Regal Universe with a 10 day stay from Sept 18 to Sept 26. 4 star, free wifi and breakfast, and as discussed previously near the museum and the palace all for 10199.69USD for your group of 3.  Should I book this one?
+Customer: YEAH!! SOUNDS PERFECT!! ALRIGHT!!!!!!!!!
+Customer Service Agent (CSA): I will look after that, have an awesome trip
+

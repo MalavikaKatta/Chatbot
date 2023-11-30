@@ -1,0 +1,20 @@
+Customer: Good afternoon to you, I have 4 days off coming up and I need a little getaway.
+Customer Service Agent (CSA): Great! When would you like to travel?
+Customer: On August 15.
+Customer Service Agent (CSA): Where would you like to go and where will you be leaving from?
+Customer: I don't really care where I go to be honest. If you offer me a good deal leaving on August 15, I will take it. No more than 4 days though.
+Customer Service Agent (CSA): Where will you be leaving from?
+Customer: Berlin
+Customer Service Agent (CSA): Do you have a budget?
+Customer: No budget. I just want it to be fabulous!
+Customer Service Agent (CSA): We have a package to Punta Cana at a 3.5 star hotel that includes free breakfast and wifi. This will cost 2471.91. Does this interest you?
+Customer: I've been to Punta Cana. What else do you have?
+Customer Service Agent (CSA): Columbus
+Customer: Can you tell me about the Columbus package. I hope it has a spa!
+Customer Service Agent (CSA): This package has a 3.5 star hotel, museum, shopping mall, and it is in the heart of the city. The hotel provides free breakfast and wifi. This trip is from August 21st to the 24th and costs 2490.14. Does this interest you?
+Customer: Do any of the packages in Punta Cana have a spa? :haircut:
+Customer Service Agent (CSA): Unfortunately they do not.
+Customer: Are any of the packages in Punta Cana at a 5 star rated hotel or close to the beach?
+Customer Service Agent (CSA): Sorry, none of the packages are by the beach and the highest hotel rating is a 3.5.
+Customer: I really want a spa. If you have nothing to offer with a spa, I'll shop around then.
+

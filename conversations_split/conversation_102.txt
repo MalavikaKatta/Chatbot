@@ -1,0 +1,16 @@
+Customer: I'd like to book a trip to Monterrey from August 17th to August 25th.
+Customer Service Agent (CSA): Hello! What city will you be departing from?
+Customer: Sacramento
+Customer Service Agent (CSA): Unfortunately I don't have any packages for those dates, however I can book you a stay from the 27th of August to the 3rd of September. Would this interest you?
+Customer: Okay, well what about a trip to Caprica for August 17th to the 25th?
+Customer Service Agent (CSA): I can't seem to find any packages to Caprica for those dates. Would you be interested in a trip to Punta Cana from the 17th to the 24th of August?
+Customer: No thanks. I think i will take the trip to Monterrey from August 27th to September 3rd.
+Customer Service Agent (CSA): Done! Your trip has been booked. Enjoy your trip!
+Customer: how much would the trip be for two people?
+Customer Service Agent (CSA): Will that be for two adults or one child and one adult?
+Customer: two adults
+Customer Service Agent (CSA): The total cost of this trip will be 3668.31USD. If you're interested, I can upgrade your flights from economy to business class, bringing your total to 4550.28USD.
+Customer: I'll take the cheaper option.
+Customer Service Agent (CSA): Excellent! Your trip has been booked! Enjoy your vacation!
+Customer: Thanks!
+

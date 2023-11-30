@@ -1,0 +1,22 @@
+Customer: Hi! I need to get over to Rome
+Customer Service Agent (CSA): Where from?
+Customer: Im from Ulsan
+Customer Service Agent (CSA): Do you have a budget?
+Customer: $20000 would that get me far?
+Customer Service Agent (CSA): Are you travelling alone?
+Customer: Yes i need to find MEWTWO
+Customer Service Agent (CSA): Do you know when you'd like to travel?
+Customer: September 2nd i need to be there
+Customer Service Agent (CSA): The earliest flight we have is on September 6th, is this alright?
+Customer: Nope! do you have anything to kingston during my preferred dates
+Customer Service Agent (CSA): There is a 2.5 star hotel that includes free breakfast, wifi, and parking, from the 2nd to the 5th. There is a park, and it is in the heart of the city. The cost is 3649.51.
+Customer: that looks good! are there any other hotels
+Customer Service Agent (CSA): This is the only one for your dates but there is also a business class option for 4751.53.
+Customer: Let's look at thos
+Customer Service Agent (CSA): It has the same information as the previous one, 2.5 stars, free breakfast, wifi, and parking. The park is near the hotel and it is in the heart of the city. Which do you prefer?
+Customer: Also from the 2nd to the 5th?
+Customer Service Agent (CSA): Yes.
+Customer: PLease book the more expensive one'
+Customer Service Agent (CSA): Great! Your business class trip is booked!
+Customer: Thank you!
+

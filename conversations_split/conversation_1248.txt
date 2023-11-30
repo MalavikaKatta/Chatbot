@@ -1,0 +1,24 @@
+Customer: I would like you to find me, my wife, and my 4 children, a trip to Guadalajara from Seattle.
+Customer Service Agent (CSA): Sure! When would you like to go?
+Customer: september 11th to 21st or somewhere in between.
+Customer Service Agent (CSA): Have you got a budget in mind?
+Customer: We have 4700 to spend.
+Customer Service Agent (CSA): Great! I have two hotels within your budget. One is 3 stars and near a park, the other is not near anything of note. Both have free parking, breakfast, and wifi.
+Customer: What is the other hotel rated?
+Customer Service Agent (CSA): 2.5
+Customer: ew. Um okay, do you have anything in Chicago?
+Customer Service Agent (CSA): I just have one hotel. It is 2.5 stars with 8.69/10 from users.
+Customer: Anything in Las Vegas?
+Customer Service Agent (CSA): Yes! I have a 3 star hotel near a market, with 8.98/10 from users, and free breakfast included as well as free parking and wifi!
+Customer: What is the guest rating at the 3 star hotel in Guadalajara?
+Customer Service Agent (CSA): 8.49/10
+Customer: Okay I think Las Vegas is the winner here. How much is the package and what are the dates?
+Customer Service Agent (CSA): Would you like to fly economy or business?
+Customer: Business if we can
+Customer Service Agent (CSA): The cost would be 6206.38USD.
+Customer: Okay and what are the dates?
+Customer Service Agent (CSA): September 11th - 21st
+Customer: Ah Perfect! Yes book this for us please
+Customer Service Agent (CSA): Ok, I will proceed with booking! Please watch for a confirmation email.
+Customer: Thanks!
+

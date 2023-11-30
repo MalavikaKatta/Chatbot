@@ -1,0 +1,9 @@
+Customer: Hi there, I'm planning a family vacation and was wondering if you could be of assistance. We are 8 adults leaving from Beijing to Kyoto
+Customer Service Agent (CSA): Ok! When are your dates?
+Customer: Leaving from Sunday August 21. Flexible with return date. But we need to keep it under a budget of A budget of $2900
+Customer Service Agent (CSA): I have no flights departing from Beijing, I am sorry.
+Customer: Do you have flights departing from Jerusalem instead?
+Customer Service Agent (CSA): I do not :’(
+Customer: So let me get this straight You do not have any flights whatsoever leaving from Beijing, to any destination
+Customer Service Agent (CSA): No, I do not deal with that Place I am so so sorry.
+

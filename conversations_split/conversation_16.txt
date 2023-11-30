@@ -1,0 +1,14 @@
+Customer: Hi there, im from Vitoria and I want to go on vacation
+Customer Service Agent (CSA): where would you like to go?
+Customer: I would like to go to Santo domingo
+Customer Service Agent (CSA): would a 7 day trip work for you?
+Customer: yes that sounds fine, looking to leave on the 19th
+Customer Service Agent (CSA): great, I have a flight departing on the 19th and returning on the 25th of August
+Customer: what is the hotel like?
+Customer Service Agent (CSA): It is called the Rose Sierra Hotel and it is a 3-star hotel that includes free breakfast, wifi and parking. The total cost would be  $2170.90.
+Customer: what type of flight is that going to be?
+Customer Service Agent (CSA): It is an economy class flight
+Customer: let’s book it please
+Customer Service Agent (CSA): Perfect. Have a great trip.
+Customer: Thank you
+

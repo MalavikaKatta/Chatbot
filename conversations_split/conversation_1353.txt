@@ -1,0 +1,15 @@
+Customer: Hey I'm thinking of going from St. Petersburg to Hamburg, can you help me?
+Customer Service Agent (CSA): I'd love to help! When do you need go to?
+Customer: Anytime between September 14 and 27 would be good.
+Customer Service Agent (CSA): Will it be just you?
+Customer: yep!
+Customer Service Agent (CSA): I have a fantastic offer for you! It is at the a 4.0 star hotel in the heart of Hamburg for 10 days.
+Customer: Oh really, that sounds very good. What are the dates and how much does it cost?
+Customer Service Agent (CSA): It's from the 17th to the 26th and costs 3494.54 with business flights and 2740.40 with economy flights.
+Customer: Wow that's excellent. Do you mind if I just ask about another city? I'm also thinking about going to Indianapolis...
+Customer Service Agent (CSA): No problem! Unfortunately we don't have anything for Indianapolis that matches your parameters. Are you dates or budget flexible?
+Customer: Oh that's fine, I'll just stick to Hamburg since it's already such a great deal anyway! I'll book the economy package please.
+Customer Service Agent (CSA): Okay it is booked for you! 2740.40 will be charged to your account. Anything else I can do for you today?
+Customer: No, that's good. Thanks for helping me out.
+Customer Service Agent (CSA): You're very welcome!
+

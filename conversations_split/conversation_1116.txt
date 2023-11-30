@@ -1,0 +1,19 @@
+Customer: Yeah, I'm looking for an 8 day trip for the family.
+Customer Service Agent (CSA): How many are in your party?
+Customer: Two and a kid.
+Customer Service Agent (CSA): Where would you like to go and where would you like to leave from?
+Customer: I've got two places in mind. I'll be coming from Buenos Aires and I'm thinking about going to Santo Domingo.
+Customer Service Agent (CSA): You are travelling alone?
+Customer: No, sorry. I meant all of us.
+Customer Service Agent (CSA): How much money do you have to spend?
+Customer: I'm on a tight budget here, so not more than 4300
+Customer Service Agent (CSA): And when would you like to leave?
+Customer: Anytime soon is good.
+Customer Service Agent (CSA): Then I have nothing to offer you.
+Customer: Let's try somewhere else then.
+Customer Service Agent (CSA): I only have availability in Santo Domingo for 2 adults at your price point.
+Customer: Fine, what about a trip to Burlington then? One that involves my son of course.
+Customer Service Agent (CSA): I’m sorry - I have nothing within your budget. Would you like to explore other destinations? Perhaps something within your country would be within your budget.
+Customer: Bye.
+Customer Service Agent (CSA): Good bye .
+

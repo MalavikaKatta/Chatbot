@@ -1,0 +1,11 @@
+Customer: hey, we're having a huge family trip. Think you can help us?
+Customer Service Agent (CSA): Of course :slightly_smiling_face: How many travellers?
+Customer: 13 kids and 13 adults! Big family eh?
+Customer Service Agent (CSA): Yes, indeed! Where are you travelling to and from?
+Customer: We'll be going to Santa Cruz from Tofino. Please get us the very best :slightly_smiling_face:
+Customer Service Agent (CSA): I can’t book any packages out of Tofino unfortunately.
+Customer: Oh no, really?
+Customer Service Agent (CSA): Nope. Sorry.
+Customer: Oh no, the children will be so disappointed. All 13 of them.
+Customer Service Agent (CSA): Sorry.
+

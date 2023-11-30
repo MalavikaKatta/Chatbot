@@ -1,0 +1,11 @@
+Customer: hi
+Customer Service Agent (CSA): Hi!
+Customer: I'm about to be a newlywed as of September 8
+Customer Service Agent (CSA): Sure! Where would you be leaving from?
+Customer: Cleveland. we'd like to go to Atlanta for a week
+Customer Service Agent (CSA): Good, and do you have a  budget?
+Customer: 2300 for the two of us
+Customer Service Agent (CSA): What is your date range for travel?
+Customer: anytime after our wedding
+Customer Service Agent (CSA): No, unfortunately.
+

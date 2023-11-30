@@ -1,0 +1,12 @@
+Customer: Hi, is there anything from san fran to Pittsburgh on or after September 1?
+Customer Service Agent (CSA): Travelling alone?
+Customer: You're right!
+Customer Service Agent (CSA): Do you have a budget?
+Customer: I only have 2800 left.
+Customer Service Agent (CSA): We have a 3.5 star hotel near a park, 8.86/10 guest rating, free parking, breakfast, and wifi, from September 2nd to 16th, business price is 1953.80, economy price is 1583.20.
+Customer: Are there any other options?
+Customer Service Agent (CSA): Only 2.5 star hotels.
+Customer: I guess the economy package at the 3.5 hotel will do.
+Customer Service Agent (CSA): Great! Have a splendid trip!
+Customer: Thanks! Much appreciated.
+

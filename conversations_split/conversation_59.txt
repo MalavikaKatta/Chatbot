@@ -1,0 +1,12 @@
+Customer: Hi i am planning my honeymoon for my wife and myself. I am looking for the best deal but it needs to be the best time! can you helo us?
+Customer Service Agent (CSA): Absolutely. Where would you like to go and from what city would you be departing?
+Customer: we’re getting married in San Jose and we want to leave on August 27th. we have already spent so much on the wedding and only have $2700 to sepnd
+Customer Service Agent (CSA): We do have a very nice package available with a departure date of August 27 to Montreal. This package includes free wifi, parking and breakfast and you would both fly on business class. The total cost of this package is within your budget at only $1156.55USD.
+Customer: is anything a little warmer perhaps?
+Customer Service Agent (CSA): From that city, I only have this package available. Are you able to leave from a different city?
+Customer: `Honestly we cant but that package seems fine as long as we will be together what activities or options does this package have?
+Customer Service Agent (CSA): Your package includes free wifi, parking and complimentary breakfast every morning.
+Customer: That sounds amazing thank you! and again how much will that be?
+Customer Service Agent (CSA): If you fly business class, the total cost will be 1156.55USD. Should I go ahead and book that for you?
+Customer: yes please that sounds amazing!
+

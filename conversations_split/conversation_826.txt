@@ -1,0 +1,9 @@
+Customer: Hi there
+Customer Service Agent (CSA): Hi how can I help you today?
+Customer: Looking to go from Melbourne to Paris. Have 2600 to spend on tickets for 9 adults
+Customer Service Agent (CSA): We do not have flight/hotel deals from Melbourne to Paris
+Customer: Do you do Paris to Melbourne?
+Customer Service Agent (CSA): Nor the other way around
+Customer: what about paris to tel aviv, same conditions
+Customer Service Agent (CSA): No flights from Paris to Tel Aviv either
+

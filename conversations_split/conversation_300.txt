@@ -1,0 +1,23 @@
+Customer: Hello! I want to book a trip for two adults and two children from August 25th to August 31st. We have several destinations in mind. Do you have any packages for Manaus?
+Customer Service Agent (CSA): I do but in order to provide you with the proper information, I would need to know your city of departure
+Customer: Oh yes! We will be flying out of Calgary
+Customer Service Agent (CSA): From Calgary to Manaus, within your dates, I only have one option that I can present you with. It would ba an 8 day package at the 2.5 star  Hotel Aquamarine River located near the shopping district. This option includes the usual amenities such as free parking, free wifi and free breakfast for the entire family.
+Customer: Does this hotel have good user reviews?
+Customer Service Agent (CSA): It is rated 6.77/10. Would you like me to look at other possibilities for you and your family flying out from Calgary?
+Customer: Yes, I have several destinations in mind. To compare the options can you tell me how much the Manaus trip would be? Another destination we are considering is Tokyo
+Customer Service Agent (CSA): If you flew vis economy class, the price would be 6988.7USD. If you chose to upgrade to business class, the price would be 8992.24USD. I regret that I have no flights to Tokyo out of Calgary.
+Customer: Ok thanks! How about to Minneapolis? We would be flying in economy
+Customer Service Agent (CSA): To Minneapolis, I have the 2.5 star rated Viridian Cottage Inn & Suites located near the park, mall and the Inca museum.  This package included free wifi, parking and breakfast for you and your party of 4. This is a 4 day package valued at 2662.13USD.
+Customer: That is too short for us, is that the only one you have for Minneapolis that fits our dates?
+Customer Service Agent (CSA): Regrettably, yes it is. Can I have a look at other destinations for you?
+Customer: The last place we were considering was Sao Paulo
+Customer Service Agent (CSA): Let me have a look at Sao Paulo for you. Anything in particular you would like me to look for?
+Customer: What do you mean?
+Customer Service Agent (CSA): Close to the museum, or near a park, or maybe near a beach? My earliest departure to Sao Paulo from Calgary is on Sept. 2nd.
+Customer: I see, well unfortunately our dates are not flexible. Could you please confirm the dates of the Manaus vacation?
+Customer Service Agent (CSA): That one was available from August 25th to August 31st. The package price for the Hotel Aquamarine River for 4 people was 6988.7USD.
+Customer: Alright thanks, I looked up other reviews and I think it will suit us, i'll book it!
+Customer Service Agent (CSA): Just to confirm, I will proceed with booking the Hotel Aquamarine River in Manaus for your party of 4, arriving from Calgary on August 25th and departing from Manaus on August 31st, all on economy class tickets at a price of $6988USD. Is this information correct to proceed with the booking?
+Customer: Yes that sounds good! Thank you for your help
+Customer Service Agent (CSA): You are welcome. We will send over confirmation. Have a good day.
+

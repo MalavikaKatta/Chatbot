@@ -1,0 +1,24 @@
+Customer: We are 3 adults and three kids looking for a vacation between August 18 and September 4
+Customer Service Agent (CSA): I have several different flights to Vancouver, Canada during this travel period.  Would you like to leave on the 19th or the 27th?
+Customer: How much does each option cost?
+Customer Service Agent (CSA): I have two options available for you: one costs $4253.69 and the other costs $5295.89.  Which one would you prefer?
+Customer: What kind of hotel is offered for each?
+Customer Service Agent (CSA): Both hotels are 4.0 star hotels with 8.8/10 ratings.
+Customer: What kind of flight is offered for each?
+Customer Service Agent (CSA): These are both Economy flights.
+Customer: I can increase my budget by $200, does that open up any new options?
+Customer Service Agent (CSA): No.  
+Customer: Are there any other flights to Vancouver leaving  around the same time from another departure city?
+Customer Service Agent (CSA): How do you feel about Dallas?
+Customer: I would like to depart from Baltimore
+Customer Service Agent (CSA): You can only go to Toronto, Calgary, or Kingston Canada from Baltimore.  Which would you prefer? Do you have preferred travel dates?
+Customer: Any time between August 18 and September 4.
+Customer Service Agent (CSA): I can offer you a 2.5 star hotel with a guest rating of 6.37/10 or a 3.0 star hotel with a guest rating of 8.86/10.  Which would you prefer?
+Customer: For which destination?
+Customer Service Agent (CSA): Kingston has the 2.5 star hotel and Toronto has the 3.0 star hotel.  Or I can offer you a 4.0 star hotel with a 0/10 rating if you would like to travel to Calgary.
+Customer: How much does each of these packages cost?
+Customer Service Agent (CSA): Package number #1 to Kingston costs $6251.33 USD, Package number #2 to Toronto costs $5695.54, and Package number #3 to Calgary costs $6494.94 USD.
+Customer: What class would I be flying in for each of these destinations?
+Customer Service Agent (CSA): All three flights are Economy flights.  If you would like a Business Class flight, I can offer you one to Calgary.  The cost of this travel package would be $8666.20 USD.  Would you like more information on this option?
+Customer: I would like to buy the Toronto package
+

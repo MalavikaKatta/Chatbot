@@ -1,0 +1,10 @@
+Customer: Get me on a flight to San Antonio, stat! I need to leave on September 1
+Customer Service Agent (CSA): From where?
+Customer: Kyoto. Get me the best hotel also
+Customer Service Agent (CSA): Do you have a budget?
+Customer: I want to keep it under $5500 if possible. But I'm flexible with return date
+Customer Service Agent (CSA): Travelling alone?
+Customer: Yes all by my lonesome
+Customer Service Agent (CSA): There are no flights from Kyoto to San Antonio in my database. Is there another destination you might want to go to?
+Customer: Its gotta be San Antonio man, damn Ok I'll look elsewhere
+

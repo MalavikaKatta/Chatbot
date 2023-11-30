@@ -1,0 +1,24 @@
+Customer: Hi! I'd like to go to Boston from Mos Eisley on August 15th.
+Customer Service Agent (CSA): Hey there! I'm having trouble finding trips to Mos Eisley for that date. How about a trip to Vancouver instead?
+Customer: Not Vancouver, anything for Porto Alegre?
+Customer Service Agent (CSA): Sure! I can book you 14 days in Porto Alegre, but you would leave August 18th. Is this ok?
+Customer: What about if I leave from Rome instead of Mos Eisley?
+Customer Service Agent (CSA): I can book you 6 days in Boston for 2390.12USD if you leave from Rome
+Customer: Is departure on the 15th of August?
+Customer Service Agent (CSA): Departure is on August 27th for that price.
+Customer: I need to leave on the 15th of August.
+Customer Service Agent (CSA): When would you like to return?
+Customer: I don't have a specific date in mind.
+Customer Service Agent (CSA): Do you have another departure option?
+Customer: nope.
+Customer Service Agent (CSA): Sorry, I have no trips to Boston leaving from those destinations on August 15th.
+Customer: What about Porto Alegre?
+Customer Service Agent (CSA): I have a trip to Porto Alegre that leaves from Rome on August 15th. It is 12 days long.
+Customer: How much is it?
+Customer Service Agent (CSA): 3334.98USD or 3344.57USD depending on the hotel.
+Customer: I should have mentioned earlier, we are 6 adults.
+Customer Service Agent (CSA): Oh! In that case, the cost ranges from 20009.92USD to 20067.46USD.
+Customer: That's way too much! I have a budget of 3700 USD!
+Customer Service Agent (CSA): Sorry, I cannot offer anything in Porto Alegre for 6 adults at that price.
+Customer: Ok, thank you for your help, friend.
+

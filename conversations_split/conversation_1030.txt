@@ -1,0 +1,10 @@
+Customer: hello i am going to go to baltimore some time between september 10th and september 24th
+Customer Service Agent (CSA): Where will you be leaving from?
+Customer: cleveland
+Customer Service Agent (CSA): Do you have a budget?
+Customer: i will spend whatever i need to
+Customer Service Agent (CSA): Will you be travelling alone?
+Customer: yes i am alone
+Customer Service Agent (CSA): We have one result. It is a 9 day stay from September 12th to 20th at a 3 star hotel. The hotel has a 7.06/10 guest rating and they offer free parking and wifi as well as complimentary breakfasts. The business flights included in the package would put the price to 838.20, for economy flights the price is 717.52.
+Customer: thank you
+

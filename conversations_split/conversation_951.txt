@@ -1,0 +1,18 @@
+Customer: Hello. Looking to travel out of Leon with a client
+I want to find a really nice hotel to impress him - have big business deals to close
+Customer Service Agent (CSA): Where would you like to go?
+Customer: Denver would be one choice. With an unlimited budget, can you describe the best trip money can buy?
+Customer Service Agent (CSA): When would you like to go?
+Customer: Anytime after September 6
+Customer Service Agent (CSA): Our best package is a 4 star hotel, 8.69/10 guest rating, free wifi, from September 9th to 21st, business class flights, 4214.99.
+Customer: Thats a good start. near the university?
+Customer Service Agent (CSA): My database doesn't tell me.
+Customer: ok great. lets check some other places in that case
+look into the best package in brasilia?
+Customer Service Agent (CSA): We have a 3.5 star hotel near a beach, theatre, and shopping, 8.69/10 guest rating, free parking, breakfast and wifi, September 10th to 19th, business flights, 6632.76.
+Customer: I like that its near the beach, but 3.5 star is a little low. Lets also check out Punta Cana then
+Customer Service Agent (CSA): We have a 3 star hotel.
+Customer: Ok book 2 adults business class to Denver
+Customer Service Agent (CSA): Done! Enjoy the trip!
+Customer: Excellent, thank you
+

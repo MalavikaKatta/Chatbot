@@ -1,0 +1,3 @@
+Customer: Do you have hotels in Jerusalem?
+Customer Service Agent (CSA): Sorry, no. 
+

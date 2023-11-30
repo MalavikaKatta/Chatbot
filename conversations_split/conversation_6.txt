@@ -1,0 +1,16 @@
+Customer: Hey, i Want to go to St. Louis on the 17th of August
+Customer Service Agent (CSA): For how many days?
+Customer: I need to back by the 31st
+Customer Service Agent (CSA): What will your departure city be?
+Customer: I’m from Calgary
+Customer Service Agent (CSA): I have a direct flight leaving from Calgary on August 18 and returning on August 28th. Does that work for you?
+Customer: Yes that sounds perfect may you please tell me about the destination place
+Customer Service Agent (CSA): It is the Glorious Cloak inn hotel in St. Louis. It has a 3-star rating.
+Customer: That sounds lavish, what type of flight would that be?
+Customer Service Agent (CSA): You would be flying business class, for a grand total of only $1858.14
+Customer: Are there any possible flights with economy class?
+Customer Service Agent (CSA): I have a package at the Lunar whcih has a 5 star rating on an economy class flight on the same dates for $1558.00
+Customer: that sounds even better.
+Customer Service Agent (CSA): This deal includes free breakfast and free wifi. Would you like me to book it for you?
+Customer: Yes please, that sounds wonderful. thank you
+

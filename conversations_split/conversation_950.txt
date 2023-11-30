@@ -1,0 +1,11 @@
+Customer: can u book a couple adults out of alexandria? send em anywhere i dont care. sept 16 until the 29th
+Customer Service Agent (CSA): I have several choices for your destination, it will all depend on the amount you would like to spend.
+Customer: 2700 i got saved up, make it count
+Customer Service Agent (CSA): We have the 5 star The Bronze Luxury Hotel in Sacramento available between Sept 16 and Sept 29th.  How does that sound?
+Customer: 5 stars, my parents are gonna go for that. what amenities are included. and how much is it gonna cost me
+Customer Service Agent (CSA): They will get free breakfast everyday and their wifi use is included. Not only is this hotel a 5 star rated hotel, it also has a perfect 10/10 guest rating. This is one of the best properties available to us. The total cost for this 14 day package is 2624.99USD, everything included.
+Customer: yea go for it, book it
+Customer Service Agent (CSA): The price I quoted you is based on business class seats. I can save you money if we book economy at a total cost of 2203.43USD. Would you prefer that?
+Customer: oh heck yeah!! economy - I need the money
+Customer Service Agent (CSA): I will book the package on economy class then. Thank you for shopping.
+

@@ -1,0 +1,20 @@
+Customer: hiya
+Customer Service Agent (CSA): Hello! How can I be of service?
+Customer: my wife and i have wanted to take our boy somewhere new for a long time now
+Customer Service Agent (CSA): Ok! Where were you thinking
+Customer: we've saved up 3700 and have a break between sept 8 to 22. thinking of going to kochi, from sao paulo
+Customer Service Agent (CSA): I’m sad to say that we don’t offer direct packages from Sao Paulo to Kochi. Could I try another location for you?
+Customer: Sao Paulo to...Frankfurt?
+Customer Service Agent (CSA): I’m sorry but there is nothing within your budget.
+Customer: What if I increased the budget by 1000?
+Customer Service Agent (CSA): The cheapest price I have is 5646.94USD
+Customer: That is rough. How about...Sao Paulo to Athens?
+Customer Service Agent (CSA): I am sorry.. 5555.10USD is my best price
+Customer: This is devastating news. Ok just for the sake of information
+Can you tell me a little more about that trip?
+Customer Service Agent (CSA): Sure! The Athens hotel would be near a mall, a 3 star rating. It has free parking and free wifi and the trip extends from September 8th until 15th
+Customer: Whats the name of this hotel?
+Customer Service Agent (CSA): The hotel is called Lunar Jewel Lodge.
+Customer: Ok cool
+Customer Service Agent (CSA): Sure thing :slightly_smiling_face:
+

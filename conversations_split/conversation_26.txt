@@ -1,0 +1,13 @@
+Customer: Hi. I live in Busan and I'd like to go to Las Vegas from Wednesday August 17 to Monday September 5. What's available?
+Customer Service Agent (CSA): I can get you 7 days in Vancouver, Canada for 2742.44USD. Does this interest you?
+Customer: Perhaps another time, I'm really just looking for Las Vegas.
+Customer Service Agent (CSA): Do you have a budget in mind?
+Customer: Around 3000USD
+Customer Service Agent (CSA): You can book 10 days in Cairo for 2532.89USD. I cannot find anything in Las Vegas, within your budget.
+Customer: How much is a package to Punta Cana?
+Customer Service Agent (CSA): I can book 12 days in Punta Cana for 3506.84USD.
+Customer: I'd like to compare the Cairo and Punta Cana packages. What are the hotels, how many stars, free wifi, free breakfast?
+Customer Service Agent (CSA): In Cairo you would be staying at Mellow Horizon Inn & Suites. It has a 3.0 star rating with free wifi, breakfast, and parking. In Punta Cana you would be staying at Atlantis Gorge. It has a 2.5 star rating with free wifi and breakfast.
+Customer: I'd like to book the Cairo package. Thank you!
+Customer Service Agent (CSA): Ok, I will book this package. Enjoy your trip.
+

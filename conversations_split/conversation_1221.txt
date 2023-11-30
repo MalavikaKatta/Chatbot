@@ -1,0 +1,19 @@
+Customer: my assistant and I want to get to ciudad juarez over the next couple weeks to take care of a little chihuahua
+Customer Service Agent (CSA): Where are you coming from and when exactly would you like to go
+Customer: between the 9th and the 23rd of september; and i can leave from anywhere
+Customer Service Agent (CSA): What's your budget?
+Customer: uunder 3200 please
+Customer Service Agent (CSA): Okay, our best accommodation in Ciudad Juarez is a 3.5 star hotel next to a palace. It is rated 8.8/10 by guests and offers free wifi, breakfast, and parking.
+Customer: there is no park nearby though is there?
+Customer Service Agent (CSA): My database does not indicate that it is near a park.
+Customer: are there any other ones?
+Customer Service Agent (CSA): There is one other. A 3 star hotel near a market with the same amenities. No mention of it being near a park.
+Customer: can you check Naples in that case
+Customer Service Agent (CSA): In Naples we have a fantastic 4 star hotel with 8.86/10 guest ratings. No hotels near a park though, unfortunately.
+Customer: Atlanta
+Customer Service Agent (CSA): In Atlanta we actually have a 3.5 star beachside hotel near the park. You can stay up to 10 days and enjoy free parking and free wifi during your stay.
+Customer: i meant to say that sounds perfect! beach AND park
+Customer Service Agent (CSA): You can be there for 10 days for 1831.46 if you leave from Baltimore. Does that work for you? Otherwise I have other departure cities available too.
+Customer: let's book :wink:
+Customer Service Agent (CSA): Consider it done! You'll be there from the 14th to the 23rd. Have a great trip :slightly_smiling_face:
+

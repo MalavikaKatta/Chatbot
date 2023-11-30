@@ -1,0 +1,17 @@
+Customer: I need to impress some clients with an extravagant trip
+Customer Service Agent (CSA): Of course! Where would you like to go?
+Customer: I was thinking I'd wine and dine them in Kochi. Do you have flights there from Montreal?
+Customer Service Agent (CSA): Do you have a budget?
+Customer: nope, the more I spend the better actually
+Customer Service Agent (CSA): Great! How many people in total will be travelling?
+Customer: 2 adults
+Customer Service Agent (CSA): When would you like to leave?
+Customer: I'd like to leave after today
+Customer Service Agent (CSA): We don't have any flights from Montreal to Kochi, is there another destination you have in mind?
+Customer: Phoenix then?
+Customer Service Agent (CSA): No results for this either.
+Customer: Philadelphia??
+Customer Service Agent (CSA): Nothing available
+Customer: do you even do flights out of Montreal??
+Customer Service Agent (CSA): Yes we do but none that fly from there to your destinations.
+

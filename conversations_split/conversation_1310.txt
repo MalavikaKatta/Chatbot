@@ -1,0 +1,22 @@
+Customer: We must go to Atlanta!
+Customer Service Agent (CSA): Ok, sure thing! Where from?
+Customer: San Juan.
+Customer Service Agent (CSA): And how many of you will be travelling?
+Customer: 7 full size and 3 mini size
+Customer Service Agent (CSA): Ok! I have a few different hotels available. September 12-25, 13-26, 14-October 3rd or September 17- October 3.
+Customer: Can you show me the best packages you've got? Although keep it under 21100 please.
+Customer Service Agent (CSA): The highest rated hotel would be from September 14th-October 3rd at a 3.5 star hotel near a park and beach. This hotel has both free wifi and free breakfast.
+Customer: And how did previous guests like it?
+Customer Service Agent (CSA): It is unrated by guests.
+Customer: How's the other hotel?
+Customer Service Agent (CSA): There are two other hotels - both are 3 stars, one with a 7.15/10 from users and the other with 8.37/10.
+Customer: Can you tell me more about the 8.37/10 one?
+Customer Service Agent (CSA): Absolutely - that’s the Crown Plaza Hotel. It has free parking and free wifi.
+Customer: Will any other packages show up if I increase my budget by 1500?
+Customer Service Agent (CSA): Everything is already far below your budget.
+Customer: You know what, I will take the 3.5 star then. Are business flights available?
+Customer Service Agent (CSA): They are! The total price would be 11457.68USD.
+Customer: Okay let's book it!
+Customer Service Agent (CSA): Wonderful - I will email booking confirmation to you shortly. Enjoy your stay!
+Customer: Thanks!
+

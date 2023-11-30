@@ -1,0 +1,21 @@
+Customer: Well you start by booking me from Belem to Rome. My dates are flexible.
+Customer Service Agent (CSA): Great! And will you be travelling alone?
+Customer: Yes, if you don't count my legions of groupies and stalkers.
+Customer Service Agent (CSA): I have packages available ranging from September 2nd until the 17th. Do you have a preference for your length of stay?
+Customer: I only prefer that you put me in the poshest hotel in town.
+Customer Service Agent (CSA): I have several 4.0 star hotel options for you. Would you like me to narrow them down for you by amenities, location, or user review rating perhaps?
+Customer: 4 star? you're doing me dirty here, but sure, fine. which one is best rated by its guests?
+Customer Service Agent (CSA): The Double Pastures has been rated at 8.98/10 stars by previous guests.
+Customer: But what amenities?
+Customer Service Agent (CSA): Free breakfast and free wifi.
+Customer: No spa?
+Customer Service Agent (CSA): No spa :disappointed:
+Customer: Alright whatever I guess. Short on time here: I'll take it
+Customer Service Agent (CSA): Would you like to book economy flights?
+Customer: Is that some kind of sick joke? NO, of course not! First class if you have it, if not then business
+Customer Service Agent (CSA): I have business class flights available! For 3610.79USD
+Customer: What dates would this be for?
+Customer Service Agent (CSA): September 6th to 11th
+Customer: That will do. Book it already!!!
+Customer Service Agent (CSA): Done :slightly_smiling_face: Thank you for using our services.
+

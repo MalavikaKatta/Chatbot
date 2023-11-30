@@ -1,0 +1,22 @@
+Customer: I need to get to Osaka from Dallas so I can find Mewtwo, he's the last one I need to find and I heard he was spotted in Osaka.
+Customer Service Agent (CSA): I have an 11 day package at the 4 star Aquamarine Majesty Hotel from September 22-October 1.
+Customer: Those dates are great for my schedule. Can you tell me more about the hotel tho?
+Customer Service Agent (CSA): Great! This hotel is near a park and a museum, it has free parking and free wifi, and it has received a 8.69/10 guest rating.
+Customer: good good. I also heard Mewtwo was spotted somewhere in Phoenix. Can you check there for me too?
+Customer Service Agent (CSA): In Phoenix I have two different 2.5 star hotels.
+Customer: Okay what are they close to?
+Customer Service Agent (CSA): The Prism is near a museum and airport.
+Customer: What is the other one close to?
+Customer Service Agent (CSA): I do not have information on nearby points of interest for Lunar Valley hotel.
+Customer: What are the hotels guest ratings?
+Customer Service Agent (CSA): 7.06 and 8.69, respectively.
+Customer: Okay well I think I like the hotel that is close to the museum and airport anyway. Can you tell me more about it?
+Customer Service Agent (CSA): It has free breakfast, parking, and wifi.
+Customer: Great.I like the first package you told me about in Osaka. I would like to book it please.
+Customer Service Agent (CSA): Ok, sure thing! For one adult? Economy class or business?
+Customer: 2 adults and how much is business?
+Customer Service Agent (CSA): Two adults in business class would cost 10254.20USD.
+Customer: Okay book it!
+Customer Service Agent (CSA): Great - I will proceed with booking. Enjoy your stay!
+Customer: Thanks!
+

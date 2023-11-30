@@ -1,0 +1,21 @@
+Customer: Everyone in Europe is raving about this artisanal bratwurst they’re serving up in Hamburg, and I must get myself other there as soon as I can to blog about it! Do you offer flights there out of Seattle?
+Customer Service Agent (CSA): I sure do! When do you want to travel?
+Customer: ASAP, but otherwise dates are flexible
+budget is 3800
+Customer Service Agent (CSA): Great! I have a package leaving on August 31 until September 11. The cost is 2157 dollars
+Customer: Oh nice I’m just going to check my other travel options for something cheaper
+such as…Santos to Hamburg?
+Customer Service Agent (CSA): There is nothing cheaper.
+Customer: Now if I really wanted to pinch pennies, I could also just travel to St. Louis instead
+Customer Service Agent (CSA): From Santos?
+Customer: From Seattle
+Customer Service Agent (CSA): You could go from August 31st to September 16th for $532, at a 5 star hotel!
+Customer: That is dirt cheap! I could just splurge on my meals instead. What kind of hotel do you have?
+As in, tell me more about the 5 star
+Customer Service Agent (CSA): 5 stars, as I said.
+Customer: Amenities?
+Customer Service Agent (CSA): Free breakfast and free wifi are included.
+Customer: Ok lets do that
+Customer Service Agent (CSA): Ok! I’ll book it for you.
+Customer: Thanks!
+

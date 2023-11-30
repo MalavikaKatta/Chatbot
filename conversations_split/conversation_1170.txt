@@ -1,0 +1,8 @@
+Customer: Hello! I need to go to Minneapolis please.
+Customer Service Agent (CSA): Where are you coming from?
+Customer: Tofino
+Customer Service Agent (CSA): I regret to inform you that we don't offer any trips out of Tofino. Is it possible to leave from another city?
+Customer: No it's not
+Customer Service Agent (CSA): Very sorry I will not be able to help you then.
+Customer: No worries
+

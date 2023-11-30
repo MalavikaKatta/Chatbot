@@ -1,0 +1,19 @@
+Customer: Hey! I need to book a flight asap. I can leave tomorrow or any day after
+Customer Service Agent (CSA): where do you need to go?
+Customer: Kingston. Leaving from Dublin
+Customer Service Agent (CSA): For one adult?
+Customer: Exactly
+Customer Service Agent (CSA): Our soonest available flight departing Dublin to Kingston departs on the 6th of September and includes a 9 day stay. Would that be appropriate for you?
+Customer: Will there be earlier flights if I leave from Mexico City?
+Customer Service Agent (CSA): The earliest flight I have leaving Mexico City destination Kingston is also on September 6 and that package includes a 5 day stay.
+Customer: Okay, what about from  Dublin to San Diego, are there earlier flights?
+Customer Service Agent (CSA): I have none from Dublin to San Diego
+Customer: Anything for Mexico City to San Diego by any chance?
+Customer Service Agent (CSA): Sept 6th departure is the earliest departure Mexico City destination San Diego and includes a 5 day stay.
+Customer: Well then, I will go directly from Dublin to Kingston then! How much will it cost?
+Customer Service Agent (CSA): I have 2 choices departing on the 6th - the 3 star Exalted Raven B&B for 666.28USD based on a 9 day package and is ONLY availabe with a business class upgrade or the 3.5 star Golden Excalibur Hotel for $577.72USD based on an economy class flight, also available on business for $673.74USD
+Customer: My preference would be the Golden Excalibur Hotel for $577.72USD.
+Customer Service Agent (CSA): Should I proceed with the booking then?
+Customer: Absolutely! Thank you!
+Customer Service Agent (CSA): Booked! Have a nice day!
+

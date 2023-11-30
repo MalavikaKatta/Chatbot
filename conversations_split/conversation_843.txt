@@ -1,0 +1,26 @@
+Customer: I have 9 days for vacation. I'm from atlanta and i'd like to leave on or after september 8th
+Customer Service Agent (CSA): What is your ideal budget?
+Customer: i dont have one
+Customer Service Agent (CSA): Any general idea where you want to go?
+Customer: nope
+Customer Service Agent (CSA): Do you need to get back by a certain day?
+Customer: no
+Customer Service Agent (CSA): Alrighty, I have trips to Berlin, Baltimore, Maceio, Seattle, and San Antonio.
+Customer: Can you give me information for your best package in Berlin
+Customer Service Agent (CSA): We have a 9 day package at a 5.0 star hotel (rated 8.8/10 by guests), nearby a museum and with free wifi & breakfast.
+Customer: great, can you give me info on your best package in Baltimore
+Customer Service Agent (CSA): We only have one hotel in Baltimore. It is a 3.0 star hotel with 7.06/10 guest rating. There is free parking, free breakfast, and free wifi. We offer 9 and 4 day packages here.
+Customer: What is your best package for Maceio
+Customer Service Agent (CSA): Maceio 's best is a 3.5 star hotel right by a park, a market, and a theater. It has been rated 8.8/10 by guests and provides free wifi and breakfast. We offer 8 day packages here.
+Customer: What is the best you have for Seattle
+Customer Service Agent (CSA): That would be a 5.0 star hotel with 8.8/10 guest rating. We've got a 9 day package here and you get free parking and convenient access to the airport.
+Customer: Okay what is the best in san antonio
+Customer Service Agent (CSA): The best option is a 2 star hotel.. it has 7.15/10 ratings though. It's also close to a park, a museum, a mall, and offers free wifi, parking, and breakfast.
+Customer: i like the option for Seattle
+Customer Service Agent (CSA): Great! I have the business package for 2110.58 and the economy package for 1709.68.
+Customer: Sure ill take the business package please
+Customer Service Agent (CSA): It has been reserved for you! Anything else I can do for you today?
+Customer: no. can you send me the info tho so i dont forget the information for the trip
+Customer Service Agent (CSA): Sure thing, it is a 9 day business package from September 10-18 at The Emerald (5.0 stars, rated 8.8/10). The hotel offers free parking and convenient access to the airport. You will be charged for a total of $2110.58 for this trip.
+Customer: thanks bye
+

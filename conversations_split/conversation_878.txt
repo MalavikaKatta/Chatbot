@@ -1,0 +1,22 @@
+Customer: Hi there. We are three adults trying to get from Frankfurt to check out some of the hippest cities on earth
+Customer Service Agent (CSA): Okay! Do you have a budget?
+Customer: I do, 9200 for all of us
+Customer Service Agent (CSA): Do you know when you'd like to leave?
+Customer: Some time between Aug 31 and Sept 8
+Customer Service Agent (CSA): We have an awesome business flight to Ulsan for 7763.68. This is a 5 star hotel near a park, shopping, and mall. They have a 8.8/10 guest rating and they offer free parking and wifi. This package is from August 31st to September 8th!
+Customer: Thats really great actually. But could you check Tokyo for us. We read something about it in GQ
+Customer Service Agent (CSA): We have one result for Tokyo at a 3 star hotel near a museum and shopping. They have a 6.77/10 guest rating and offer a spa and free wifi. The trip is from September 2nd to 6th, it is an economy flight and costs 8681.73.
+Customer: Oh nice. How about Calgary?
+Customer Service Agent (CSA): We have a 4 star hotel near a university, they have a 0/10 guest rating, and offer free parking and wifi. The trip is from September 2nd to 7th. The business package costs 6077.55 and the economy package costs 4557.29.
+Customer: 0/10???
+Customer Service Agent (CSA): Correct.
+Customer: That actually sounds very hip to us, I love it
+Customer Service Agent (CSA): Would like to book one of these packages?
+Customer: Whats the name of this hotel? The Calgary one that is
+Customer Service Agent (CSA): Amusement
+Customer: Ok yes lets book it
+Customer Service Agent (CSA): Great! Would you like business flights or economy flights?
+Customer: economy would be good enough for us
+Customer Service Agent (CSA): Okay great! Your trip is booked and you will receive a confirmation email shortly! Have fun!
+Customer: Thanks!!
+
