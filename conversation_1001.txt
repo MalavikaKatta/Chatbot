@@ -1,0 +1,14 @@
+Customer: 7 business class flights to Mexico City
+Customer Service Agent (CSA): Where are you leaving from?
+Customer: Las Vegas
+Customer Service Agent (CSA): When do you want to leave?
+Customer: Anytime really
+Customer Service Agent (CSA): Do you have a budget?
+Customer: But what matters to us is we ball out at 5 star hotels, get snapped by the paps, and rub shoulders with the stars. no budget obviously
+Customer Service Agent (CSA): We don't have any 5 star hotels available.
+Customer: What about in Chicago then?
+Customer Service Agent (CSA): None here either.
+Customer: Kingston??
+Customer Service Agent (CSA): There are no 5 star hotels here either.
+Customer: Thanks anyway
+
