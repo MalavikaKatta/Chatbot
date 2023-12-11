@@ -1,7 +1,0 @@
-Customer: Guess what? I'm a recently married person looking for a honeymoon package from osaka to manaus!
-Customer Service Agent (CSA): Manaus sounds like an excellent choice! Do you have a budget in mind?
-Customer: yeah we have 6300 dollars left over after the wedding
-Customer Service Agent (CSA): I'm afraid we do not have any packages to offer you at that price. Is there any chance you can stretch your budget?
-Customer: its all we have... can it get us to burlington instead?
-Customer Service Agent (CSA): Not at that price, I'm afraid. Sorry.
-

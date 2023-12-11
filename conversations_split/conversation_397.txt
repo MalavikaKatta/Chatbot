@@ -1,5 +1,0 @@
-Customer: I want to go to Jerusalem to Ulsan. I am bringing 11 adults and 14 children and i will spend at most, 3100.
-Customer Service Agent (CSA): Hi, I dont have anything at that price range
-Customer: I guess I can increase my budget by 1000
-Customer Service Agent (CSA): Sorry, I dont have anythnig
-

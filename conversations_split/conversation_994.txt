@@ -1,9 +1,0 @@
-Customer: Las Vegas to Mexico City for 7 please
-Customer Service Agent (CSA): I have packages ranging from 8 days to 12 days, any preference?
-Customer: I prefer the one that lands us a stay at a five star hotel
-Customer Service Agent (CSA): Highest rated hotel I have available in Mexico City is a 3.5 star
-Customer: Lets try Rome then
-Customer Service Agent (CSA): Highest rated hotel I have in Rome is a 4 star. Are you inetrested in these?
-Customer: You have a flagship hotel for us in Fortaleza?
-Customer Service Agent (CSA): 3 star is our highest in Fortaleza
-

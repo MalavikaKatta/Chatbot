@@ -1,8 +1,0 @@
-Customer: I need your help to book my family a trip from Kabul to Seoul. What's the cheapest you've got?
-Customer Service Agent (CSA): Unfortunately, I haven't got any flights fitting those parameters. Do you have any other destinations in mind?
-Customer: Any options for airports nearby?
-Customer Service Agent (CSA): We don't have any flights out of Kabul. Is there any chance you could change your city of departure?
-Customer: No I don't think we can leave from anywhere else
-Customer Service Agent (CSA): Sorry to hear! Is there anything else I can help you with today?
-Customer: No it's alright! thanks though!
-

@@ -1,9 +1,0 @@
-Customer: Hi, do you have flights out of Tel Aviv?
-Customer Service Agent (CSA): For one person? Any travel dates in mind?
-Customer: Nope, I wish! I will be dragging 4 other adults with me. No set dates specifically..
-Customer Service Agent (CSA): It seems we have no flights out of Tel Aviv. Can I search other departure cities for you?
-Customer: Darn it, okay I can also leave from Beijing
-Customer Service Agent (CSA): I'm not showing any results out of Beijing either,
-Customer: That is very unfortunate. Thanks for your help though!
-Customer Service Agent (CSA): You are welcome
-

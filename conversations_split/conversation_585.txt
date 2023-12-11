@@ -1,8 +1,0 @@
-Customer: hello my little pet. i have a little angel to see to in phoenix and i may leave from anywhere
-Customer Service Agent (CSA): Destination - Phoenix? Departure - ?
-Customer: i must travel between september seventh and seventeenth and with 1100 dollars at the most. i will depart from St. Louis i suppose
-Customer Service Agent (CSA): We do not fly from St. Louis to Phoenix
-Customer: oh no! what about to atlanta?
-Customer Service Agent (CSA): From St. Louis?
-Customer: yes
-

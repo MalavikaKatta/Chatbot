@@ -1,9 +1,0 @@
-Customer: I need to be in Cleveland at some point between September 6 to 16. Burlington being the point of departure
-Can you do this for 2100?
-Customer Service Agent (CSA): I absolutely can! I have the Pleasant Court Inn available from September 6-13 or 7-16. Have you got a preference?
-Customer: yes, book me for the longer of the two please
-Customer Service Agent (CSA): Sure! I can book business class flights for 1285 dollars or economy for 1051.
-Customer: since the prices are so reasonable, lets get me on the business class
-Customer Service Agent (CSA): Sure! I will book that for you
-Customer: thank you
-

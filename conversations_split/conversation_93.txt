@@ -1,7 +1,0 @@
-Customer: Hello, I'd like to book a trip to Mos Eisley from Hogsmeade on August 13.
-Customer Service Agent (CSA): Hello, the origin and destination do not show up in our system. Are there any other destinations you are interested in?  When will you be travelling?
-Customer: I'd consider travelling to Coruscant with 12 adults on a budget of $2900, leaving on August 13 from Hogsmeade.
-Customer Service Agent (CSA): I apologize, but I cannot accommodate this request either.
-Customer: That is very unfortunate. Thank you.
-Customer Service Agent (CSA): Thank you and sorry we let you down.
-

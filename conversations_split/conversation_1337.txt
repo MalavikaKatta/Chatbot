@@ -1,9 +1,0 @@
-Customer: Hi there, I NEED to go to Miami!
-Customer Service Agent (CSA): Ok :slightly_smiling_face: Where from?
-Customer: Queenstown. It'll be 9 adults and 2 kids
-Customer Service Agent (CSA): I can’t find anything to Miami with that many people. Can I try another destination for you?
-Customer: What? No, Miami is the place I need to get to! There's amazing pastry recipes at stake! Are you sure about this?
-Customer Service Agent (CSA): Can you leave from somewhere by chance?
-Customer: No, there's too many of us. I think I'm going to have to use another service. Goodbye.
-Customer Service Agent (CSA): Sorry. Good luck
-

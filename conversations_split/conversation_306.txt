@@ -1,8 +1,0 @@
-Customer: hey, I want to get myself to Porto Alegre from Toronto for less than $3900
-Customer Service Agent (CSA): I can book you 5 days in Porto leaving from Toronto for 2689.45USD.
-Customer: what about valencia
-Customer Service Agent (CSA): 8 days in Valencia would cost you 2012.95USD.
-Customer: ok and calgary? 2 adults and 3 children.
-Customer Service Agent (CSA): Ok! In that case I can book you 8 days in Calgary for 1103.38USD
-Customer: i have a 3900 budge
-

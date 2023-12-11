@@ -1,7 +1,0 @@
-Customer: I want to take a trip from Diagon Alley to Naples.
-Customer Service Agent (CSA): Unfortunately I do not have any flights from Diagon Alley. Are there any other nearby city?
-Customer: nope. is there anything to Las Vegas from Diagon Alley?
-Customer Service Agent (CSA): No, sorry, I have no flights from Diagon Alley in my database.
-Customer: oh okay. thanks anyway.
-Customer Service Agent (CSA): I hope that you will return to use our services for your next booking. Have a good day.
-

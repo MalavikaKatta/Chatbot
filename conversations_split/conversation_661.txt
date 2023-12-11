@@ -1,9 +1,0 @@
-Customer: Hello there I am looking for a travel package departing from Tofino on or after August 29. I would like to go to Calgary with a party of fourteen adults.
-Customer Service Agent (CSA): Hello, I have nothing that matches your request. Can I look for other destinations?
-Customer: I can leave from Kabul if need be
-Customer Service Agent (CSA): I have nothing available from Kabul but should you want to leave from Sacramento I definitely have packages.
-Customer: nah I can’t do that. What about Washington with 7 adults?
-Customer Service Agent (CSA): Washington to Calgary for seven?
-Customer: Sure
-Customer Service Agent (CSA): Nothing available from Washington to Calgary
-

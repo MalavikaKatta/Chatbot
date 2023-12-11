@@ -1,9 +1,0 @@
-Customer: Hello, I'm looking to book a trip for two from Puebla to Hamburg
-Customer Service Agent (CSA): I can help you with that! Any dates in mind?
-Customer: The date doesn't matter; i just need to pay less than $1400. $1300*
-Customer Service Agent (CSA): Unfortunately the cheapest package I can offer you is 2814.82USD. Did you have any other destinations in mind?
-Customer: Okay that definitely does not work. How much would it cost to leave from Guadalajara instead?
-Customer Service Agent (CSA): It would be significantly cheaper, however it would still be over your budget :disappointed:
-Customer: What if I were to increase my budget to $1700. Would you be able to find me anything departing from Puebla at that price point?
-Customer Service Agent (CSA): The best deal I can offer you would be 1819.63USD for Guadalajara to Hamburg.
-

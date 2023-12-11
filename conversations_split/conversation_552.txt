@@ -1,8 +1,0 @@
-Customer: I AM PAPARAZZI. Kingston to Toluca. How much
-Customer Service Agent (CSA): Our 8 day package to Toluca starts at 1969.40USD and our 11 day one at 1669.7USD.
-Customer: Ok but mind you, I need a nice hotel. The best
-Customer Service Agent (CSA): Both these packages are at the Apex Hotel , a 3.5 star hotel. It is the only one we have available at the moment.
-Customer: Man I dont know. Are there better hotels in Toluca in your database, if I change parameters?
-Customer Service Agent (CSA): That really is the only one we have available.
-Customer: Ok I will need to sleep on this
-

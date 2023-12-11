@@ -1,7 +1,0 @@
-Customer: you do flights from North Vancouver to Washington?
-Customer Service Agent (CSA): Will you be travelling as one?
-Customer: I will indeed.
-Customer Service Agent (CSA): What date would you like to arrive in Washington?
-Customer: I’d want to get there on August 29 or right after
-Customer Service Agent (CSA): Regretfully, we do not have any flights from North Vancouver to Washington. Can I help you with other destinations?
-

@@ -1,8 +1,0 @@
-Customer: I'd like to find a vacation from Kabul to Santiago for 1800. I dont care when i go and it's just me traveling
-Customer Service Agent (CSA): Hello
-Customer: Hey
-Customer Service Agent (CSA): I apologize, we do not fly out of Kabul
-Customer: Is there anything from Kabul to Philadelphia? I can increase my budget by $400.
-Customer Service Agent (CSA): I apologize, we do not fly out of Kabul, do you have any other departure city?
-Customer: no i dont...thats okay tho, I'll come back another time. Thanks
-

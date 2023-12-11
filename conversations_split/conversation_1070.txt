@@ -1,9 +1,0 @@
-Customer: santiago
-Customer Service Agent (CSA): Is that your departure?
-Customer: no i want to go. i leave seattle
-Customer Service Agent (CSA): when?
-Customer: 24 until 27 of september
-Customer Service Agent (CSA): Can your dates be flexible at all? I have earlier departures.
-Customer: no they are not flexible. you have nothing for me?
-Customer Service Agent (CSA): Not during those dates
-

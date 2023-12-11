@@ -1,5 +1,0 @@
-Customer: hello! I'd like to book something for myself. i have quite a few vacation days coming up
-Customer Service Agent (CSA): What type of trip are you looking for?
-Customer: i'm looking for a cross globe tour. from philadelphia to hiroshima
-Customer Service Agent (CSA): We do not have any travel packages available from Philadelphia to Hiroshima
-

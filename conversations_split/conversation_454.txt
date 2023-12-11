@@ -1,9 +1,0 @@
-Customer: Book me Jerusalem to Salvador, between August 24 and August 27. 12 adults
-Customer Service Agent (CSA): Do you have a budget?
-Customer: 2800
-Customer Service Agent (CSA): We have an 8 days trip and a 6 days trip
-Customer: Do you have anything shorter?
-Customer Service Agent (CSA): no i am sorry, not from Jerusalem to Salvador
-Customer: Ok you know what, I'll take the 6 day trip then. Book it, bot
-Customer Service Agent (CSA): We actually dont have anything from Jerusalem to Salvador
-

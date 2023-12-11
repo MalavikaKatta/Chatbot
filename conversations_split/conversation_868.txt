@@ -1,8 +1,0 @@
-Customer: I am a world-renowned pastry chef and I need to travel to St. Petersburg - stat!
-Customer Service Agent (CSA): Sure thing! Where will you be leaving from?
-Customer: I live in Goiania. I will be travelling with my 2 lawyers, 2 wives and my 14 children.
-Customer Service Agent (CSA): I’m sorry, I can’t find anything available to St. Petersburg for this many people.
-Customer: I am willing to pay up to $5200 if need be, but you have to get me there!
-Customer Service Agent (CSA): I’m sorry.. that doesn’t change the fact that I cannot yield any results with this many people.
-Customer: Fine I will try your competition then GOODBYE
-

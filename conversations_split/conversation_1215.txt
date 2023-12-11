@@ -1,7 +1,0 @@
-Customer: I want to fly from Jerusalem to Rio de Janeiro
-Customer Service Agent (CSA): I'm afraid we don't have any flights from Jerusalem available. Would you like to leave from another city?
-Customer: No
-Customer Service Agent (CSA): I'm sorry I cannot be of more service to you.
-Customer: Goodbye
-Customer Service Agent (CSA): Thanks for stopping by!
-

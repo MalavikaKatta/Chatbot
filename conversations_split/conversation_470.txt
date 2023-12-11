@@ -1,8 +1,0 @@
-Customer: Good day. I live in Kabul and I want to take my extended family on a holiday
-Customer Service Agent (CSA): where would you like to go?
-Customer: Fort Lauderdale. Its for me and my 11 brothers and sisters and our 4 kids
-Customer Service Agent (CSA): We do not fly out of Kabul
-Customer: But what if I offered you 2800, then what could you do for me? I'm sure for that offer you can make something work
-Customer Service Agent (CSA): We do not fly out of Kabul
-Customer: not impressed
-

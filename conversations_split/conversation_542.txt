@@ -1,5 +1,0 @@
-Customer: I need to get from Sacramento to Osaka on Sept 1
-or shortly thereafter
-Customer Service Agent (CSA): Osaka is not a destination that we have packages in from your departure city.
-Customer: Then I will take my search elsewhere
-

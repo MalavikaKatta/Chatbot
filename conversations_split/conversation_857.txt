@@ -1,7 +1,0 @@
-Customer: I want to go on a vacationg from september 18th to september 22nd to Monterrey from Curritiba for under 3100
-Customer Service Agent (CSA): Sure! Are you travelling alone?
-Customer: ya
-Customer Service Agent (CSA): I have no trips available returning by the 22nd of September
-Customer: none at all? Why?
-Customer Service Agent (CSA): None, sorry.
-

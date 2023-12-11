@@ -1,9 +1,0 @@
-Customer: Hi! Can you help me book a family vacation? Great! I'm looking to book a trip for 7 adults and 6 kids. We live in Campinas and we are going to Berlin. What options can you offer me?
-Customer Service Agent (CSA): When would you like to depart?
-Customer: We don't have specific dates in mind yet but we would like a holiday that is over a week long
-Customer Service Agent (CSA): I have only 5 star hotels available. How much do you have to allocate to this trip?
-Customer: We want to spend at most 29000
-Customer Service Agent (CSA): I apologize but after double checking I realize that I do not have any direct flight s from Campinas to Berlin. Is there anywhere else you would like to go?
-Customer: No, we are specifically looking to book a trip to Berlin.  Thank you, I'll try going through other agencies.
-Customer Service Agent (CSA): I apologize for any inconvenience. Have a nice day.
-

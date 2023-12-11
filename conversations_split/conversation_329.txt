@@ -1,9 +1,0 @@
-Customer: Hi I am the happy father of one children.I need to book a trip to Santos from Philadelphia with a 1900 budget
-Customer Service Agent (CSA): Will it just be you and your child?
-Customer: nope, I'm with my wife
-Customer Service Agent (CSA): When would you like to go?
-Customer:  August 27 & sept 6
-Customer Service Agent (CSA): There are no flights from Philadelphia.
-Customer: ok im gonna have to look elsewhere. thanks
-Customer Service Agent (CSA): Have a nice day!
-

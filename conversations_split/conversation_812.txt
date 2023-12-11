@@ -1,7 +1,0 @@
-Customer: can you help me book a flight? this is my first time using this service
-Customer Service Agent (CSA): Certainly! Can you being by telling me where you would like to go, where you are coming from, and what are your preferred travel dates?
-Customer: I hail from Fort Lauderdle. Would like to go anytime between sept 2 and 15. Am prepared to spend up to 2000
-Customer Service Agent (CSA): Sadly, we have no flights out of Fort Lauderdle. Is there another city you can fly from?
-Customer: what if i changed the dates. sept 2 and 23
-Customer Service Agent (CSA): Still no luck.
-

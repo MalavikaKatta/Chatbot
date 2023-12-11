@@ -1,6 +1,0 @@
-Customer: hi. paris to curitiba on september 24 please
-i can spend 2300 dollars and must be home by 27th
-Customer Service Agent (CSA): Traveling alone?
-Customer: yes
-Customer Service Agent (CSA): Sorry, there are no results showing for Paris and your return date. Are you able to change one of these?
-

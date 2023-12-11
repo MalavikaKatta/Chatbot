@@ -1,8 +1,0 @@
-Customer: Hi! I'd really like to try and book a trip for me and 3 of my friends for spring break.  I have a budget of $2100.
-Customer Service Agent (CSA): Fantastic! Where will you be leaving from?
-Customer: Caprica
-Customer Service Agent (CSA): What dates would you like to travel between?
-Customer: August 16th and August 19th
-Customer Service Agent (CSA): I'm sorry, we do not have Caprica within our database. Is there another nearby airport?
-Customer: No that is the only one unfortuneately.
-

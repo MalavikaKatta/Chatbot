@@ -1,8 +1,0 @@
-Customer: Hi, have you got any trips out of Jerusalem? I don’t have a destination to focus on yet I just want to ensure that you can find me trips leaving Jerusalem
-Customer Service Agent (CSA): May I have your dates of travel and number of people travelling please?
-Customer: No not right now. Just search flights from Jerusalem
-Customer Service Agent (CSA): With the limited information you have provided, I do not see any flight leaving Jerusalem. Sometimes, by changing the parameters of my search, I am able to find more information.
-Customer: Ok. Check Jerusalem August 25 departure
-Customer Service Agent (CSA): I still yield no results for flights out of Jerusalem. Can I check other cities of departure for you?
-Customer: No, thanks anyway
-

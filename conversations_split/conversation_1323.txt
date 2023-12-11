@@ -1,5 +1,0 @@
-Customer: I want to leave Jerusalem on or after September 6th
-Customer Service Agent (CSA): I'm afraid we do not have any flights operating out of Jerusalem. Would you like to leave from somewhere else?
-Customer: I can leave from Tel aviv and I want to go to San Jose with 7 adults for 2500
-Customer Service Agent (CSA): I'm afraid we do not operate flights out of Tel Aviv either. Would you like to leave from somewhere else?
-

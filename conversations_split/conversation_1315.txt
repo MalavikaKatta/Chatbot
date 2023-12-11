@@ -1,9 +1,0 @@
-Customer: I NEED TO GET OUT OF NORTH VANCOUVER ON SEPTEMBER 8TH. CAN I GET A FLIGHT TO DUBLIN?
-Customer Service Agent (CSA): Why yes of course! We have a 13 day package costing 1181.12 for economy class leaving North Vancouver on September 14th. How does that sound?
-Customer: NO I NEED TO LEAVE ON THE 8TH.
-Customer Service Agent (CSA): The earliest flight we have is September 11th. 
-Customer: NO I NEED TO LEAVE ON THE 8TH. DO YOU HAVE ANYTHING LEAVING FROM CLEVELAND
-Customer Service Agent (CSA): Again, our earliest flight is still September 11th. Would you like to leave from another city?
-Customer: NO BUT I CAN GO TO SACRAMENTO
-Customer Service Agent (CSA): I'm sorry, our earliest flight is still September 11th. How else can I help you?
-

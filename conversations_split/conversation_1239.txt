@@ -1,8 +1,0 @@
-Customer: I want to leave from Tel Aviv and go to Fortaleza for 2300 with 7 adults
-Customer Service Agent (CSA): I'm afraid we do not have any packages that leave from Tel Aviv. Would you like to leave from another city instead?
-Customer: I can leave from Kabul
-Customer Service Agent (CSA): I'm afraid we have no flights that leave from Kabul either. Is there another city that you would like to try?
-Customer: I can go to London from Kabul for 2400 and 3 adults
-Customer Service Agent (CSA): I'm afraid we do not have flights that leave from Kabul. Is there another city that you would like to try?
-Customer: nope
-

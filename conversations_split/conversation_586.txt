@@ -1,9 +1,0 @@
-Customer: Hello - looking to go to Sao Paulo and I’m leaving from Tofino
-Customer Service Agent (CSA): For how many travellers?
-Customer: 4 adults. August 26 until 29
-Price is flexible
-Customer Service Agent (CSA): I apologize but there are no packages in  Sao Paulo from Tofino at this time.
-Customer: Fine. Let’s change the start date to August 20
-and the end date to September 5
-Customer Service Agent (CSA): I do not have availability.
-

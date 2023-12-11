@@ -1,6 +1,0 @@
-Customer: Can you check if there are any flights from Curitiba to Pittsburgh departing on Sept 2?
-Customer Service Agent (CSA): You’re in luck! I have a package from Curitiba to Pittsburgh from September 2-9
-Customer: Would it be possible to do Sept 2 to 15?
-Customer Service Agent (CSA): Sorry, I only have return flights on the ninth for the September second departure.
-Customer: Okay I will get back to you, thanks
-

@@ -1,8 +1,0 @@
-Customer: buenos aires pls i go from mannheim
-Customer Service Agent (CSA): Will it just be you?
-Customer: yes
-Customer Service Agent (CSA): Do you have a budget in mind? And how long are you planning on going for?
-Customer: between september 24 and september 27 ok
-Customer Service Agent (CSA): I'm afraid I don't have anything for that short of a time. Are your dates flexible?
-Customer: no
-

@@ -1,5 +1,0 @@
-Customer: Hi there. I need flights from Beijing to Busan
-For 3 adults
-Customer Service Agent (CSA): Hello! I’m sorry to inform you we actually don’t service Beijing. Can I help you with something else?
-Customer: thanks!
-

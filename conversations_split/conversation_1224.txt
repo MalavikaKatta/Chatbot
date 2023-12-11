@@ -1,6 +1,0 @@
-Customer: Hi
-Customer Service Agent (CSA): Need help booking a trip?
-Customer: I run this start-up in Jerusalem. Do you fly out of there?
-Customer Service Agent (CSA): No,sorry we do not.
-Customer: Thanks anyway
-

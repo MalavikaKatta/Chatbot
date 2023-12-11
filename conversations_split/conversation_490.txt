@@ -1,9 +1,0 @@
-Customer: hey there I’m located in Madrid and I would like to explore my travel options to visit my family back in Sydney
-Customer Service Agent (CSA): Do you have a budget?
-Customer: Yes, 2700 dollars
-Customer Service Agent (CSA): We have 12 days for 2483.75USD, 9 days for 2214.41USD, at the lunar resort
-Customer: Nice! When at the dates for that?
-Customer Service Agent (CSA): September 5 to 15 and August 30 to September 6th
-Customer: I’m only off work between Sept 11-15 Can you find me something within those dates
-Customer Service Agent (CSA): I am sorry, I dont have anything available on those dates
-

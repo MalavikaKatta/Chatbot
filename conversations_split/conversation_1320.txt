@@ -1,5 +1,0 @@
-Customer: I would like to find a great package from Birmingham to Porto for 6 days.
-Customer Service Agent (CSA): We have no travel packages available from Birmingham to Porto Alegre
-Customer: How about to Naples instead?
-Customer Service Agent (CSA): Neither
-

@@ -1,5 +1,0 @@
-Customer: 1 ticket from San Francisco to Vitoria please!
-Customer Service Agent (CSA): Sure! Do you have dates?
-Customer: as soon as you can!
-Customer Service Agent (CSA): Do you have an alternate departure point? Sadly we do not offer San Francisco flights directly to Vitoria
-

@@ -1,7 +1,0 @@
-Customer: I don't care what you've been programmed to call yourself. Just get me from London to Cairo.
-Customer Service Agent (CSA): I will follow your directions to a tee. Please provide your dates, number of people travelling together, and your parameters in what you desire in a hotel - star, amenities, location etc., whether you would like to fly economy or business and the total length of your stay  :grinning:
-Customer: Whenever, by myself, 5 star hotel, all of the above, don't care, business, whatever. IN THAT ORDER
-Customer Service Agent (CSA): I will do my very best to help you with your request :grinning: I regret I do not have any flights from London to Cairo
-Customer: you regret it? they know how to program regret? get me to tokyo instead
-Customer Service Agent (CSA): Nothing to Tokyo either.
-

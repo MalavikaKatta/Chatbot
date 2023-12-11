@@ -1,9 +1,0 @@
-Customer: looking to go from mos eisley to kyoto on august 27
-Customer Service Agent (CSA): I can't seem to find any flights from Mos Eisley to Kyoto. Would you be able to leave from another destination?
-Customer: ok lets leave from sacramento
-Customer Service Agent (CSA): You're in luck! I can book you at the Quiet Garden Resort from August 27th to September 2nd. Would you like me to book this package?
-Customer: that works great! book book book !
-Customer Service Agent (CSA): Booked!
-Customer: thanks 
-Customer Service Agent (CSA): Thank you for using our service!
-

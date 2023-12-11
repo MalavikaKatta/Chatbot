@@ -1,8 +1,0 @@
-Customer: Hey I'd like to take my wife and five kids somewhere nice, just wanted to do some research We would be leaving from San Jose, and were looking into some places
-Do you have anything between there and Queenstown between Sept 1-16?
-Customer Service Agent (CSA): Hi. I regret to inform you that flights from San Jose to Queenstown are not provided with your packages.
-Customer: How about Punta Cana
-Customer Service Agent (CSA): Flights to Punta Cana are not provided either. Any other places I can look up for you?
-Customer: Frankfurt
-Customer Service Agent (CSA): Frankfurt is also not a destination we serve from San Jose.
-

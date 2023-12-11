@@ -1,6 +1,0 @@
-Customer: One ticket from Atlanta to Tofino please
-Customer Service Agent (CSA): Sorry, I have nothing available for that destination. Is there somewhere else I could look into for you?
-Customer: please try Atlanta to Santo Domingo please
-Customer Service Agent (CSA): I can book you from Punta Cana to Santo Domingo?
-Customer: no can do
-

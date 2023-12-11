@@ -1,9 +1,0 @@
-Customer: Get me to Milan like I said. I need a flight departing Aug 26 from Kingston
-
-Customer Service Agent (CSA): How can I be of assistance?
-Customer: KINGSTON TO MILAN
-Customer Service Agent (CSA): Do you have a departure date?
-Customer: August 26 HOW MANY TIMES DO I HAVE TO REPEAT MYSELF?? 
-Customer Service Agent (CSA): I do not have flights to Milan from Kingston. Can I be of further assistance?
-Customer: No You can not
-

@@ -1,7 +1,0 @@
-Customer: Hi there, my team and I are thinking of going to Monterrey please.
-Customer Service Agent (CSA): Ok! From where?
-Customer: We all work together in Kabul.
-Customer Service Agent (CSA): I’m sorry, but we do not have any trips out of Kabul.
-Customer: Oh really? That's too bad. I guess we'll have to look elsewhere then. Thank you for your services.
-Customer Service Agent (CSA): Yes, sorry I could not be of more service.
-

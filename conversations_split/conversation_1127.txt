@@ -1,6 +1,0 @@
-Customer: I want to go to Miami from Beijing  between september 6th and 9th for 3500 and 5 adults altogether. The only thing I am flexible with is the price, if i need to I can increase it by 200
-Customer Service Agent (CSA): I have nothing available from Miami to Beijing
-Customer: Well IF I make my dates flexible are there any results?
-Customer Service Agent (CSA): From Beijing to Miami, even if I make the dates flexible, I get no results, which means we just don't have any packages to that destination from that destination
-Customer: Okay, well thanks anyway.
-

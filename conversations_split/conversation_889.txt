@@ -1,4 +1,0 @@
-Customer: Do you have trips out of Tel Aviv?
-Customer Service Agent (CSA): Unfortunately no. Are you able to depart from elsewhere?
-Customer: I can’t!!!
-

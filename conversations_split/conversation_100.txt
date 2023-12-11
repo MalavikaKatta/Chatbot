@@ -1,8 +1,0 @@
-Customer: Hi im in the middle of travelling  and i want to go to Porto!
-Customer Service Agent (CSA): Sure thing! What city will you be departing from?
-Customer: i can leave from Minneapolis
-Customer Service Agent (CSA): I you leave from Minneapolis on the 17th of August I can book you 11 days in the four-star Golden Keep. The total cost of this package is 2362.21USD. Would you like me to book this package?
-Customer: Let’s book it!
-Customer Service Agent (CSA): Done! Enjoy!
-Customer: thank you!
-

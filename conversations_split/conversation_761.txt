@@ -1,9 +1,0 @@
-Customer: sept 12 to 22. toluca to naples
-Customer Service Agent (CSA): Size of your party please
-Customer: i'll be alone
-Customer Service Agent (CSA): Are your dates flexible?
-Customer: slightly. but there's nothing for the dates I gave?
-Customer Service Agent (CSA): no there is not
-Customer: then try sep 8 to 23
-Customer Service Agent (CSA): I cannot accommodate those dates either. It is most liekly we do not fly from Toluca to Naples, can we try different cities?
-

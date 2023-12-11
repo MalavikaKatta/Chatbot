@@ -1,8 +1,0 @@
-Customer: Hello! I recently won the internship lottery to Kobe where I will work for free! I'll be leaving from Alexandria. What can you offer?
-Customer Service Agent (CSA): I do not have any flights from Alexandria to Kobe.
-Customer: Do you have any flights from Alexandria to Berlin??
-Customer Service Agent (CSA): I do not.
-Customer: What about Alexandria to Salvador?
-Customer Service Agent (CSA): Unfortunately those are not available either. I wish I could be of further assistance.
-Customer: That is really too bad. Thank you for your help.
-

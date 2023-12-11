@@ -1,6 +1,0 @@
-Customer: Hi there. Could you please get me from Cleveland to Manaus?
-Customer Service Agent (CSA): Yes! When would you like to go?
-Customer: Between September 6 and 13 please
-Customer Service Agent (CSA): Unfortunately we have nothing that works within that timeframe. Are your dates flexible?
-Customer: They aren’t really
-

@@ -1,5 +1,0 @@
-Customer: Hey there! The 17 of us wants to get out of Tel Aviv for a sweet trip.
-Customer Service Agent (CSA): I’m sorry, we do not currently offer trips out of Tel Aviv.
-Customer: I can pay as much as needed!
-Customer Service Agent (CSA): I’m sorry -We do not have operations involving Tel Aviv.
-
